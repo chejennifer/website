@@ -267,8 +267,12 @@ class ChartBlock extends React.Component<ChartBlockPropType, unknown> {
       if (
         !!this.props.data.isChoropleth &&
         !_.isEmpty(this.props.geoJsonData) &&
+<<<<<<< HEAD
         !_.isEmpty(this.props.choroplethData) &&
         this.props.dcid !== "geoId/72"
+=======
+        !_.isEmpty(this.props.choroplethData)
+>>>>>>> master
       ) {
         const id = randDomId();
         const sv = !_.isEmpty(this.props.data.statsVars)
