@@ -18,6 +18,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 import time
+import webdriver_tests.shared as shared
 
 TIMELINE_URL = '/tools/timeline'
 URL_HASH_1 = '#&statsVar=Median_Age_Person__Median_Income_Person__Count_Person_Upto5Years'\
@@ -102,11 +103,7 @@ class TestCharts(WebdriverBaseTest):
         self.assertEqual(len(chart_lines), 2)
 
         # Click on Demographics link to expand it.
-        hierarchy = self.driver.find_element_by_xpath(
-            '//*[@id="hierarchy-section"]')
-        demographics_button = hierarchy.find_elements_by_class_name(
-            'Collapsible')[0]
-        demographics_button.click()
+        shared.click_sv_group(self.driver, "Demographics")
 
         element_present = EC.text_to_be_present_in_element(
             (By.ID, 'hierarchy-section'), "Median Age")
@@ -140,11 +137,7 @@ class TestCharts(WebdriverBaseTest):
         self.assertEqual(len(charts), 0)
 
         # Explore the menu and check the population box.
-        hierarchy = self.driver.find_element_by_xpath(
-            '//*[@id="hierarchy-section"]')
-        demographics_button = hierarchy.find_elements_by_class_name(
-            'Collapsible')[0]
-        demographics_button.click()
+        shared.click_sv_group(self.driver, "Demographics")
 
         # Wait until population checkbox is present and click on it.
         element_present = EC.text_to_be_present_in_element(
