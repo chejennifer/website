@@ -46,7 +46,7 @@ export function UploadPage(props: UploadPageProps): JSX.Element {
   const [firstDataRowInput, setFirstDataRowInput] = useState(
     DEFAULT_FIRST_DATA_ROW
   );
-  const [lastDataRowInput, setLastDataRowInput] = useState(undefined);
+  const [lastDataRowInput, setLastDataRowInput] = useState(null);
 
   return (
     <>
@@ -210,13 +210,13 @@ export function UploadPage(props: UploadPageProps): JSX.Element {
     lastDataRow?: number
   ): void {
     const csv = {
-      orderedColumns: [],
       columnValuesSampled: new Map(),
-      rowsForDisplay: new Map(),
-      rawCsvFile: file,
-      headerRow,
       firstDataRow,
+      headerRow,
       lastDataRow,
+      orderedColumns: [],
+      rawCsvFile: file,
+      rowsForDisplay: new Map(),
     };
     // key is column idx
     const sampleColumnValues: Map<number, Set<string>> = new Map();

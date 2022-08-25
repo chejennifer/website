@@ -93,12 +93,6 @@ table {
   overflow: auto;
   width: fit-content;
 }
-
-tr th {
-  height: 2rem;
-  vertical-align: center;
-}
-
 table,
 th,
 td {
@@ -116,6 +110,12 @@ td {
   padding: 0.2rem 0.5rem;
   text-align: center;
 }
+
+tr th {
+  height: 2rem;
+  vertical-align: center;
+}
+
 
 tr:last-child td {
   border-bottom: none;
