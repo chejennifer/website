@@ -19,6 +19,7 @@
  */
 
 import axios from "axios";
+import _ from "lodash";
 import React, { Component } from "react";
 import { Button } from "reactstrap";
 
@@ -172,13 +173,17 @@ class Page extends Component<unknown, PageStateType> {
    */
   private fetchSources(): void {
     axios
-      .get("/api/browser/propvals/typeOf/Source")
+      .post("/api/property-values", {
+        prop: "typeOf",
+        dcids: ["Source"],
+        direction: "in",
+      })
       .then((resp) => {
         const sourcePromises = [];
-        if (!resp.data.values.in) {
+        if (_.isEmpty(resp.data["Source"])) {
           return;
         }
-        for (const source of resp.data.values.in) {
+        for (const source of resp.data["Source"]) {
           const url = SVG_URL_PREFIX + source.dcid;
           sourcePromises.push(axios.get(url).then((resp) => resp));
         }
@@ -200,13 +205,16 @@ class Page extends Component<unknown, PageStateType> {
             return;
           }
           axios
-            .get(`/api/stats/propvals/name/${sourceDcids.join("^")}`)
+            .post("/api/property-values", {
+              prop: "name",
+              dcids: sourceDcids,
+            })
             .then((resp) => {
               const sources = [];
               for (const dcid in resp.data) {
                 sources.push({
                   dcid,
-                  name: resp.data[dcid][0],
+                  name: !_.isEmpty(resp.data[dcid]) ? resp.data[dcid][0] : dcid,
                 });
               }
               this.setState({ sources });
@@ -234,14 +242,18 @@ class Page extends Component<unknown, PageStateType> {
       return;
     }
     axios
-      .get(`/api/browser/propvals/isPartOf/${source}`)
+      .post("/api/property-values", {
+        prop: "isPartOf",
+        dcids: [source],
+        direction: "in",
+      })
       .then((resp) => {
         const currentDatasets = [];
         const datasetSet = new Set();
-        if (!resp.data.values.in) {
+        if (_.isEmpty(resp.data[source])) {
           return;
         }
-        for (const dataset of resp.data.values.in) {
+        for (const dataset of resp.data[source]) {
           // Remove duplicates.
           if (datasetSet.has(dataset.dcid)) {
             continue;
@@ -260,9 +272,14 @@ class Page extends Component<unknown, PageStateType> {
           dcid = dataset;
         }
         axios
-          .get(`/api/stats/propvals/name/${dcid}`)
+          .post("/api/property-values", {
+            prop: "name",
+            dcids: [dcid],
+          })
           .then((resp) => {
-            const name = resp.data[dcid][0];
+            const name = !_.isEmpty(resp.data[dcid])
+              ? resp.data[dcid][0]
+              : dcid;
             this.setState({
               dataset,
               datasets: currentDatasets,
@@ -309,10 +326,16 @@ class Page extends Component<unknown, PageStateType> {
       return;
     }
     const descriptionPromise = axios
-      .get(`/api/stats/propvals/description/${sv}`)
+      .post("/api/property-values", {
+        prop: "description",
+        dcids: [sv],
+      })
       .then((resp) => resp.data);
     const displayNamePromise = axios
-      .get(`/api/stats/propvals/name/${sv}`)
+      .post("/api/property-values", {
+        prop: "name",
+        dcids: [sv],
+      })
       .then((resp) => resp.data);
     const summaryPromise = axios
       .post("/api/stats/stat-var-summary", { statVars: [sv] })
@@ -327,7 +350,10 @@ class Page extends Component<unknown, PageStateType> {
           return;
         }
         axios
-          .get(`/api/stats/propvals/url/${provIds.join("^")}`)
+          .post("/api/property-values", {
+            prop: "url",
+            dcids: provIds,
+          })
           .then((resp) => {
             this.setState({
               description:

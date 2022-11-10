@@ -1,0 +1,226 @@
+/**
+ * Copyright 2022 Google LLC
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+ @import "base";
+
+.legend-entry {
+  display: flex;
+  align-items: center;
+  padding: 0 0.5rem;
+}
+
+.legend-color {
+  width: 1rem;
+  height: 1rem;
+  margin-right: 0.25rem;
+}
+
+.all-disasters-legend {
+  display: flex;
+  padding: 1rem;
+}
+
+.disaster-tab-section {
+  display: flex;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+}
+
+.disaster-tab,
+.disaster-tab-selected {
+  width: 30vw;
+  text-align: center;
+  padding: 1rem 0;
+  cursor: pointer;
+}
+
+.disaster-tab-selected,
+.disaster-tab:hover {
+  border-bottom: 1px solid var(--dc-primary);
+  color: var(--dc-primary)
+}
+
+#main-disaster-dashboard {
+  margin: 0;
+  padding: 2rem;
+}
+
+.date-selector-section {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  margin-top: 1rem;
+}
+
+#date-selector {
+  width: 12rem;
+  margin-left: 0.5rem;
+}
+
+.disaster-dashboard-map-section {
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  position: relative;
+  flex-grow: 1;
+  min-width: 25rem;
+  border-radius: 0.5rem;
+  margin-top: 1rem;
+}
+
+.zoom-button-section {
+  width: fit-content;
+  position: absolute;
+  top: 0;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  margin: 1rem;
+  z-index: 2;
+}
+
+.content-container {
+  display: flex;
+  flex-wrap: wrap-reverse;
+  position: relative;
+}
+
+.ranking-section {
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  padding: 1rem;
+  margin-right: 1rem;
+  border-radius: 0.5rem;
+  margin-top: 1rem;
+}
+
+#info-card {
+  position: absolute;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  background-color: white;
+  max-width: 15rem;
+  max-height: 15rem;
+  overflow-y: auto;
+}
+
+.dot:focus {
+  outline: none;
+}
+
+.selectors-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-left: 0.5rem;
+}
+
+.breadcrumb-section,
+.breadcrumb-entry,
+.breadcrumb-entry-selected {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  cursor: default;
+}
+
+.breadcrumb-entry-selected {
+  color: var(--dc-primary);
+}
+
+.breadcrumb-entry:hover {
+  color: var(--dc-primary);
+}
+
+.breadcrumb-section {
+  margin-top: 1rem;
+}
+
+.zoom-button {
+  cursor: pointer;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  padding: 0.1rem;
+  display: flex;
+  width: fit-content;
+  background-color: white;
+}
+
+.zoom-button:hover {
+  background-color: var(--dc-gray-lite);
+}
+
+.info-card-content {
+  padding: 0.5rem;
+  word-break: break-word;
+  font-size: 0.9rem;
+}
+
+.info-card-header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+}
+
+.info-card-title {
+  font-weight: 500;
+}
+
+.info-card-info-section {
+  display: flex;
+  flex-direction: column;
+}
+
+.info-card-header i {
+  margin-left: 0.5rem;
+  cursor: default;
+}
+
+path.region-highlighted,
+path.region-highlighted-no-click {
+  cursor: default;
+}
+
+path.region-highlighted {
+  stroke: var(--dark);
+  stroke-width: 2px;
+}
+
+.dot {
+  stroke: white;
+  stroke-width: 0.3px;
+}
+
+.dot:hover,
+.dot:focus {
+  stroke: black;
+  stroke-width: 2px;
+}
+
+.disaster-dashboard-map-section .error-message {
+  margin: 1rem;
+}
+
+.ranking-unit,
+.ranking-unit-selected,
+.ranking-unit-no-selection {
+  padding-top: 1rem;
+  cursor: default;
+}
+
+.ranking-unit-selected,
+.ranking-unit:hover {
+  color: var(--dc-primary);
+}
+
+.ranking-unit-title {
+  font-weight: 500;
+}
+
