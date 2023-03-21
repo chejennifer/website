@@ -35,6 +35,7 @@ import server.routes.api.place as place_api
 from server.routes.api.shared import is_float
 import server.routes.api.shared as shared_api
 import server.services.datacommons as dc
+import os
 
 # Define blueprint
 bp = Blueprint("choropleth", __name__, url_prefix='/api/choropleth')
@@ -195,6 +196,81 @@ def get_geojson_feature(geo_id: str, geo_name: str, json_text: List[str]):
   else:
     geo_feature = None
   return geo_feature
+
+
+@bp.route('/generate_geojson')
+def generate_geojson():
+  """Generates GeoJson file for a placeDcid, placeType and dpLevel and saves it
+  in server/config/geojson/<placeDcid>_<placeType>_dp<dpLevel>.json
+
+  The saved GeoJson object is a feature collection where the geometry of the
+  features do not follow the right hand rule.
+
+  To use this endpoint, need to have an mcf of geojsons for places of interest
+  simplified to the dpLevel of interest, save it in server/routes/api/data, and
+  update the path used in places_mcf_path (line ).
+  See server/routes/api/data/earthCountriesDp13 as an example.
+
+  To generate mcf of simplified geojsons:
+    - for countries, use https://github.com/datacommonsorg/data/blob/master/scripts/world_bank/boundaries/country_boundaries_mcf_generator.py
+    - for other places, can try to adapt the code used for countries
+  """
+  place_dcid = request.args.get("placeDcid")
+  if not place_dcid:
+    return Response(json.dumps("error: must provide a placeDcid field"),
+                    400,
+                    mimetype='application/json')
+  place_type = request.args.get("placeType")
+  if not place_type:
+    return Response(json.dumps("error: must provide a placeType field"),
+                    400,
+                    mimetype='application/json')
+  dp_level = request.args.get('dpLevel')
+  if not dp_level:
+    return Response(json.dumps("error: must provide a dpLevel field"),
+                    400,
+                    mimetype='application/json')
+  geos = []
+  if place_dcid and place_type:
+    geos = dc.get_places_in([place_dcid], place_type).get(place_dcid, [])
+  if not geos:
+    return Response("Success", 200)
+  geos_set = set(geos)
+  places_mcf_path = os.path.join( os.path.dirname(__file__), f'data/earthCountriesDp{dp_level}.mcf')
+  with open(places_mcf_path, "r") as mcf:
+    geo_id_to_geojson = {}
+    curr_geo = ""
+    curr_geojson = ""
+    for line in mcf:
+      if line.startswith("Node"):
+        if curr_geo and curr_geojson and curr_geo in geos_set:
+          geo_id_to_geojson[curr_geo] = curr_geojson
+        curr_geo = line[len("Node: dcid:"):].replace("\n", "")
+        curr_geojson = ""
+      if line.startswith(f'geoJsonCoordinatesDP{dp_level}'):
+        curr_geojson = line[len(f'geoJsonCoordinatesDP{dp_level}: '):].replace("\n", "")
+    if curr_geo and curr_geojson and curr_geo in geos_set:
+      geo_id_to_geojson[curr_geo] = curr_geojson
+    names_by_geo = place_api.get_display_name('^'.join(geo_id_to_geojson.keys()), g.locale)
+    features = []
+    for geo_id, json_text in geo_id_to_geojson.items():
+      if json_text and geo_id in names_by_geo:
+        geo_name = names_by_geo.get(geo_id, "Unnamed Area")
+        geo_feature = get_geojson_feature(geo_id, geo_name, [json.loads(json_text)])
+        if geo_feature:
+          features.append(geo_feature)
+    result = {
+      "type": "FeatureCollection",
+      "features": features,
+      "properties": {
+          "current_geo": "Earth"
+      }
+    }
+    cached_geojson_filename = f'{place_dcid.lower()}_{place_type.lower()}_dp{dp_level}.json'
+    cached_geojson_path = os.path.join( os.path.dirname(__file__), f'../../config/geojson/{cached_geojson_filename}')
+  with open(cached_geojson_path, "w") as geojson_dest:
+    geojson_dest.write(json.dumps(result))
+  return Response(f'geojson file generated in {cached_geojson_path}', 200)
 
 
 @bp.route('/geojson')
