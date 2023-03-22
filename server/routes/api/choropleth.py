@@ -208,7 +208,7 @@ def generate_geojson():
 
   To use this endpoint, need to have an mcf of geojsons for places of interest
   simplified to the dpLevel of interest, save it in server/routes/api/data, and
-  update the path used in places_mcf_path (line ).
+  update the path used in places_mcf_path (line 239).
   See server/routes/api/data/earthCountriesDp13 as an example.
 
   To generate mcf of simplified geojsons:
