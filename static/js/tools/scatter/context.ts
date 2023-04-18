@@ -25,6 +25,11 @@ import { NamedPlace, NamedTypedPlace } from "../../shared/types";
 import { Setter } from "../../shared/util";
 import { ScatterChartType } from "./util";
 
+type PointScaleState = "linear" | "log" | "";
+const SHOW_POPULATION_LINEAR: PointScaleState = "linear";
+const SHOW_POPULATION_LOG: PointScaleState = "log";
+const SHOW_POPULATION_OFF: PointScaleState = "";
+
 interface Axis {
   // Additional info about the StatVar to plot for this axis
   statVarInfo: StatVarInfo;
@@ -112,6 +117,8 @@ interface DisplayOptionsWrapper {
   showLabels: boolean;
   chartType: ScatterChartType;
   showDensity: boolean;
+  showPopulation: PointScaleState;
+  showPopulationX: boolean;
   showRegression: boolean;
 
   // Setters
@@ -119,6 +126,8 @@ interface DisplayOptionsWrapper {
   setLabels: Setter<boolean>;
   setChartType: Setter<ScatterChartType>;
   setDensity: Setter<boolean>;
+  setPopulation: Setter<PointScaleState>;
+  setPopulationX: Setter<boolean>;
   setRegression: Setter<boolean>;
 }
 
@@ -173,6 +182,8 @@ const FieldToAbbreviation = {
   showLabels: "ld",
   chartType: "ct",
   showDensity: "dd",
+  showPopulation: "pp",
+  showPopulationX: "px",
   showRegression: "rg",
 };
 
@@ -186,6 +197,8 @@ function useContextStore(): ContextType {
   const [showQuadrants, setQuadrants] = useState(false);
   const [showLabels, setLabels] = useState(false);
   const [showDensity, setDensity] = useState(false);
+  const [showPopulation, setPopulation] = useState(SHOW_POPULATION_OFF);
+  const [showPopulationX, setPopulationX] = useState(false);
   const [arePlacesLoading, setArePlacesLoading] = useState(false);
   const [areStatVarsLoading, setAreStatVarsLoading] = useState(false);
   const [areDataLoading, setAreDataLoading] = useState(false);
@@ -227,24 +240,28 @@ function useContextStore(): ContextType {
       setParentPlaces: (parentPlaces) => setPlace({ ...place, parentPlaces }),
     },
     display: {
-      showQuadrants: showQuadrants,
+      showQuadrants,
       setQuadrants: (showQuadrants) => setQuadrants(showQuadrants),
-      showLabels: showLabels,
+      showLabels,
       setLabels: (showLabels) => setLabels(showLabels),
-      chartType: chartType,
+      chartType,
       setChartType: (chartType) => setChartType(chartType),
-      showDensity: showDensity,
+      showDensity,
       setDensity: (showDensity) => setDensity(showDensity),
-      showRegression: showRegression,
+      showPopulation,
+      setPopulation: (showPopulation) => setPopulation(showPopulation),
+      showPopulationX,
+      setPopulationX: (showPopulationX) => setPopulationX(showPopulationX),
+      showRegression,
       setRegression: (showRegression) => setRegression(showRegression),
     },
     isLoading: {
-      arePlacesLoading: arePlacesLoading,
-      areStatVarsLoading: areStatVarsLoading,
-      areDataLoading: areDataLoading,
-      setArePlacesLoading: setArePlacesLoading,
-      setAreStatVarsLoading: setAreStatVarsLoading,
-      setAreDataLoading: setAreDataLoading,
+      areDataLoading,
+      arePlacesLoading,
+      areStatVarsLoading,
+      setAreDataLoading,
+      setArePlacesLoading,
+      setAreStatVarsLoading,
     },
   };
 }
@@ -418,5 +435,9 @@ export {
   IsLoadingWrapper,
   PlaceInfo,
   PlaceInfoWrapper,
+  PointScaleState,
+  SHOW_POPULATION_LINEAR,
+  SHOW_POPULATION_LOG,
+  SHOW_POPULATION_OFF,
   useContextStore,
 };

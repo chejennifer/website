@@ -223,6 +223,8 @@ function plot(
     yLog: props.yLog,
     showQuadrants: props.display.showQuadrants,
     showDensity: props.display.showDensity,
+    showPopulation: props.display.showPopulation,
+    showPopulationX: props.display.showPopulationX,
     showLabels: props.display.showLabels,
     showRegression: props.display.showRegression,
     highlightPoints: [],

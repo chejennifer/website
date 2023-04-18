@@ -25,6 +25,7 @@ import ReactDOM from "react-dom";
 import { ChartQuadrant } from "../constants/scatter_chart_constants";
 import { formatNumber } from "../i18n/i18n";
 import { NamedPlace } from "../shared/types";
+import { SHOW_POPULATION_LOG } from "../tools/scatter/context";
 import { wrap } from "./base";
 
 /**
@@ -56,6 +57,8 @@ const DENSITY_LEGEND_TEXT_HEIGHT = 15;
 const DENSITY_LEGEND_TEXT_PADDING = 5;
 const DENSITY_LEGEND_IMAGE_WIDTH = 10;
 const DENSITY_LEGEND_WIDTH = 75;
+const DEFAULT_MAX_POINT_SIZE = 20;
+const DEFAULT_POINT_SIZE = 3.5;
 const R_LINE_LABEL_MARGIN = 3;
 const TOOLTIP_OFFSET = 5;
 // When using log scale, can't have zero, so use this value in place of 0. This
@@ -359,6 +362,23 @@ function addDensityLegend(
 }
 
 /**
+ * Calculates scatter plot point size using the specified axis and scale
+ * @param point
+ * @param showPopulationX
+ * @param pointSizeScale
+ */
+function calculatePointSize(
+  point: Point,
+  showPopulationX: boolean,
+  pointSizeScale: ScatterScale
+): number {
+  const pointSize = showPopulationX
+    ? pointSizeScale(point.xPop)
+    : pointSizeScale(point.yPop);
+  return pointSize || DEFAULT_POINT_SIZE;
+}
+
+/**
  * Adds visualization of density of points in each area
  * @param svg svg with the chart to show density for
  * @param dots the dot elements to color according to density of the area
@@ -368,6 +388,8 @@ function addDensityLegend(
  * @param chartWidth the width of the chart area
  * @param chartHeight the height of the chart area
  * @param marginTop margin between top of the chart area and the top of the container
+ * @param showPopulationX factor population into density calculation
+ * @param pointSizeScale d3 scale for
  */
 function addDensity(
   svg: d3.Selection<SVGElement, any, any, any>,
@@ -377,13 +399,20 @@ function addDensity(
   dataPoints: Array<Point>,
   chartWidth: number,
   chartHeight: number,
-  marginTop: number
+  marginTop: number,
+  showPopulationX: boolean,
+  pointSizeScale?: ScatterScale
 ): void {
   // Generate the multipolygons (contours) to group the dots into areas of
   // varying densities (number of dots per pixel)
   const contours = d3
     .contourDensity<Point>()
     .size([chartWidth, chartHeight])
+    .weight((p) =>
+      pointSizeScale
+        ? calculatePointSize(p, showPopulationX, pointSizeScale)
+        : 1
+    )
     .x((d) => {
       return xScale(d.xVal);
     })
@@ -420,6 +449,45 @@ function addDensity(
       return densityColorScale(contours.length);
     })
     .attr("stroke-width", 0);
+}
+
+/**
+ * Gets a d3 scale to size a list of points based on population
+ * @param points
+ * @param showPopulationX
+ * @param logScale
+ */
+function getPointSizeScale(
+  points: { [placeDcid: string]: Point },
+  showPopulationX: boolean,
+  logScale: boolean
+): ScatterScale {
+  const populationValues = Object.values(points).map((point) =>
+    showPopulationX ? point.xPop : point.yPop
+  );
+  const populationMin = Math.min(...populationValues);
+  const populationMax = Math.max(...populationValues);
+  const pointSizeScale = logScale ? d3.scaleLog() : d3.scaleLinear();
+  pointSizeScale
+    .domain([populationMin, populationMax])
+    .range([DEFAULT_POINT_SIZE, DEFAULT_MAX_POINT_SIZE]);
+  return pointSizeScale;
+}
+
+/**
+ * Sizes points by population using a linear or log scale
+ * @param dots
+ * @param showPopulationX
+ * @param pointSizeScale
+ */
+function addSizeByPopulation(
+  dots: d3.Selection<SVGCircleElement, Point, SVGGElement, unknown>,
+  showPopulationX: boolean,
+  pointSizeScale: ScatterScale
+): void {
+  dots.attr("r", (point) =>
+    calculatePointSize(point, showPopulationX, pointSizeScale)
+  );
 }
 
 /**
@@ -715,6 +783,8 @@ export interface ScatterPlotOptions {
   yLog: boolean;
   showQuadrants: boolean;
   showDensity: boolean;
+  showPopulation: string;
+  showPopulationX: boolean;
   showLabels: boolean;
   showRegression: boolean;
   highlightPoints: ChartQuadrant[];
@@ -830,12 +900,19 @@ export function drawScatter(
     .data(Object.values(points))
     .enter()
     .append("circle")
-    .attr("r", 5)
     .attr("cx", (point) => xScale(point.xVal))
     .attr("cy", (point) => yScale(point.yVal))
     .attr("stroke", "rgb(147, 0, 0)")
     .style("opacity", "0.7")
     .on("click", (point: Point) => redirectAction(point.place.dcid));
+
+  const pointSizeScale = options.showPopulation
+    ? getPointSizeScale(
+        points,
+        options.showPopulationX,
+        options.showPopulation === SHOW_POPULATION_LOG
+      )
+    : null;
 
   if (options.showDensity) {
     addDensity(
@@ -846,13 +923,21 @@ export function drawScatter(
       Object.values(points),
       width,
       height,
-      MARGINS.top
+      MARGINS.top,
+      options.showPopulationX,
+      pointSizeScale
     );
   } else {
     dots
       .attr("class", "scatter-dot")
       .attr("fill", DEFAULT_FILL)
       .attr("stroke-width", STROKE_WIDTH);
+  }
+
+  if (options.showPopulation) {
+    addSizeByPopulation(dots, options.showPopulationX, pointSizeScale);
+  } else {
+    dots.attr("r", DEFAULT_POINT_SIZE);
   }
 
   if (options.showLabels) {
