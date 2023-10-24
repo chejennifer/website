@@ -15,6 +15,7 @@
 from dataclasses import dataclass
 import logging
 import os
+import fsspec
 from typing import Dict, List, Union
 
 from datasets import load_dataset
@@ -59,6 +60,8 @@ class Embeddings:
 
     logging.info('Loading embeddings file')
     try:
+      print("FS SPEC VERSION")
+      print(fsspec.__version__)
       ds = load_dataset('csv', data_files=embeddings_path)
     except:
       error_str = "No embedding could be loaded."
