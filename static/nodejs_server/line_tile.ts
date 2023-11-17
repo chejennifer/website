@@ -73,6 +73,9 @@ function getLineChartSvg(
  * @param place place to show the tile for
  * @param statVarSpec list of stat var specs to show in the tile
  * @param apiRoot API root to use to fetch data
+ * @param urlRoot url root for building the chartUrl
+ * @param useChartUrl whether to return chartUrl or svg
+ * @param singleDate single date that is specified in the query
  */
 export async function getLineTileResult(
   id: string,
@@ -81,7 +84,8 @@ export async function getLineTileResult(
   statVarSpec: StatVarSpec[],
   apiRoot: string,
   urlRoot: string,
-  useChartUrl: boolean
+  useChartUrl: boolean,
+  singleDate?: string
 ): Promise<TileResult> {
   const tileProp = getTileProp(id, tileConfig, place, statVarSpec, apiRoot);
   try {
@@ -97,15 +101,21 @@ export async function getLineTileResult(
     // If it is a single line chart, add highlight information.
     if (chartData.dataGroup && chartData.dataGroup.length === 1) {
       const dataPoints = _.cloneDeep(chartData.dataGroup[0].value);
-      if (!_.isEmpty(dataPoints)) {
+      let highlightPoint = null;
+      if (!_.isEmpty(dataPoints) && singleDate) {
+        highlightPoint = dataPoints.find((point) => point.label === singleDate);
+      } else if (!_.isEmpty(dataPoints)) {
         dataPoints.sort((a, b) => {
           const fieldToCompare =
             a.time && b.time ? "time" : a.date && b.date ? "date" : "label";
           return a[fieldToCompare] > b[fieldToCompare] ? -1 : 1;
         });
+        highlightPoint = dataPoints[0];
+      }
+      if (highlightPoint) {
         result.highlight = {
-          date: dataPoints[0].label,
-          value: dataPoints[0].value,
+          date: highlightPoint.label,
+          value: highlightPoint.value,
         };
       }
     }

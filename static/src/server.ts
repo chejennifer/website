@@ -105,6 +105,13 @@ const BARD_ALLOWED_CHARTS = new Set(["LINE", "BAR", "RANKING"]);
 // The root to use to form the dc link in the tile results
 // TODO: update this to use bard.datacommons.org
 const DC_URL_ROOT = "https://datacommons.org/explore#q=";
+// Constants used for parsing date classification
+const NONE_DATE_CLASSIFICATION = "<None>";
+const IS_SINGLE_DATE_PREFIX = "is_single_date=";
+const IS_SINGLE_DATE_TRUE = "True";
+const YEAR_PREFIX = "year=";
+const MONTH_PREFIX = "month=";
+const EMPTY_MONTH_VALUE = "0";
 
 const dom = new JSDOM(
   `<html><body><div id="dom-id" style="width:500px"></div></body></html>`,
@@ -174,6 +181,30 @@ function getTextLength(text: string): number {
   };
 };
 
+// Gets a single date from a date classification if there is one
+function getSingleDate(dateClassification: string): string {
+  let singleDate = "";
+  if (!dateClassification || dateClassification === NONE_DATE_CLASSIFICATION) {
+    return singleDate;
+  }
+  const isSingleDate = dateClassification
+    .match(/is_single_date=(True|False)/)
+    ?.shift();
+  if (
+    isSingleDate &&
+    isSingleDate.substring(IS_SINGLE_DATE_PREFIX.length) === IS_SINGLE_DATE_TRUE
+  ) {
+    const yearPart = dateClassification.match(/year=\d\d\d\d/)?.shift();
+    singleDate += yearPart ? yearPart.substring(YEAR_PREFIX.length) : "";
+    const monthPart = dateClassification.match(/month=\d\d?/)?.shift();
+    const month = monthPart ? monthPart.substring(MONTH_PREFIX.length) : "";
+    if (month && month !== EMPTY_MONTH_VALUE) {
+      singleDate += `-${Number(month) > 9 ? month : "0" + month}`;
+    }
+  }
+  return singleDate;
+}
+
 // Gets a promise for a single tile result
 function getTileResult(
   id: string,
@@ -240,7 +271,8 @@ function getBlockTileResults(
   svSpec: Record<string, StatVarSpec>,
   urlRoot: string,
   useChartUrl: boolean,
-  allowedTilesTypes?: Set<string>
+  allowedTilesTypes?: Set<string>,
+  singleDate?: string
 ): Promise<TileResult[] | TileResult>[] {
   const tilePromises = [];
   block.columns.forEach((column, colIdx) => {
@@ -261,7 +293,8 @@ function getBlockTileResults(
               tileSvSpec,
               CONFIG.apiRoot,
               urlRoot,
-              useChartUrl
+              useChartUrl,
+              singleDate
             )
           );
           break;
@@ -516,6 +549,9 @@ app.get("/nodejs/query", (req: Request, res: Response) => {
       // Get a list of tile result promises
       const tilePromises: Array<Promise<TileResult[] | TileResult>> = [];
       const categories = config["categories"] || [];
+      const dateClassification: string =
+        resp.data["debug"]["date_classification"] || "";
+      const singleDate = getSingleDate(dateClassification);
       categories.forEach((category, catIdx) => {
         if (!allResults && tilePromises.length >= QUERY_MAX_RESULTS) {
           return;
@@ -552,7 +588,8 @@ app.get("/nodejs/query", (req: Request, res: Response) => {
                 svSpec,
                 urlRoot,
                 useChartUrl,
-                allowedTileTypes
+                allowedTileTypes,
+                singleDate
               );
           }
           tilePromises.push(...blockTilePromises);
