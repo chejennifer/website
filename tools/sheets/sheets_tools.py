@@ -230,13 +230,18 @@ def populate_hierarchy(csv_writer, starting_row, dcid, name, level, added, row_t
     ):
       print(f'FAILED ADDING: {dcid} ({name}) @ {starting_row}')
       return starting_row
-  if sv_members == None or svg_members == None:
-    print(f'NO SV/SVG MEMBERS: {dcid} ({name}) @ {starting_row}')
-    return starting_row
-  sv_members = sv_members.get(dcid, {}).get('memberOf', [])
-  svg_members = svg_members.get(dcid, {}).get('specializationOf', [])
   seen_svgs.add(dcid)
   curr_row = starting_row + 1
+  if sv_members == None:
+    print(f'NO SV MEMBERS: {dcid} ({name}) @ {starting_row}')
+    sv_members = []
+  else:
+    sv_members = sv_members.get(dcid, {}).get('memberOf', [])
+  if svg_members == None:
+    print(f'NO SVG MEMBERS: {dcid} ({name}) @ {starting_row}')
+    svg_members = []
+  else:
+    svg_members = svg_members.get(dcid, {}).get('specializationOf', [])
   for sv in sv_members:
     sv_dcid = sv.get('dcid')
     sv_name = sv.get('name')
