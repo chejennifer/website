@@ -128,12 +128,12 @@ def get(req):
     if attempts > 3:
       break
     try:
-      resp = requests.get(req, timeout=10)
+      resp = requests.get(req, timeout=30)
     except Exception as e:
       print(e)
       resp = None
     attempts += 1
-  if resp.status_code != 200:
+  if resp and resp.status_code != 200:
     print(f'REQUEST FAILED: {resp.status_code}')
   return resp
 
