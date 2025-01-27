@@ -128,7 +128,7 @@ def get(req):
     if attempts > 3:
       break
     try:
-      resp = requests.get(req, timeout=30)
+      resp = requests.get(req, timeout=60)
     except Exception as e:
       print(e)
       resp = None

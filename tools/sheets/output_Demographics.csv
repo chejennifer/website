@@ -32,90 +32,8 @@ Child"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Count of Child"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish"", ""dc/g/Child_AbilityToSpeakEnglish
 Child by Ability To Speak English"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell"", ""dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell
-Child With Ability To Speak English = Speak English Less Than Very Well"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_Age"", ""dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_Age
-Child With Ability To Speak English = Speak English Less Than Very Well, Age"")""",,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_Age-Years5Onwards"", ""dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_Age-Years5Onwards
-Child With Ability To Speak English = Speak English Less Than Very Well, Age = 5 Years or More"")""",,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_Age-Years5Onwards_LanguageSpokenAtHome"", ""dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_Age-Years5Onwards_LanguageSpokenAtHome
-Child With Ability To Speak English = Speak English Less Than Very Well, Age = 5 Years or More, Language Spoken At Home"")""",,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_Age-Years5Onwards_LanguageSpokenAtHome-LanguageOtherThanEnglish"", ""dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_Age-Years5Onwards_LanguageSpokenAtHome-LanguageOtherThanEnglish
-Child With Ability To Speak English = Speak English Less Than Very Well, Age = 5 Years or More, Language Spoken At Home = Language Other Than English"")""",,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_Age-Years5Onwards_LanguageSpokenAtHome-LanguageOtherThanEnglish_TypeOfSchool"", ""dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_Age-Years5Onwards_LanguageSpokenAtHome-LanguageOtherThanEnglish_TypeOfSchool
-Child With Ability To Speak English = Speak English Less Than Very Well, Age = 5 Years or More, Language Spoken At Home = Language Other Than English, Type of School"")""",,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_Age-Years5Onwards_LanguageSpokenAtHome-LanguageOtherThanEnglish_TypeOfSchool-PublicSchool"", ""dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_Age-Years5Onwards_LanguageSpokenAtHome-LanguageOtherThanEnglish_TypeOfSchool-PublicSchool
-Child With Ability To Speak English = Speak English Less Than Very Well, Age = 5 Years or More, Language Spoken At Home = Language Other Than English, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/8vdfl8kx0pftg"", ""dc/8vdfl8kx0pftg
-Percent of Child: Speak English Less Than Very Well, 5 Years or More, Language Other Than English, Public School"")""",,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/hjrb4yb5gfxq6"", ""dc/hjrb4yb5gfxq6
-Count of Child: Speak English Less Than Very Well, 5 Years or More, Language Other Than English, Public School"")""",,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_Age-Years5Onwards_TypeOfSchool"", ""dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_Age-Years5Onwards_TypeOfSchool
-Child With Ability To Speak English = Speak English Less Than Very Well, Age = 5 Years or More, Type of School"")""",,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_Age-Years5Onwards_TypeOfSchool-PublicSchool"", ""dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_Age-Years5Onwards_TypeOfSchool-PublicSchool
-Child With Ability To Speak English = Speak English Less Than Very Well, Age = 5 Years or More, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_Age-Years5Onwards_LanguageSpokenAtHome_TypeOfSchool-PublicSchool"", ""dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_Age-Years5Onwards_LanguageSpokenAtHome_TypeOfSchool-PublicSchool
-Child With Ability To Speak English = Speak English Less Than Very Well, Age = 5 Years or More, Language Spoken At Home, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,
-,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_LanguageSpokenAtHome"", ""dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_LanguageSpokenAtHome
-Child With Ability To Speak English = Speak English Less Than Very Well, Language Spoken At Home"")""",,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_LanguageSpokenAtHome-LanguageOtherThanEnglish"", ""dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_LanguageSpokenAtHome-LanguageOtherThanEnglish
-Child With Ability To Speak English = Speak English Less Than Very Well, Language Spoken At Home = Language Other Than English"")""",,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_Age_LanguageSpokenAtHome-LanguageOtherThanEnglish"", ""dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_Age_LanguageSpokenAtHome-LanguageOtherThanEnglish
-Child With Ability To Speak English = Speak English Less Than Very Well, Age, Language Spoken At Home = Language Other Than English"")""",,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_LanguageSpokenAtHome-LanguageOtherThanEnglish_TypeOfSchool"", ""dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_LanguageSpokenAtHome-LanguageOtherThanEnglish_TypeOfSchool
-Child With Ability To Speak English = Speak English Less Than Very Well, Language Spoken At Home = Language Other Than English, Type of School"")""",,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_LanguageSpokenAtHome-LanguageOtherThanEnglish_TypeOfSchool-PublicSchool"", ""dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_LanguageSpokenAtHome-LanguageOtherThanEnglish_TypeOfSchool-PublicSchool
-Child With Ability To Speak English = Speak English Less Than Very Well, Language Spoken At Home = Language Other Than English, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_Age_LanguageSpokenAtHome-LanguageOtherThanEnglish_TypeOfSchool-PublicSchool"", ""dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_Age_LanguageSpokenAtHome-LanguageOtherThanEnglish_TypeOfSchool-PublicSchool
-Child With Ability To Speak English = Speak English Less Than Very Well, Age, Language Spoken At Home = Language Other Than English, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,
-,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_TypeOfSchool"", ""dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_TypeOfSchool
-Child With Ability To Speak English = Speak English Less Than Very Well, Type of School"")""",,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_TypeOfSchool-PublicSchool"", ""dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_TypeOfSchool-PublicSchool
-Child With Ability To Speak English = Speak English Less Than Very Well, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_Age_TypeOfSchool-PublicSchool"", ""dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_Age_TypeOfSchool-PublicSchool
-Child With Ability To Speak English = Speak English Less Than Very Well, Age, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_LanguageSpokenAtHome_TypeOfSchool-PublicSchool"", ""dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_LanguageSpokenAtHome_TypeOfSchool-PublicSchool
-Child With Ability To Speak English = Speak English Less Than Very Well, Language Spoken At Home, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,
 ,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Age"", ""dc/g/Child_Age
 Child by Age"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Age-Years5Onwards"", ""dc/g/Child_Age-Years5Onwards
-Child With Age = 5 Years or More"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish_Age-Years5Onwards"", ""dc/g/Child_AbilityToSpeakEnglish_Age-Years5Onwards
-Child With Ability To Speak English, Age = 5 Years or More"")""",,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Age-Years5Onwards_LanguageSpokenAtHome"", ""dc/g/Child_Age-Years5Onwards_LanguageSpokenAtHome
-Child With Age = 5 Years or More, Language Spoken At Home"")""",,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Age-Years5Onwards_LanguageSpokenAtHome-LanguageOtherThanEnglish"", ""dc/g/Child_Age-Years5Onwards_LanguageSpokenAtHome-LanguageOtherThanEnglish
-Child With Age = 5 Years or More, Language Spoken At Home = Language Other Than English"")""",,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish_Age-Years5Onwards_LanguageSpokenAtHome-LanguageOtherThanEnglish"", ""dc/g/Child_AbilityToSpeakEnglish_Age-Years5Onwards_LanguageSpokenAtHome-LanguageOtherThanEnglish
-Child With Ability To Speak English, Age = 5 Years or More, Language Spoken At Home = Language Other Than English"")""",,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Age-Years5Onwards_LanguageSpokenAtHome-LanguageOtherThanEnglish_TypeOfSchool"", ""dc/g/Child_Age-Years5Onwards_LanguageSpokenAtHome-LanguageOtherThanEnglish_TypeOfSchool
-Child With Age = 5 Years or More, Language Spoken At Home = Language Other Than English, Type of School"")""",,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Age-Years5Onwards_LanguageSpokenAtHome-LanguageOtherThanEnglish_TypeOfSchool-PublicSchool"", ""dc/g/Child_Age-Years5Onwards_LanguageSpokenAtHome-LanguageOtherThanEnglish_TypeOfSchool-PublicSchool
-Child With Age = 5 Years or More, Language Spoken At Home = Language Other Than English, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Child_5OrMoreYears_LanguageOtherThanEnglishSpokenAtHome_EnrolledInPublicSchool"", ""Count_Child_5OrMoreYears_LanguageOtherThanEnglishSpokenAtHome_EnrolledInPublicSchool
-Count of Child: 5 Years or More, Language Other Than English, Public School"")""",,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Percent_Child_5OrMoreYears_LanguageOtherThanEnglishSpokenAtHome_EnrolledInPublicSchool"", ""Percent_Child_5OrMoreYears_LanguageOtherThanEnglishSpokenAtHome_EnrolledInPublicSchool
-Percent of Child: 5 Years or More, Language Other Than English, Public School"")""",,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish_Age-Years5Onwards_LanguageSpokenAtHome-LanguageOtherThanEnglish_TypeOfSchool-PublicSchool"", ""dc/g/Child_AbilityToSpeakEnglish_Age-Years5Onwards_LanguageSpokenAtHome-LanguageOtherThanEnglish_TypeOfSchool-PublicSchool
-Child With Ability To Speak English, Age = 5 Years or More, Language Spoken At Home = Language Other Than English, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,
-,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Age-Years5Onwards_LanguageSpokenAtHome-OnlyEnglish"", ""dc/g/Child_Age-Years5Onwards_LanguageSpokenAtHome-OnlyEnglish
-Child With Age = 5 Years or More, Language Spoken At Home = Only English"")""",,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Age-Years5Onwards_LanguageSpokenAtHome-OnlyEnglish_TypeOfSchool"", ""dc/g/Child_Age-Years5Onwards_LanguageSpokenAtHome-OnlyEnglish_TypeOfSchool
-Child With Age = 5 Years or More, Language Spoken At Home = Only English, Type of School"")""",,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Age-Years5Onwards_LanguageSpokenAtHome-OnlyEnglish_TypeOfSchool-PublicSchool"", ""dc/g/Child_Age-Years5Onwards_LanguageSpokenAtHome-OnlyEnglish_TypeOfSchool-PublicSchool
-Child With Age = 5 Years or More, Language Spoken At Home = Only English, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Child_5OrMoreYears_OnlyEnglishSpokenAtHome_EnrolledInPublicSchool"", ""Count_Child_5OrMoreYears_OnlyEnglishSpokenAtHome_EnrolledInPublicSchool
-Count of Child: 5 Years or More, Only English, Public School"")""",,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Percent_Child_5OrMoreYears_OnlyEnglishSpokenAtHome_EnrolledInPublicSchool"", ""Percent_Child_5OrMoreYears_OnlyEnglishSpokenAtHome_EnrolledInPublicSchool
-Percent of Child: 5 Years or More, Only English, Public School"")""",,,,,,,,,,,,,,,,,,,,,
-,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Age-Years5Onwards_TypeOfSchool"", ""dc/g/Child_Age-Years5Onwards_TypeOfSchool
-Child With Age = 5 Years or More, Type of School"")""",,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Age-Years5Onwards_TypeOfSchool-PublicSchool"", ""dc/g/Child_Age-Years5Onwards_TypeOfSchool-PublicSchool
-Child With Age = 5 Years or More, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish_Age-Years5Onwards_TypeOfSchool-PublicSchool"", ""dc/g/Child_AbilityToSpeakEnglish_Age-Years5Onwards_TypeOfSchool-PublicSchool
-Child With Ability To Speak English, Age = 5 Years or More, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Age-Years5Onwards_LanguageSpokenAtHome_TypeOfSchool-PublicSchool"", ""dc/g/Child_Age-Years5Onwards_LanguageSpokenAtHome_TypeOfSchool-PublicSchool
-Child With Age = 5 Years or More, Language Spoken At Home, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,
 ,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_BenefitsStatus"", ""dc/g/Child_BenefitsStatus
 Child by Benefits Status"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Child_FoodInsecure_EligibleForManyChildNutritionBenefits"", ""Count_Child_FoodInsecure_EligibleForManyChildNutritionBenefits
@@ -124,160 +42,10 @@ Food Insecure Children Eligible for Benefits"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
 Food Insecure Children Ineligible for Benefits"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus"", ""dc/g/Child_DisabilityStatus
 Child by Disability Status"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus-WithDisability"", ""dc/g/Child_DisabilityStatus-WithDisability
-Child With Disability Status = With Disability"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus-WithDisability_Institutionalization"", ""dc/g/Child_DisabilityStatus-WithDisability_Institutionalization
-Child With Disability Status = With Disability, Institutionalization"")""",,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus-WithDisability_Institutionalization-NonInstitutionalized"", ""dc/g/Child_DisabilityStatus-WithDisability_Institutionalization-NonInstitutionalized
-Child With Disability Status = With Disability, Institutionalization = Non Institutionalized"")""",,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus-WithDisability_Institutionalization-NonInstitutionalized_MilitaryStatus"", ""dc/g/Child_DisabilityStatus-WithDisability_Institutionalization-NonInstitutionalized_MilitaryStatus
-Child With Military Status, Disability Status = With Disability, Institutionalization = Non Institutionalized"")""",,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus-WithDisability_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian"", ""dc/g/Child_DisabilityStatus-WithDisability_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian
-Child With Military Status = Civilian, Disability Status = With Disability, Institutionalization = Non Institutionalized"")""",,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus-WithDisability_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian_TypeOfSchool"", ""dc/g/Child_DisabilityStatus-WithDisability_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian_TypeOfSchool
-Child With Military Status = Civilian, Disability Status = With Disability, Institutionalization = Non Institutionalized, Type of School"")""",,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus-WithDisability_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool"", ""dc/g/Child_DisabilityStatus-WithDisability_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool
-Child With Military Status = Civilian, Disability Status = With Disability, Institutionalization = Non Institutionalized, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/kvdv7541h2wg1"", ""dc/kvdv7541h2wg1
-Count of Child: Civilian, With Disability, Non Institutionalized, Public School"")""",,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/ze7yl6c34l5n9"", ""dc/ze7yl6c34l5n9
-Percent of Child: Civilian, With Disability, Non Institutionalized, Public School"")""",,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus-WithDisability_Institutionalization-NonInstitutionalized_TypeOfSchool"", ""dc/g/Child_DisabilityStatus-WithDisability_Institutionalization-NonInstitutionalized_TypeOfSchool
-Child With Disability Status = With Disability, Institutionalization = Non Institutionalized, Type of School"")""",,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus-WithDisability_Institutionalization-NonInstitutionalized_TypeOfSchool-PublicSchool"", ""dc/g/Child_DisabilityStatus-WithDisability_Institutionalization-NonInstitutionalized_TypeOfSchool-PublicSchool
-Child With Disability Status = With Disability, Institutionalization = Non Institutionalized, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus-WithDisability_Institutionalization-NonInstitutionalized_MilitaryStatus_TypeOfSchool-PublicSchool"", ""dc/g/Child_DisabilityStatus-WithDisability_Institutionalization-NonInstitutionalized_MilitaryStatus_TypeOfSchool-PublicSchool
-Child With Military Status, Disability Status = With Disability, Institutionalization = Non Institutionalized, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,
-,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus-WithDisability_MilitaryStatus"", ""dc/g/Child_DisabilityStatus-WithDisability_MilitaryStatus
-Child With Military Status, Disability Status = With Disability"")""",,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus-WithDisability_MilitaryStatus-Civilian"", ""dc/g/Child_DisabilityStatus-WithDisability_MilitaryStatus-Civilian
-Child With Military Status = Civilian, Disability Status = With Disability"")""",,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus-WithDisability_Institutionalization_MilitaryStatus-Civilian"", ""dc/g/Child_DisabilityStatus-WithDisability_Institutionalization_MilitaryStatus-Civilian
-Child With Military Status = Civilian, Disability Status = With Disability, Institutionalization"")""",,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus-WithDisability_MilitaryStatus-Civilian_TypeOfSchool"", ""dc/g/Child_DisabilityStatus-WithDisability_MilitaryStatus-Civilian_TypeOfSchool
-Child With Military Status = Civilian, Disability Status = With Disability, Type of School"")""",,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus-WithDisability_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool"", ""dc/g/Child_DisabilityStatus-WithDisability_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool
-Child With Military Status = Civilian, Disability Status = With Disability, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus-WithDisability_Institutionalization_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool"", ""dc/g/Child_DisabilityStatus-WithDisability_Institutionalization_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool
-Child With Military Status = Civilian, Disability Status = With Disability, Institutionalization, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,
-,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus-WithDisability_TypeOfSchool"", ""dc/g/Child_DisabilityStatus-WithDisability_TypeOfSchool
-Child With Disability Status = With Disability, Type of School"")""",,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus-WithDisability_TypeOfSchool-PublicSchool"", ""dc/g/Child_DisabilityStatus-WithDisability_TypeOfSchool-PublicSchool
-Child With Disability Status = With Disability, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus-WithDisability_Institutionalization_TypeOfSchool-PublicSchool"", ""dc/g/Child_DisabilityStatus-WithDisability_Institutionalization_TypeOfSchool-PublicSchool
-Child With Disability Status = With Disability, Institutionalization, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus-WithDisability_MilitaryStatus_TypeOfSchool-PublicSchool"", ""dc/g/Child_DisabilityStatus-WithDisability_MilitaryStatus_TypeOfSchool-PublicSchool
-Child With Military Status, Disability Status = With Disability, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,
 ,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_FoodSecurityStatus"", ""dc/g/Child_FoodSecurityStatus
 Child by Food Security Status"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_FoodSecurityStatus-FoodInSecure"", ""dc/g/Child_FoodSecurityStatus-FoodInSecure
-Child With Food Security Status = Food in Secure"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Child_FoodInsecure"", ""Count_Child_FoodInsecure
-Population: Food Insecure Children"")""",,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Child_FoodInsecure_AsAFractionOf_Count_Child"", ""Count_Child_FoodInsecure_AsAFractionOf_Count_Child
-Count of Child: Food in Secure (As Fraction of Count Child)"")""",,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_BenefitsStatus_FoodSecurityStatus-FoodInSecure"", ""dc/g/Child_BenefitsStatus_FoodSecurityStatus-FoodInSecure
-Child With Benefits Status, Food Security Status = Food in Secure"")""",,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Child_FoodInsecure_EligibleForManyChildNutritionBenefits"", ""Count_Child_FoodInsecure_EligibleForManyChildNutritionBenefits
-Food Insecure Children Eligible for Benefits"")""",,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Child_FoodInsecure_IneligibleForChildNutritionBenefits"", ""Count_Child_FoodInsecure_IneligibleForChildNutritionBenefits
-Food Insecure Children Ineligible for Benefits"")""",,,,,,,,,,,,,,,,,,,,,,,,
-,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_FoodSecurityStatus-FoodInSecure_HouseholdIncome"", ""dc/g/Child_FoodSecurityStatus-FoodInSecure_HouseholdIncome
-Child With Food Security Status = Food in Secure, Household Income"")""",,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Child_FoodInsecure_HouseholdIncomeAbove185PercentOfFederalPovertyLine_AsAFractionOf_Count_Child_FoodInsecure"", ""Count_Child_FoodInsecure_HouseholdIncomeAbove185PercentOfFederalPovertyLine_AsAFractionOf_Count_Child_FoodInsecure
-Percent of food insecure children who live in households with income above 185% of the federal poverty line"")""",,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Child_FoodInsecure_HouseholdIncomeBelow185PercentOfFederalPovertyLine_AsAFractionOf_Count_Child_FoodInsecure"", ""Count_Child_FoodInsecure_HouseholdIncomeBelow185PercentOfFederalPovertyLine_AsAFractionOf_Count_Child_FoodInsecure
-Percent of food insecure children who live in households with income below 185% of the federal poverty line"")""",,,,,,,,,,,,,,,,,,,,,,,,
 ,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance"", ""dc/g/Child_HealthInsurance
 Child by Health Insurance"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-NoHealthInsurance"", ""dc/g/Child_HealthInsurance-NoHealthInsurance
-Child With Health Insurance = No Health Insurance"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-NoHealthInsurance_Institutionalization"", ""dc/g/Child_HealthInsurance-NoHealthInsurance_Institutionalization
-Child With Health Insurance = No Health Insurance, Institutionalization"")""",,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-NoHealthInsurance_Institutionalization-NonInstitutionalized"", ""dc/g/Child_HealthInsurance-NoHealthInsurance_Institutionalization-NonInstitutionalized
-Child With Health Insurance = No Health Insurance, Institutionalization = Non Institutionalized"")""",,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-NoHealthInsurance_Institutionalization-NonInstitutionalized_MilitaryStatus"", ""dc/g/Child_HealthInsurance-NoHealthInsurance_Institutionalization-NonInstitutionalized_MilitaryStatus
-Child With Military Status, Health Insurance = No Health Insurance, Institutionalization = Non Institutionalized"")""",,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-NoHealthInsurance_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian"", ""dc/g/Child_HealthInsurance-NoHealthInsurance_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian
-Child With Military Status = Civilian, Health Insurance = No Health Insurance, Institutionalization = Non Institutionalized"")""",,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-NoHealthInsurance_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian_TypeOfSchool"", ""dc/g/Child_HealthInsurance-NoHealthInsurance_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian_TypeOfSchool
-Child With Military Status = Civilian, Health Insurance = No Health Insurance, Institutionalization = Non Institutionalized, Type of School"")""",,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-NoHealthInsurance_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool"", ""dc/g/Child_HealthInsurance-NoHealthInsurance_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool
-Child With Military Status = Civilian, Health Insurance = No Health Insurance, Institutionalization = Non Institutionalized, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/dl680h6l9250b"", ""dc/dl680h6l9250b
-Percent of Child: Civilian, No Health Insurance, Non Institutionalized, Public School"")""",,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/myqyvhce0pz17"", ""dc/myqyvhce0pz17
-Count of Child: Civilian, No Health Insurance, Non Institutionalized, Public School"")""",,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-NoHealthInsurance_Institutionalization-NonInstitutionalized_TypeOfSchool"", ""dc/g/Child_HealthInsurance-NoHealthInsurance_Institutionalization-NonInstitutionalized_TypeOfSchool
-Child With Health Insurance = No Health Insurance, Institutionalization = Non Institutionalized, Type of School"")""",,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-NoHealthInsurance_Institutionalization-NonInstitutionalized_TypeOfSchool-PublicSchool"", ""dc/g/Child_HealthInsurance-NoHealthInsurance_Institutionalization-NonInstitutionalized_TypeOfSchool-PublicSchool
-Child With Health Insurance = No Health Insurance, Institutionalization = Non Institutionalized, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-NoHealthInsurance_Institutionalization-NonInstitutionalized_MilitaryStatus_TypeOfSchool-PublicSchool"", ""dc/g/Child_HealthInsurance-NoHealthInsurance_Institutionalization-NonInstitutionalized_MilitaryStatus_TypeOfSchool-PublicSchool
-Child With Military Status, Health Insurance = No Health Insurance, Institutionalization = Non Institutionalized, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,
-,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-NoHealthInsurance_MilitaryStatus"", ""dc/g/Child_HealthInsurance-NoHealthInsurance_MilitaryStatus
-Child With Military Status, Health Insurance = No Health Insurance"")""",,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-NoHealthInsurance_MilitaryStatus-Civilian"", ""dc/g/Child_HealthInsurance-NoHealthInsurance_MilitaryStatus-Civilian
-Child With Military Status = Civilian, Health Insurance = No Health Insurance"")""",,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-NoHealthInsurance_Institutionalization_MilitaryStatus-Civilian"", ""dc/g/Child_HealthInsurance-NoHealthInsurance_Institutionalization_MilitaryStatus-Civilian
-Child With Military Status = Civilian, Health Insurance = No Health Insurance, Institutionalization"")""",,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-NoHealthInsurance_MilitaryStatus-Civilian_TypeOfSchool"", ""dc/g/Child_HealthInsurance-NoHealthInsurance_MilitaryStatus-Civilian_TypeOfSchool
-Child With Military Status = Civilian, Health Insurance = No Health Insurance, Type of School"")""",,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-NoHealthInsurance_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool"", ""dc/g/Child_HealthInsurance-NoHealthInsurance_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool
-Child With Military Status = Civilian, Health Insurance = No Health Insurance, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-NoHealthInsurance_Institutionalization_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool"", ""dc/g/Child_HealthInsurance-NoHealthInsurance_Institutionalization_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool
-Child With Military Status = Civilian, Health Insurance = No Health Insurance, Institutionalization, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,
-,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-NoHealthInsurance_TypeOfSchool"", ""dc/g/Child_HealthInsurance-NoHealthInsurance_TypeOfSchool
-Child With Health Insurance = No Health Insurance, Type of School"")""",,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-NoHealthInsurance_TypeOfSchool-PublicSchool"", ""dc/g/Child_HealthInsurance-NoHealthInsurance_TypeOfSchool-PublicSchool
-Child With Health Insurance = No Health Insurance, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-NoHealthInsurance_Institutionalization_TypeOfSchool-PublicSchool"", ""dc/g/Child_HealthInsurance-NoHealthInsurance_Institutionalization_TypeOfSchool-PublicSchool
-Child With Health Insurance = No Health Insurance, Institutionalization, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-NoHealthInsurance_MilitaryStatus_TypeOfSchool-PublicSchool"", ""dc/g/Child_HealthInsurance-NoHealthInsurance_MilitaryStatus_TypeOfSchool-PublicSchool
-Child With Military Status, Health Insurance = No Health Insurance, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,
-,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-WithHealthInsurance"", ""dc/g/Child_HealthInsurance-WithHealthInsurance
-Child With Health Insurance = With Health Insurance"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-WithHealthInsurance_Institutionalization"", ""dc/g/Child_HealthInsurance-WithHealthInsurance_Institutionalization
-Child With Health Insurance = With Health Insurance, Institutionalization"")""",,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-WithHealthInsurance_Institutionalization-NonInstitutionalized"", ""dc/g/Child_HealthInsurance-WithHealthInsurance_Institutionalization-NonInstitutionalized
-Child With Health Insurance = With Health Insurance, Institutionalization = Non Institutionalized"")""",,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-WithHealthInsurance_Institutionalization-NonInstitutionalized_MilitaryStatus"", ""dc/g/Child_HealthInsurance-WithHealthInsurance_Institutionalization-NonInstitutionalized_MilitaryStatus
-Child With Military Status, Health Insurance = With Health Insurance, Institutionalization = Non Institutionalized"")""",,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-WithHealthInsurance_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian"", ""dc/g/Child_HealthInsurance-WithHealthInsurance_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian
-Child With Military Status = Civilian, Health Insurance = With Health Insurance, Institutionalization = Non Institutionalized"")""",,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-WithHealthInsurance_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian_TypeOfSchool"", ""dc/g/Child_HealthInsurance-WithHealthInsurance_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian_TypeOfSchool
-Child With Military Status = Civilian, Health Insurance = With Health Insurance, Institutionalization = Non Institutionalized, Type of School"")""",,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-WithHealthInsurance_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool"", ""dc/g/Child_HealthInsurance-WithHealthInsurance_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool
-Child With Military Status = Civilian, Health Insurance = With Health Insurance, Institutionalization = Non Institutionalized, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/d6pzpeq8v9kx7"", ""dc/d6pzpeq8v9kx7
-Count of Child: Civilian, With Health Insurance, Non Institutionalized, Public School"")""",,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/kbkkkyerm7ls4"", ""dc/kbkkkyerm7ls4
-Percent of Child: Civilian, With Health Insurance, Non Institutionalized, Public School"")""",,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-WithHealthInsurance_Institutionalization-NonInstitutionalized_TypeOfSchool"", ""dc/g/Child_HealthInsurance-WithHealthInsurance_Institutionalization-NonInstitutionalized_TypeOfSchool
-Child With Health Insurance = With Health Insurance, Institutionalization = Non Institutionalized, Type of School"")""",,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-WithHealthInsurance_Institutionalization-NonInstitutionalized_TypeOfSchool-PublicSchool"", ""dc/g/Child_HealthInsurance-WithHealthInsurance_Institutionalization-NonInstitutionalized_TypeOfSchool-PublicSchool
-Child With Health Insurance = With Health Insurance, Institutionalization = Non Institutionalized, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-WithHealthInsurance_Institutionalization-NonInstitutionalized_MilitaryStatus_TypeOfSchool-PublicSchool"", ""dc/g/Child_HealthInsurance-WithHealthInsurance_Institutionalization-NonInstitutionalized_MilitaryStatus_TypeOfSchool-PublicSchool
-Child With Military Status, Health Insurance = With Health Insurance, Institutionalization = Non Institutionalized, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,
-,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-WithHealthInsurance_MilitaryStatus"", ""dc/g/Child_HealthInsurance-WithHealthInsurance_MilitaryStatus
-Child With Military Status, Health Insurance = With Health Insurance"")""",,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-WithHealthInsurance_MilitaryStatus-Civilian"", ""dc/g/Child_HealthInsurance-WithHealthInsurance_MilitaryStatus-Civilian
-Child With Military Status = Civilian, Health Insurance = With Health Insurance"")""",,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-WithHealthInsurance_Institutionalization_MilitaryStatus-Civilian"", ""dc/g/Child_HealthInsurance-WithHealthInsurance_Institutionalization_MilitaryStatus-Civilian
-Child With Military Status = Civilian, Health Insurance = With Health Insurance, Institutionalization"")""",,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-WithHealthInsurance_MilitaryStatus-Civilian_TypeOfSchool"", ""dc/g/Child_HealthInsurance-WithHealthInsurance_MilitaryStatus-Civilian_TypeOfSchool
-Child With Military Status = Civilian, Health Insurance = With Health Insurance, Type of School"")""",,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-WithHealthInsurance_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool"", ""dc/g/Child_HealthInsurance-WithHealthInsurance_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool
-Child With Military Status = Civilian, Health Insurance = With Health Insurance, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-WithHealthInsurance_Institutionalization_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool"", ""dc/g/Child_HealthInsurance-WithHealthInsurance_Institutionalization_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool
-Child With Military Status = Civilian, Health Insurance = With Health Insurance, Institutionalization, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,
-,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-WithHealthInsurance_TypeOfSchool"", ""dc/g/Child_HealthInsurance-WithHealthInsurance_TypeOfSchool
-Child With Health Insurance = With Health Insurance, Type of School"")""",,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-WithHealthInsurance_TypeOfSchool-PublicSchool"", ""dc/g/Child_HealthInsurance-WithHealthInsurance_TypeOfSchool-PublicSchool
-Child With Health Insurance = With Health Insurance, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-WithHealthInsurance_Institutionalization_TypeOfSchool-PublicSchool"", ""dc/g/Child_HealthInsurance-WithHealthInsurance_Institutionalization_TypeOfSchool-PublicSchool
-Child With Health Insurance = With Health Insurance, Institutionalization, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-WithHealthInsurance_MilitaryStatus_TypeOfSchool-PublicSchool"", ""dc/g/Child_HealthInsurance-WithHealthInsurance_MilitaryStatus_TypeOfSchool-PublicSchool
-Child With Military Status, Health Insurance = With Health Insurance, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,
 ,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HouseholdIncome"", ""dc/g/Child_HouseholdIncome
 Child by Household Income"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Child_FoodInsecure_HouseholdIncomeAbove185PercentOfFederalPovertyLine_AsAFractionOf_Count_Child_FoodInsecure"", ""Count_Child_FoodInsecure_HouseholdIncomeAbove185PercentOfFederalPovertyLine_AsAFractionOf_Count_Child_FoodInsecure
@@ -286,203 +54,753 @@ Percent of food insecure children who live in households with income above 185% 
 Percent of food insecure children who live in households with income below 185% of the federal poverty line"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Institutionalization"", ""dc/g/Child_Institutionalization
 Child by Institutionalization"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Institutionalization-NonInstitutionalized"", ""dc/g/Child_Institutionalization-NonInstitutionalized
-Child With Institutionalization = Non Institutionalized"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus_Institutionalization-NonInstitutionalized"", ""dc/g/Child_DisabilityStatus_Institutionalization-NonInstitutionalized
-Child With Disability Status, Institutionalization = Non Institutionalized"")""",,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance_Institutionalization-NonInstitutionalized"", ""dc/g/Child_HealthInsurance_Institutionalization-NonInstitutionalized
-Child With Health Insurance, Institutionalization = Non Institutionalized"")""",,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Institutionalization-NonInstitutionalized_MilitaryStatus"", ""dc/g/Child_Institutionalization-NonInstitutionalized_MilitaryStatus
-Child With Military Status, Institutionalization = Non Institutionalized"")""",,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian"", ""dc/g/Child_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian
-Child With Military Status = Civilian, Institutionalization = Non Institutionalized"")""",,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian"", ""dc/g/Child_DisabilityStatus_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian
-Child With Military Status = Civilian, Disability Status, Institutionalization = Non Institutionalized"")""",,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian"", ""dc/g/Child_HealthInsurance_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian
-Child With Military Status = Civilian, Health Insurance, Institutionalization = Non Institutionalized"")""",,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian_TypeOfSchool"", ""dc/g/Child_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian_TypeOfSchool
-Child With Military Status = Civilian, Institutionalization = Non Institutionalized, Type of School"")""",,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool"", ""dc/g/Child_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool
-Child With Military Status = Civilian, Institutionalization = Non Institutionalized, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool"", ""dc/g/Child_DisabilityStatus_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool
-Child With Military Status = Civilian, Disability Status, Institutionalization = Non Institutionalized, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool"", ""dc/g/Child_HealthInsurance_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool
-Child With Military Status = Civilian, Health Insurance, Institutionalization = Non Institutionalized, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,
-,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Institutionalization-NonInstitutionalized_TypeOfSchool"", ""dc/g/Child_Institutionalization-NonInstitutionalized_TypeOfSchool
-Child With Institutionalization = Non Institutionalized, Type of School"")""",,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Institutionalization-NonInstitutionalized_TypeOfSchool-PublicSchool"", ""dc/g/Child_Institutionalization-NonInstitutionalized_TypeOfSchool-PublicSchool
-Child With Institutionalization = Non Institutionalized, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus_Institutionalization-NonInstitutionalized_TypeOfSchool-PublicSchool"", ""dc/g/Child_DisabilityStatus_Institutionalization-NonInstitutionalized_TypeOfSchool-PublicSchool
-Child With Disability Status, Institutionalization = Non Institutionalized, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance_Institutionalization-NonInstitutionalized_TypeOfSchool-PublicSchool"", ""dc/g/Child_HealthInsurance_Institutionalization-NonInstitutionalized_TypeOfSchool-PublicSchool
-Child With Health Insurance, Institutionalization = Non Institutionalized, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Institutionalization-NonInstitutionalized_MilitaryStatus_TypeOfSchool-PublicSchool"", ""dc/g/Child_Institutionalization-NonInstitutionalized_MilitaryStatus_TypeOfSchool-PublicSchool
-Child With Military Status, Institutionalization = Non Institutionalized, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,
 ,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_LanguageSpokenAtHome"", ""dc/g/Child_LanguageSpokenAtHome
 Child by Language Spoken At Home"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_LanguageSpokenAtHome-LanguageOtherThanEnglish"", ""dc/g/Child_LanguageSpokenAtHome-LanguageOtherThanEnglish
-Child With Language Spoken At Home = Language Other Than English"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish_LanguageSpokenAtHome-LanguageOtherThanEnglish"", ""dc/g/Child_AbilityToSpeakEnglish_LanguageSpokenAtHome-LanguageOtherThanEnglish
-Child With Ability To Speak English, Language Spoken At Home = Language Other Than English"")""",,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Age_LanguageSpokenAtHome-LanguageOtherThanEnglish"", ""dc/g/Child_Age_LanguageSpokenAtHome-LanguageOtherThanEnglish
-Child With Age, Language Spoken At Home = Language Other Than English"")""",,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_LanguageSpokenAtHome-LanguageOtherThanEnglish_TypeOfSchool"", ""dc/g/Child_LanguageSpokenAtHome-LanguageOtherThanEnglish_TypeOfSchool
-Child With Language Spoken At Home = Language Other Than English, Type of School"")""",,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_LanguageSpokenAtHome-LanguageOtherThanEnglish_TypeOfSchool-PublicSchool"", ""dc/g/Child_LanguageSpokenAtHome-LanguageOtherThanEnglish_TypeOfSchool-PublicSchool
-Child With Language Spoken At Home = Language Other Than English, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish_LanguageSpokenAtHome-LanguageOtherThanEnglish_TypeOfSchool-PublicSchool"", ""dc/g/Child_AbilityToSpeakEnglish_LanguageSpokenAtHome-LanguageOtherThanEnglish_TypeOfSchool-PublicSchool
-Child With Ability To Speak English, Language Spoken At Home = Language Other Than English, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Age_LanguageSpokenAtHome-LanguageOtherThanEnglish_TypeOfSchool-PublicSchool"", ""dc/g/Child_Age_LanguageSpokenAtHome-LanguageOtherThanEnglish_TypeOfSchool-PublicSchool
-Child With Age, Language Spoken At Home = Language Other Than English, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,
-,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_LanguageSpokenAtHome-OnlyEnglish"", ""dc/g/Child_LanguageSpokenAtHome-OnlyEnglish
-Child With Language Spoken At Home = Only English"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Age_LanguageSpokenAtHome-OnlyEnglish"", ""dc/g/Child_Age_LanguageSpokenAtHome-OnlyEnglish
-Child With Age, Language Spoken At Home = Only English"")""",,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_LanguageSpokenAtHome-OnlyEnglish_TypeOfSchool"", ""dc/g/Child_LanguageSpokenAtHome-OnlyEnglish_TypeOfSchool
-Child With Language Spoken At Home = Only English, Type of School"")""",,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_LanguageSpokenAtHome-OnlyEnglish_TypeOfSchool-PublicSchool"", ""dc/g/Child_LanguageSpokenAtHome-OnlyEnglish_TypeOfSchool-PublicSchool
-Child With Language Spoken At Home = Only English, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Age_LanguageSpokenAtHome-OnlyEnglish_TypeOfSchool-PublicSchool"", ""dc/g/Child_Age_LanguageSpokenAtHome-OnlyEnglish_TypeOfSchool-PublicSchool
-Child With Age, Language Spoken At Home = Only English, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,
 ,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_MilitaryStatus"", ""dc/g/Child_MilitaryStatus
 Child by Military Status"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_MilitaryStatus-Civilian"", ""dc/g/Child_MilitaryStatus-Civilian
-Child With Military Status = Civilian"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus_MilitaryStatus-Civilian"", ""dc/g/Child_DisabilityStatus_MilitaryStatus-Civilian
-Child With Military Status = Civilian, Disability Status"")""",,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance_MilitaryStatus-Civilian"", ""dc/g/Child_HealthInsurance_MilitaryStatus-Civilian
-Child With Military Status = Civilian, Health Insurance"")""",,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Institutionalization_MilitaryStatus-Civilian"", ""dc/g/Child_Institutionalization_MilitaryStatus-Civilian
-Child With Military Status = Civilian, Institutionalization"")""",,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_MilitaryStatus-Civilian_TypeOfSchool"", ""dc/g/Child_MilitaryStatus-Civilian_TypeOfSchool
-Child With Military Status = Civilian, Type of School"")""",,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool"", ""dc/g/Child_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool
-Child With Military Status = Civilian, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool"", ""dc/g/Child_DisabilityStatus_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool
-Child With Military Status = Civilian, Disability Status, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool"", ""dc/g/Child_HealthInsurance_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool
-Child With Military Status = Civilian, Health Insurance, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Institutionalization_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool"", ""dc/g/Child_Institutionalization_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool
-Child With Military Status = Civilian, Institutionalization, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,
 ,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_TypeOfSchool"", ""dc/g/Child_TypeOfSchool
 Child by Type of School"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_TypeOfSchool-PublicSchool"", ""dc/g/Child_TypeOfSchool-PublicSchool
-Child With Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish_TypeOfSchool-PublicSchool"", ""dc/g/Child_AbilityToSpeakEnglish_TypeOfSchool-PublicSchool
-Child With Ability To Speak English, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Age_TypeOfSchool-PublicSchool"", ""dc/g/Child_Age_TypeOfSchool-PublicSchool
-Child With Age, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus_TypeOfSchool-PublicSchool"", ""dc/g/Child_DisabilityStatus_TypeOfSchool-PublicSchool
-Child With Disability Status, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance_TypeOfSchool-PublicSchool"", ""dc/g/Child_HealthInsurance_TypeOfSchool-PublicSchool
-Child With Health Insurance, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Institutionalization_TypeOfSchool-PublicSchool"", ""dc/g/Child_Institutionalization_TypeOfSchool-PublicSchool
-Child With Institutionalization, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_LanguageSpokenAtHome_TypeOfSchool-PublicSchool"", ""dc/g/Child_LanguageSpokenAtHome_TypeOfSchool-PublicSchool
-Child With Language Spoken At Home, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_MilitaryStatus_TypeOfSchool-PublicSchool"", ""dc/g/Child_MilitaryStatus_TypeOfSchool-PublicSchool
-Child With Military Status, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,,,
 ,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children"", ""dc/g/Children
 Children"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Children"", ""Count_Children
 Count of Children"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_BirthCenter"", ""dc/g/Children_BirthCenter
 Children by Birth Center"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_BirthCenter-House"", ""dc/g/Children_BirthCenter-House
-Children With Birth Center = House"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Children_House"", ""Count_Children_House
-Count of Children: House"")""",,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_BirthCenter-House_HealthEstablishmentType"", ""dc/g/Children_BirthCenter-House_HealthEstablishmentType
-Children With Birth Center = House, Health Establishment Type"")""",,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_BirthCenter-House_HealthEstablishmentType-HealthFacility"", ""dc/g/Children_BirthCenter-House_HealthEstablishmentType-HealthFacility
-Children With Birth Center = House, Health Establishment Type = Health Facility"")""",,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_BirthCenter-House_HealthEstablishmentType-HealthFacility_PlaceOfResidenceClassification"", ""dc/g/Children_BirthCenter-House_HealthEstablishmentType-HealthFacility_PlaceOfResidenceClassification
-Children With Birth Center = House, Health Establishment Type = Health Facility, Place of Residence Classification"")""",,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Children_House_HealthFacility_Rural_ReceivedBirthCareWithin24Hour_AsAFractionOf_Count_Children_House_Rural"", ""Count_Children_House_HealthFacility_Rural_ReceivedBirthCareWithin24Hour_AsAFractionOf_Count_Children_House_Rural
-Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%), rural"")""",,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Children_House_HealthFacility_Urban_ReceivedBirthCareWithin24Hour_AsAFractionOf_Count_Children_House_Urban"", ""Count_Children_House_HealthFacility_Urban_ReceivedBirthCareWithin24Hour_AsAFractionOf_Count_Children_House_Urban
-Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%), urban"")""",,,,,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_BirthCenter-House_HealthEstablishmentType-HealthFacility_PostBirthCare"", ""dc/g/Children_BirthCenter-House_HealthEstablishmentType-HealthFacility_PostBirthCare
-Children With Birth Center = House, Health Establishment Type = Health Facility, Post Birth Care"")""",,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_BirthCenter-House_HealthEstablishmentType-HealthFacility_PostBirthCare-ReceivedBirthCareWithin24Hour"", ""dc/g/Children_BirthCenter-House_HealthEstablishmentType-HealthFacility_PostBirthCare-ReceivedBirthCareWithin24Hour
-Children With Birth Center = House, Health Establishment Type = Health Facility, Post Birth Care = Received Birth Care Within 24 Hour"")""",,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Children_House_HealthFacility_ReceivedBirthCareWithin24Hour_AsAFractionOf_Count_Children_House"", ""Count_Children_House_HealthFacility_ReceivedBirthCareWithin24Hour_AsAFractionOf_Count_Children_House
-Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%)"")""",,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_BirthCenter-House_HealthEstablishmentType-HealthFacility_PlaceOfResidenceClassification_PostBirthCare-ReceivedBirthCareWithin24Hour"", ""dc/g/Children_BirthCenter-House_HealthEstablishmentType-HealthFacility_PlaceOfResidenceClassification_PostBirthCare-ReceivedBirthCareWithin24Hour
-Children With Birth Center = House, Health Establishment Type = Health Facility, Place of Residence Classification, Post Birth Care = Received Birth Care Within 24 Hour"")""",,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Children_House_HealthFacility_Rural_ReceivedBirthCareWithin24Hour_AsAFractionOf_Count_Children_House_Rural"", ""Count_Children_House_HealthFacility_Rural_ReceivedBirthCareWithin24Hour_AsAFractionOf_Count_Children_House_Rural
-Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%), rural"")""",,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Children_House_HealthFacility_Urban_ReceivedBirthCareWithin24Hour_AsAFractionOf_Count_Children_House_Urban"", ""Count_Children_House_HealthFacility_Urban_ReceivedBirthCareWithin24Hour_AsAFractionOf_Count_Children_House_Urban
-Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%), urban"")""",,,,,,,,,,,,,,,,,,,,
-,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_BirthCenter-House_PlaceOfResidenceClassification"", ""dc/g/Children_BirthCenter-House_PlaceOfResidenceClassification
-Children With Birth Center = House, Place of Residence Classification"")""",,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_BirthCenter-House_PlaceOfResidenceClassification-Rural"", ""dc/g/Children_BirthCenter-House_PlaceOfResidenceClassification-Rural
-Children With Birth Center = House, Place of Residence Classification = Rural"")""",,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Children_House_HealthFacility_Rural_ReceivedBirthCareWithin24Hour_AsAFractionOf_Count_Children_House_Rural"", ""Count_Children_House_HealthFacility_Rural_ReceivedBirthCareWithin24Hour_AsAFractionOf_Count_Children_House_Rural
-Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%), rural"")""",,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Children_House_Rural"", ""Count_Children_House_Rural
-Count of Children: House, Rural"")""",,,,,,,,,,,,,,,,,,,,,,,
-,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_BirthCenter-House_PlaceOfResidenceClassification-Urban"", ""dc/g/Children_BirthCenter-House_PlaceOfResidenceClassification-Urban
-Children With Birth Center = House, Place of Residence Classification = Urban"")""",,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Children_House_HealthFacility_Urban_ReceivedBirthCareWithin24Hour_AsAFractionOf_Count_Children_House_Urban"", ""Count_Children_House_HealthFacility_Urban_ReceivedBirthCareWithin24Hour_AsAFractionOf_Count_Children_House_Urban
-Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%), urban"")""",,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Children_House_Urban"", ""Count_Children_House_Urban
-Count of Children: House, Urban"")""",,,,,,,,,,,,,,,,,,,,,,,
-,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_BirthCenter-House_PostBirthCare"", ""dc/g/Children_BirthCenter-House_PostBirthCare
-Children With Birth Center = House, Post Birth Care"")""",,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_BirthCenter-House_PostBirthCare-ReceivedBirthCareWithin24Hour"", ""dc/g/Children_BirthCenter-House_PostBirthCare-ReceivedBirthCareWithin24Hour
-Children With Birth Center = House, Post Birth Care = Received Birth Care Within 24 Hour"")""",,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_BirthCenter-House_HealthEstablishmentType_PostBirthCare-ReceivedBirthCareWithin24Hour"", ""dc/g/Children_BirthCenter-House_HealthEstablishmentType_PostBirthCare-ReceivedBirthCareWithin24Hour
-Children With Birth Center = House, Health Establishment Type, Post Birth Care = Received Birth Care Within 24 Hour"")""",,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_BirthCenter-House_PlaceOfResidenceClassification_PostBirthCare-ReceivedBirthCareWithin24Hour"", ""dc/g/Children_BirthCenter-House_PlaceOfResidenceClassification_PostBirthCare-ReceivedBirthCareWithin24Hour
-Children With Birth Center = House, Place of Residence Classification, Post Birth Care = Received Birth Care Within 24 Hour"")""",,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Children_House_HealthFacility_Rural_ReceivedBirthCareWithin24Hour_AsAFractionOf_Count_Children_House_Rural"", ""Count_Children_House_HealthFacility_Rural_ReceivedBirthCareWithin24Hour_AsAFractionOf_Count_Children_House_Rural
-Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%), rural"")""",,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Children_House_HealthFacility_Urban_ReceivedBirthCareWithin24Hour_AsAFractionOf_Count_Children_House_Urban"", ""Count_Children_House_HealthFacility_Urban_ReceivedBirthCareWithin24Hour_AsAFractionOf_Count_Children_House_Urban
-Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%), urban"")""",,,,,,,,,,,,,,,,,,,,,,
 ,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_HealthEstablishmentType"", ""dc/g/Children_HealthEstablishmentType
 Children by Health Establishment Type"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_HealthEstablishmentType-HealthFacility"", ""dc/g/Children_HealthEstablishmentType-HealthFacility
-Children With Health Establishment Type = Health Facility"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_BirthCenter_HealthEstablishmentType-HealthFacility"", ""dc/g/Children_BirthCenter_HealthEstablishmentType-HealthFacility
-Children With Birth Center, Health Establishment Type = Health Facility"")""",,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_HealthEstablishmentType-HealthFacility_PlaceOfResidenceClassification"", ""dc/g/Children_HealthEstablishmentType-HealthFacility_PlaceOfResidenceClassification
-Children With Health Establishment Type = Health Facility, Place of Residence Classification"")""",,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Children_House_HealthFacility_Rural_ReceivedBirthCareWithin24Hour_AsAFractionOf_Count_Children_House_Rural"", ""Count_Children_House_HealthFacility_Rural_ReceivedBirthCareWithin24Hour_AsAFractionOf_Count_Children_House_Rural
-Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%), rural"")""",,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Children_House_HealthFacility_Urban_ReceivedBirthCareWithin24Hour_AsAFractionOf_Count_Children_House_Urban"", ""Count_Children_House_HealthFacility_Urban_ReceivedBirthCareWithin24Hour_AsAFractionOf_Count_Children_House_Urban
-Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%), urban"")""",,,,,,,,,,,,,,,,,,,,,,,,
-,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_HealthEstablishmentType-HealthFacility_PostBirthCare"", ""dc/g/Children_HealthEstablishmentType-HealthFacility_PostBirthCare
-Children With Health Establishment Type = Health Facility, Post Birth Care"")""",,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_HealthEstablishmentType-HealthFacility_PostBirthCare-ReceivedBirthCareWithin24Hour"", ""dc/g/Children_HealthEstablishmentType-HealthFacility_PostBirthCare-ReceivedBirthCareWithin24Hour
-Children With Health Establishment Type = Health Facility, Post Birth Care = Received Birth Care Within 24 Hour"")""",,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_BirthCenter_HealthEstablishmentType-HealthFacility_PostBirthCare-ReceivedBirthCareWithin24Hour"", ""dc/g/Children_BirthCenter_HealthEstablishmentType-HealthFacility_PostBirthCare-ReceivedBirthCareWithin24Hour
-Children With Birth Center, Health Establishment Type = Health Facility, Post Birth Care = Received Birth Care Within 24 Hour"")""",,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_HealthEstablishmentType-HealthFacility_PlaceOfResidenceClassification_PostBirthCare-ReceivedBirthCareWithin24Hour"", ""dc/g/Children_HealthEstablishmentType-HealthFacility_PlaceOfResidenceClassification_PostBirthCare-ReceivedBirthCareWithin24Hour
-Children With Health Establishment Type = Health Facility, Place of Residence Classification, Post Birth Care = Received Birth Care Within 24 Hour"")""",,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Children_House_HealthFacility_Rural_ReceivedBirthCareWithin24Hour_AsAFractionOf_Count_Children_House_Rural"", ""Count_Children_House_HealthFacility_Rural_ReceivedBirthCareWithin24Hour_AsAFractionOf_Count_Children_House_Rural
-Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%), rural"")""",,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Children_House_HealthFacility_Urban_ReceivedBirthCareWithin24Hour_AsAFractionOf_Count_Children_House_Urban"", ""Count_Children_House_HealthFacility_Urban_ReceivedBirthCareWithin24Hour_AsAFractionOf_Count_Children_House_Urban
-Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%), urban"")""",,,,,,,,,,,,,,,,,,,,,,
-,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_HealthEstablishmentType-HealthFacilityHealthProvider"", ""dc/g/Children_HealthEstablishmentType-HealthFacilityHealthProvider
-Children With Health Establishment Type = Health Facility & Health Provider"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_HealthEstablishmentType-HealthFacilityHealthProvider_MedicalCondition"", ""dc/g/Children_HealthEstablishmentType-HealthFacilityHealthProvider_MedicalCondition
-Children With Health Establishment Type = Health Facility & Health Provider, Medical Condition"")""",,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_HealthEstablishmentType-HealthFacilityHealthProvider_MedicalCondition-Diarrhea"", ""dc/g/Children_HealthEstablishmentType-HealthFacilityHealthProvider_MedicalCondition-Diarrhea
-Children With Health Establishment Type = Health Facility & Health Provider, Medical Condition = Diarrhea"")""",,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Children_HealthFacilityOrHealthProvider_ConditionDiarrhea_AsAFractionOf_Count_Children_ConditionDiarrhea"", ""Count_Children_HealthFacilityOrHealthProvider_ConditionDiarrhea_AsAFractionOf_Count_Children_ConditionDiarrhea
-Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%)"")""",,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_HealthEstablishmentType-HealthFacilityHealthProvider_MedicalCondition-Diarrhea_PlaceOfResidenceClassification"", ""dc/g/Children_HealthEstablishmentType-HealthFacilityHealthProvider_MedicalCondition-Diarrhea_PlaceOfResidenceClassification
-Children With Health Establishment Type = Health Facility & Health Provider, Medical Condition = Diarrhea, Place of Residence Classification"")""",,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Children_HealthFacilityOrHealthProvider_ConditionDiarrhea_Rural_AsAFractionOf_Count_Children_ConditionDiarrhea_Rural"", ""Count_Children_HealthFacilityOrHealthProvider_ConditionDiarrhea_Rural_AsAFractionOf_Count_Children_ConditionDiarrhea_Rural
-Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%), rural"")""",,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Children_HealthFacilityOrHealthProvider_ConditionDiarrhea_Urban_AsAFractionOf_Count_Children_ConditionDiarrhea_Urban"", ""Count_Children_HealthFacilityOrHealthProvider_ConditionDiarrhea_Urban_AsAFractionOf_Count_Children_ConditionDiarrhea_Urban
-Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%), urban"")""",,,,,,,,,,,,,,,,,,,,,,
-,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_HealthEstablishmentType-HealthFacilityHealthProvider_MedicalCondition-FeverSymptomsOfAcuteRespiratoryInfection"", ""dc/g/Children_HealthEstablishmentType-HealthFacilityHealthProvider_MedicalCondition-FeverSymptomsOfAcuteRespiratoryInfection
-Children With Health Establishment Type = Health Facility & Health Provider, Medical Condition = Fever & Symptoms of Acute Respiratory Infection"")""",,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Children_HealthFacilityOrHealthProvider_ConditionFeverOrSymptomsOfAcuteRespiratoryInfection_AsAFractionOf_Count_Children_ConditionFeverOrSymptomsOfAcuteRespiratoryInfection"", ""Count_Children_HealthFacilityOrHealthProvider_ConditionFeverOrSymptomsOfAcuteRespiratoryInfection_AsAFractionOf_Count_Children_ConditionFeverOrSymptomsOfAcuteRespiratoryInfection
-Children with fever or symptoms of acute respiratory infection in the 2 weeks preceding the survey taken to a health facility or health provider (%)"")""",,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_HealthEstablishmentType-HealthFacilityHealthProvider_MedicalCondition-FeverSymptomsOfAcuteRespiratoryInfection_PlaceOfResidenceClassification"", ""dc/g/Children_HealthEstablishmentType-HealthFacilityHealthProvider_MedicalCondition-FeverSymptomsOfAcuteRespiratoryInfection_PlaceOfResidenceClassification
-Children With Health Establishment Type = Health Facility & Health Provider, Medical Condition = Fever & Symptoms of Acute Respiratory Infection, Place of Residence Classification"")""",,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Children_HealthFacilityOrHealthProvider_ConditionFeverOrSymptomsOfAcuteRespiratoryInfection_Rural_AsAFractionOf_Count_Children_ConditionFeverOrSymptomsOfAcuteRespiratoryInfection_Rural"", ""Count_Children_HealthFacilityOrHealthProvider_ConditionFeverOrSymptomsOfAcuteRespiratoryInfection_Rural_AsAFractionOf_Count_Children_ConditionFeverOrSymptomsOfAcuteRespiratoryInfection_Rural
-Children with fever or symptoms of acute respiratory infection in the 2 weeks preceding the survey taken to a health facility or health provider (%), rural"")""",,,,,,,,,,,,,,,,,,,,,,
+,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_MedicalCondition"", ""dc/g/Children_MedicalCondition
+Children by Medical Condition"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_PlaceOfResidenceClassification"", ""dc/g/Children_PlaceOfResidenceClassification
+Children by Place of Residence Classification"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_PostBirthCare"", ""dc/g/Children_PostBirthCare
+Children by Post Birth Care"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_PostnatalCareReceivedFrom"", ""dc/g/Children_PostnatalCareReceivedFrom
+Children by Postnatal Care Received From"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_PostnatalCareStatus"", ""dc/g/Children_PostnatalCareStatus
+Children by Postnatal Care Status"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Children_DoctorOrNurseOrLadyHealthVisitorOrAuxiliaryNurseMidwiferyOrMidwifeOrHealthPersonnel_ReceivedPostnatalCare_AsAFractionOf_Count_Children"", ""Count_Children_DoctorOrNurseOrLadyHealthVisitorOrAuxiliaryNurseMidwiferyOrMidwifeOrHealthPersonnel_ReceivedPostnatalCare_AsAFractionOf_Count_Children
+Children who received postnatal care from a doctor or nurse or lady health visitor ( lhv ) or auxiliary nurse midwifery ( anm ) or midwife or other health personnel within 2 days of delivery (%)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_PreventiveHealth"", ""dc/g/Children_PreventiveHealth
+Children by Preventive Health"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/CivicStructure"", ""dc/g/CivicStructure
+Civic Structure"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/CivicStructure_PlaceCategory"", ""dc/g/CivicStructure_PlaceCategory
+Civic Structure by Place Category"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_CivicStructure_AgriculturalFacility"", ""Count_CivicStructure_AgriculturalFacility
+Count of Civic Structure: Agricultural Facility"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_CivicStructure_EducationFacility"", ""Count_CivicStructure_EducationFacility
+Count of Civic Structure: Education Facility"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_CivicStructure_MedicalFacility"", ""Count_CivicStructure_MedicalFacility
+Count of Civic Structure: Medical Facility"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_CivicStructure_TransportOrAdminFacility"", ""Count_CivicStructure_TransportOrAdminFacility
+Count of Civic Structure: Transport or Admin Facility"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Commute"", ""dc/g/Commute
+Commute"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,"""=HYPERLINK(""https://datacommons.org/browser/dc/e9gftzl2hm8h9"", ""dc/e9gftzl2hm8h9
+Commute Time"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Person_Age-Years16Onwards_CommuteTime_EmploymentStatus-EmployedAndWorking_LaborForceStatus-InLaborForce_PlaceOfWork-OutsideOfHome"", ""dc/g/Person_Age-Years16Onwards_CommuteTime_EmploymentStatus-EmployedAndWorking_LaborForceStatus-InLaborForce_PlaceOfWork-OutsideOfHome
+Person With Age = 16 Years or More, Commute Time, Employment Status = Employed And Working, Labor Force Status = in Labor Force, Place of Work = Outside of Home"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/2r6wbwvbkrz23"", ""dc/2r6wbwvbkrz23
+Commute Time: 16 Years or More, 60 Minute or More, Employed And Working, in Labor Force, Outside of Home"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/dbe0drezxrpv6"", ""dc/dbe0drezxrpv6
+Population: 16 Years or More, 5 - 9 Minute, Employed And Working, in Labor Force, Outside of Home"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/fyc3yvjy0xw6g"", ""dc/fyc3yvjy0xw6g
+Population: 16 Years or More, 5 Minute or Less, Employed And Working, in Labor Force, Outside of Home"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/h7ft916g93ys2"", ""dc/h7ft916g93ys2
+Population: 16 Years or More, 90 Minute or More, Employed And Working, in Labor Force, Outside of Home"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/hntm9bl6g1gn5"", ""dc/hntm9bl6g1gn5
+Commute Time: 16 Years or More, 35 - 44 Minute, Employed And Working, in Labor Force, Outside of Home"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/jk6hj15v39b0d"", ""dc/jk6hj15v39b0d
+Commute Time: 16 Years or More, 10 Minute or Less, Employed And Working, in Labor Force, Outside of Home"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/kfr6chpkw90e3"", ""dc/kfr6chpkw90e3
+Population: 16 Years or More, 60 - 89 Minute, Employed And Working, in Labor Force, Outside of Home"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/pplpj0y0mzd3g"", ""dc/pplpj0y0mzd3g
+Population: 16 Years or More, 40 - 44 Minute, Employed And Working, in Labor Force, Outside of Home"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/vfs5dgtzhp4j4"", ""dc/vfs5dgtzhp4j4
+Population: 16 Years or More, 35 - 39 Minute, Employed And Working, in Labor Force, Outside of Home"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Person_CommuteMode"", ""dc/g/Person_CommuteMode
+Person by Commute Mode"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Person_CommuteTime"", ""dc/g/Person_CommuteTime
+Person by Commute Time"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/dbe0drezxrpv6"", ""dc/dbe0drezxrpv6
+Population: 16 Years or More, 5 - 9 Minute, Employed And Working, in Labor Force, Outside of Home"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/fyc3yvjy0xw6g"", ""dc/fyc3yvjy0xw6g
+Population: 16 Years or More, 5 Minute or Less, Employed And Working, in Labor Force, Outside of Home"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/h7ft916g93ys2"", ""dc/h7ft916g93ys2
+Population: 16 Years or More, 90 Minute or More, Employed And Working, in Labor Force, Outside of Home"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/kfr6chpkw90e3"", ""dc/kfr6chpkw90e3
+Population: 16 Years or More, 60 - 89 Minute, Employed And Working, in Labor Force, Outside of Home"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/pplpj0y0mzd3g"", ""dc/pplpj0y0mzd3g
+Population: 16 Years or More, 40 - 44 Minute, Employed And Working, in Labor Force, Outside of Home"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/vfs5dgtzhp4j4"", ""dc/vfs5dgtzhp4j4
+Population: 16 Years or More, 35 - 39 Minute, Employed And Working, in Labor Force, Outside of Home"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Person_PlaceOfWork"", ""dc/g/Person_PlaceOfWork
+Person by Place of Work"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Courthouse"", ""dc/g/Courthouse
+Courthouse"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Courthouse_AsAFractionOf_Count_Person"", ""Count_Courthouse_AsAFractionOf_Count_Person
+Estimated number of courts per 10 Lakh persons"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,"""=HYPERLINK(""https://datacommons.org/browser/IndexScore_Courthouse"", ""IndexScore_Courthouse
+Index Score of Courthouse"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Demographics_Miscellaneous"", ""dc/g/Demographics_Miscellaneous
+Miscellaneous"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/g/Access"", ""worldBank/g/Access
+Access"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/GFDD_AI_01"", ""worldBank/GFDD_AI_01
+Bank accounts per 1,000 adults"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/GFDD_AI_02"", ""worldBank/GFDD_AI_02
+Bank branches per 100,000 adults"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/GFDD_AI_05"", ""worldBank/GFDD_AI_05
+Financial institution account (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/GFDD_AI_06"", ""worldBank/GFDD_AI_06
+Saved at a financial institution (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/GFDD_AI_07"", ""worldBank/GFDD_AI_07
+Borrowed from a financial institution (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/GFDD_AI_18"", ""worldBank/GFDD_AI_18
+Borrowed from family or friends (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/GFDD_AI_20"", ""worldBank/GFDD_AI_20
+Credit card ownership (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/GFDD_AI_21"", ""worldBank/GFDD_AI_21
+Debit card ownership (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/GFDD_AI_25"", ""worldBank/GFDD_AI_25
+ATMs per 100,000 adults"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/GFDD_AM_01"", ""worldBank/GFDD_AM_01
+Value traded excluding top 10 traded companies to total value traded (%)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/GFDD_AM_02"", ""worldBank/GFDD_AM_02
+Market capitalization excluding top 10 companies to total market capitalization (%)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/GFDD_AM_03"", ""worldBank/GFDD_AM_03
+Nonfinancial corporate bonds to total bonds and notes outstanding (%)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/account_t_d_11"", ""worldBank/account_t_d_11
+Account, out of labor force (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/account_t_d_12"", ""worldBank/account_t_d_12
+Account, in labor force (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/account_t_d_3"", ""worldBank/account_t_d_3
+Account, young (% ages 15-24)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/account_t_d_4"", ""worldBank/account_t_d_4
+Account, older (% age 25+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/account_t_d_5"", ""worldBank/account_t_d_5
+Account, primary education or less (% ages 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/account_t_d_6"", ""worldBank/account_t_d_6
+Account, secondary education or more (% ages 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/account_t_d_7"", ""worldBank/account_t_d_7
+Account, income, poorest 40% (% ages 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/account_t_d_8"", ""worldBank/account_t_d_8
+Account, income, richest 60% (% ages 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin1_t_d_11"", ""worldBank/fin1_t_d_11
+Financial institution account, out of labor force (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin1_t_d_12"", ""worldBank/fin1_t_d_12
+Financial institution account, in labor force (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin1_t_d_3"", ""worldBank/fin1_t_d_3
+Financial institution account, young (% ages 15-24)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin1_t_d_4"", ""worldBank/fin1_t_d_4
+Financial institution account, older (% age 25+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin1_t_d_5"", ""worldBank/fin1_t_d_5
+Financial institution account, primary education or less (% ages 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin1_t_d_6"", ""worldBank/fin1_t_d_6
+Financial institution account, secondary education or more (% ages 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin1_t_d_7"", ""worldBank/fin1_t_d_7
+Financial institution account, income, poorest 40% (% ages 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin1_t_d_8"", ""worldBank/fin1_t_d_8
+Financial institution account, income, richest 60% (% ages 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin2_7_t_d_11"", ""worldBank/fin2_7_t_d_11
+Owns a debit or credit card, out of labor force (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin2_7_t_d_12"", ""worldBank/fin2_7_t_d_12
+Owns a debit or credit card, in labor force (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin2_7_t_d_3"", ""worldBank/fin2_7_t_d_3
+Owns a debit or credit card, young (% ages 15-24)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin2_7_t_d_4"", ""worldBank/fin2_7_t_d_4
+Owns a debit or credit card, older (% age 25+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin2_7_t_d_5"", ""worldBank/fin2_7_t_d_5
+Owns a debit or credit card, primary education or less (% ages 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin2_7_t_d_6"", ""worldBank/fin2_7_t_d_6
+Owns a debit or credit card, secondary education or more (% ages 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin2_7_t_d_7"", ""worldBank/fin2_7_t_d_7
+Owns a debit or credit card, income, poorest 40% (% ages 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin2_7_t_d_8"", ""worldBank/fin2_7_t_d_8
+Owns a debit or credit card, income, richest 60% (% ages 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin2_t_d_11"", ""worldBank/fin2_t_d_11
+Owns a debit card, out of labor force (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin2_t_d_12"", ""worldBank/fin2_t_d_12
+Owns a debit card, in labor force (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin2_t_d_3"", ""worldBank/fin2_t_d_3
+Owns a debit card, young (% ages 15-24)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin2_t_d_4"", ""worldBank/fin2_t_d_4
+Owns a debit card, older (% age 25+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin2_t_d_5"", ""worldBank/fin2_t_d_5
+Owns a debit card, primary education or less (% ages 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin2_t_d_6"", ""worldBank/fin2_t_d_6
+Owns a debit card, secondary education or more (% ages 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin2_t_d_7"", ""worldBank/fin2_t_d_7
+Owns a debit card, income, poorest 40% (% ages 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin2_t_d_8"", ""worldBank/fin2_t_d_8
+Owns a debit card, income, richest 60% (% ages 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin7_t_d_11"", ""worldBank/fin7_t_d_11
+Owns a credit card, out of labor force (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin7_t_d_12"", ""worldBank/fin7_t_d_12
+Owns a credit card, in labor force (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin7_t_d_3"", ""worldBank/fin7_t_d_3
+Owns a credit card, young (% ages 15-24)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin7_t_d_4"", ""worldBank/fin7_t_d_4
+Owns a credit card, older (% age 25+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin7_t_d_5"", ""worldBank/fin7_t_d_5
+Owns a credit card, primary education or less (% ages 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin7_t_d_6"", ""worldBank/fin7_t_d_6
+Owns a credit card, secondary education or more (% ages 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin7_t_d_7"", ""worldBank/fin7_t_d_7
+Owns a credit card, income, poorest 40% (% ages 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin7_t_d_8"", ""worldBank/fin7_t_d_8
+Owns a credit card, income, richest 60% (% ages 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/g/Assets"", ""worldBank/g/Assets
+Assets"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/account_t_d"", ""worldBank/account_t_d
+Account (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/account_t_d_1"", ""worldBank/account_t_d_1
+Account, female (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/account_t_d_2"", ""worldBank/account_t_d_2
+Account, male (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/borrow_any"", ""worldBank/borrow_any
+Borrowed any money (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/borrow_any_1"", ""worldBank/borrow_any_1
+Borrowed any money, female (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/borrow_any_2"", ""worldBank/borrow_any_2
+Borrowed any money, male (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin16_t_d"", ""worldBank/fin16_t_d
+Saved for old age (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin16_t_d_1"", ""worldBank/fin16_t_d_1
+Saved for old age, female (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin16_t_d_2"", ""worldBank/fin16_t_d_2
+Saved for old age, male (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin17a_t_d"", ""worldBank/fin17a_t_d
+Saved at a financial institution (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin17a_t_d_1"", ""worldBank/fin17a_t_d_1
+Saved at a financial institution, female (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin17a_t_d_2"", ""worldBank/fin17a_t_d_2
+Saved at a financial institution, male (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin17b_t_d"", ""worldBank/fin17b_t_d
+Saved using a savings club or a person outside the family (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin17b_t_d_1"", ""worldBank/fin17b_t_d_1
+Saved using a savings club or a person outside the family, female (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin17b_t_d_2"", ""worldBank/fin17b_t_d_2
+Saved using a savings club or a person outside the family, male (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin1_t_d"", ""worldBank/fin1_t_d
+Financial institution account (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin1_t_d_1"", ""worldBank/fin1_t_d_1
+Financial institution account, female (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin1_t_d_2"", ""worldBank/fin1_t_d_2
+Financial institution account, male (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin20_t_d"", ""worldBank/fin20_t_d
+Borrowed for health or medical purposes (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin20_t_d_1"", ""worldBank/fin20_t_d_1
+Borrowed for health or medical purposes, female (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin20_t_d_2"", ""worldBank/fin20_t_d_2
+Borrowed for health or medical purposes, male (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin21b_2014"", ""worldBank/fin21b_2014
+Borrowed from a store by buying on credit (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin21b_2014_1"", ""worldBank/fin21b_2014_1
+Borrowed from a store by buying on credit, female (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin21b_2014_2"", ""worldBank/fin21b_2014_2
+Borrowed from a store by buying on credit, male (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin22a_c_t_d"", ""worldBank/fin22a_c_t_d
+Borrowed from a formal financial institution (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin22a_c_t_d_1"", ""worldBank/fin22a_c_t_d_1
+Borrowed from a formal financial institution, female (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin22a_c_t_d_2"", ""worldBank/fin22a_c_t_d_2
+Borrowed from a formal financial institution, male (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin22b_t_d"", ""worldBank/fin22b_t_d
+Borrowed from family or friends (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin22b_t_d_1"", ""worldBank/fin22b_t_d_1
+Borrowed from family or friends, female (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin22b_t_d_2"", ""worldBank/fin22b_t_d_2
+Borrowed from family or friends, male (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin26_28_t_d"", ""worldBank/fin26_28_t_d
+Sent or received domestic remittances (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin26_28_t_d_1"", ""worldBank/fin26_28_t_d_1
+Sent or received domestic remittances, female (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin26_28_t_d_2"", ""worldBank/fin26_28_t_d_2
+Sent or received domestic remittances, male (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin26_t_d"", ""worldBank/fin26_t_d
+Sent domestic remittances (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin26_t_d_1"", ""worldBank/fin26_t_d_1
+Sent domestic remittances, female (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin26_t_d_2"", ""worldBank/fin26_t_d_2
+Sent domestic remittances, male (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin28_t_d"", ""worldBank/fin28_t_d
+Received domestic remittances (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin28_t_d_1"", ""worldBank/fin28_t_d_1
+Received domestic remittances, female (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin28_t_d_2"", ""worldBank/fin28_t_d_2
+Received domestic remittances, male (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin2_7_t_d"", ""worldBank/fin2_7_t_d
+Owns a debit or credit card (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin2_7_t_d_1"", ""worldBank/fin2_7_t_d_1
+Owns a debit or credit card, female (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin2_7_t_d_2"", ""worldBank/fin2_7_t_d_2
+Owns a debit or credit card, male (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin2_t_d"", ""worldBank/fin2_t_d
+Owns a debit card (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin2_t_d_1"", ""worldBank/fin2_t_d_1
+Owns a debit card, female (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin2_t_d_2"", ""worldBank/fin2_t_d_2
+Owns a debit card, male (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin30_t_d"", ""worldBank/fin30_t_d
+Made a utility payment (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin30_t_d_1"", ""worldBank/fin30_t_d_1
+Made a utility payment, female (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin30_t_d_2"", ""worldBank/fin30_t_d_2
+Made a utility payment, male (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin37_38_t_d"", ""worldBank/fin37_38_t_d
+Received government transfer or pension (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin37_38_t_d_1"", ""worldBank/fin37_38_t_d_1
+Received government transfer or pension, female (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin37_38_t_d_2"", ""worldBank/fin37_38_t_d_2
+Received government transfer or pension, male (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin37_t_d"", ""worldBank/fin37_t_d
+Received government transfer (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin37_t_d_1"", ""worldBank/fin37_t_d_1
+Received government transfer, female (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin37_t_d_2"", ""worldBank/fin37_t_d_2
+Received government transfer, male (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin38_t_d"", ""worldBank/fin38_t_d
+Received a public sector pension (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin38_t_d_1"", ""worldBank/fin38_t_d_1
+Received a public sector pension, female (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin38_t_d_2"", ""worldBank/fin38_t_d_2
+Received a public sector pension, male (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin42_t_d"", ""worldBank/fin42_t_d
+Received payments for the sale of agricultural products, livestock, or crops (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin42_t_d_1"", ""worldBank/fin42_t_d_1
+Received payments for the sale of agricultural products, livestock, or crops, female (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin42_t_d_2"", ""worldBank/fin42_t_d_2
+Received payments for the sale of agricultural products, livestock, or crops, male (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin7_t_d"", ""worldBank/fin7_t_d
+Owns a credit card (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin7_t_d_1"", ""worldBank/fin7_t_d_1
+Owns a credit card, female (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin7_t_d_2"", ""worldBank/fin7_t_d_2
+Owns a credit card, male (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin9N_10N_t_d"", ""worldBank/fin9N_10N_t_d
+Has an inactive account (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin9N_10N_t_d_1"", ""worldBank/fin9N_10N_t_d_1
+Has an inactive account, female (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin9N_10N_t_d_2"", ""worldBank/fin9N_10N_t_d_2
+Has an inactive account, male (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fing2p_t_d"", ""worldBank/fing2p_t_d
+Received government payments (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fing2p_t_d_1"", ""worldBank/fing2p_t_d_1
+Received government payments, female (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fing2p_t_d_2"", ""worldBank/fing2p_t_d_2
+Received government payments, male (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/g20_receive_t_d"", ""worldBank/g20_receive_t_d
+Received digital payments (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/g20_receive_t_d_1"", ""worldBank/g20_receive_t_d_1
+Received digital payments, female (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/g20_receive_t_d_2"", ""worldBank/g20_receive_t_d_2
+Received digital payments, male (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/mobileaccount_t_d"", ""worldBank/mobileaccount_t_d
+Mobile money account (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/mobileaccount_t_d_1"", ""worldBank/mobileaccount_t_d_1
+Mobile money account, female (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/mobileaccount_t_d_2"", ""worldBank/mobileaccount_t_d_2
+Mobile money account, male (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/save_any"", ""worldBank/save_any
+Saved any money (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/save_any_1"", ""worldBank/save_any_1
+Saved any money, female (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/save_any_2"", ""worldBank/save_any_2
+Saved any money, male (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/g/Early_Childhood_Education"", ""worldBank/g/Early_Childhood_Education
+Early Childhood Education"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/UIS_E_02_PR"", ""worldBank/UIS_E_02_PR
+Enrolment in pre-primary education, private institutions, both sexes (number)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/UIS_E_02_PR_F"", ""worldBank/UIS_E_02_PR_F
+Enrolment in pre-primary education, private institutions, female (number)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/UIS_E_02_PU"", ""worldBank/UIS_E_02_PU
+Enrolment in pre-primary education, public institutions, both sexes (number)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/UIS_E_02_PU_F"", ""worldBank/UIS_E_02_PU_F
+Enrolment in pre-primary education, public institutions, female (number)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/UIS_E_0_F"", ""worldBank/UIS_E_0_F
+Enrolment in early childhood education, female (number)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/UIS_E_0_PR_F"", ""worldBank/UIS_E_0_PR_F
+Enrolment in early childhood education, private institutions, female (number)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/UIS_E_0_PR_T"", ""worldBank/UIS_E_0_PR_T
+Enrolment in early childhood education, private institutions, both sexes (number)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/UIS_E_0_PU_T"", ""worldBank/UIS_E_0_PU_T
+Enrolment in early childhood education, public institutions, both sexes (number)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/UIS_E_0_T"", ""worldBank/UIS_E_0_T
+Enrolment in early childhood education, both sexes (number)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/UIS_FEP_0"", ""worldBank/UIS_FEP_0
+Percentage of students in early childhood education who are female (%)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/UIS_PRP_0"", ""worldBank/UIS_PRP_0
+Percentage of enrolment in early childhood education programmes in private institutions (%)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/g/Education"", ""worldBank/g/Education
+Education"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/HD_HCI_EYRS"", ""worldBank/HD_HCI_EYRS
+Expected Years of School"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/HD_HCI_EYRS_FE"", ""worldBank/HD_HCI_EYRS_FE
+Expected Years of School, Female"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/HD_HCI_EYRS_MA"", ""worldBank/HD_HCI_EYRS_MA
+Expected Years of School, Male"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/HD_HCI_HLOS"", ""worldBank/HD_HCI_HLOS
+Harmonized Test Scores"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/HD_HCI_HLOS_FE"", ""worldBank/HD_HCI_HLOS_FE
+Harmonized Test Scores, Female"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/HD_HCI_HLOS_MA"", ""worldBank/HD_HCI_HLOS_MA
+Harmonized Test Scores, Male"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/HD_HCI_LAYS"", ""worldBank/HD_HCI_LAYS
+Learning-Adjusted Years of School"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/HD_HCI_LAYS_FE"", ""worldBank/HD_HCI_LAYS_FE
+Learning-Adjusted Years of School, Female"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/HD_HCI_LAYS_MA"", ""worldBank/HD_HCI_LAYS_MA
+Learning-Adjusted Years of School, Male"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/UIS_FGP_5T8_F400"", ""worldBank/UIS_FGP_5T8_F400
+Female share of graduates in Business, Administration and Law programmes, tertiary (%)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/UIS_FGP_5T8_F600"", ""worldBank/UIS_FGP_5T8_F600
+Female share of graduates in Information and Communication Technologies programmes, tertiary (%)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/UIS_FGP_5T8_FNON500600700"", ""worldBank/UIS_FGP_5T8_FNON500600700
+Female share of graduates in other fields than Science, Technology, Engineering and Mathematics programmes, tertiary (%)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/UIS_LP_AG15T24"", ""worldBank/UIS_LP_AG15T24
+Youth illiterate population, 15-24 years, both sexes (number)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/UIS_LP_AG15T24_F"", ""worldBank/UIS_LP_AG15T24_F
+Youth illiterate population, 15-24 years, female (number)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/UIS_LP_AG15T24_M"", ""worldBank/UIS_LP_AG15T24_M
+Youth illiterate population, 15-24 years, male (number)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/g/Education_Outcomes"", ""worldBank/g/Education_Outcomes
+Education: Outcomes"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/SE_ADT_1524_LT_FE_ZS"", ""worldBank/SE_ADT_1524_LT_FE_ZS
+Literacy rate, youth female (% of females ages 15-24)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/SE_ADT_1524_LT_MA_ZS"", ""worldBank/SE_ADT_1524_LT_MA_ZS
+Literacy rate, youth male (% of males ages 15-24)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/SE_ADT_1524_LT_ZS"", ""worldBank/SE_ADT_1524_LT_ZS
+Literacy rate, youth total (% of people ages 15-24)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/SE_ADT_LITR_ZS"", ""worldBank/SE_ADT_LITR_ZS
+Literacy rate, adult total (% of people ages 15 and above)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/SE_PRM_CMPT_ZS"", ""worldBank/SE_PRM_CMPT_ZS
+Primary completion rate, total (% of relevant age group)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/SE_PRM_CUAT_FE_ZS"", ""worldBank/SE_PRM_CUAT_FE_ZS
+Educational attainment, at least completed primary, population 25+ years, female (%) (cumulative)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/SE_PRM_CUAT_MA_ZS"", ""worldBank/SE_PRM_CUAT_MA_ZS
+Educational attainment, at least completed primary, population 25+ years, male (%) (cumulative)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/SE_PRM_CUAT_ZS"", ""worldBank/SE_PRM_CUAT_ZS
+Educational attainment, at least completed primary, population 25+ years, total (%) (cumulative)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/SE_SEC_CUAT_LO_FE_ZS"", ""worldBank/SE_SEC_CUAT_LO_FE_ZS
+Educational attainment, at least completed lower secondary, population 25+, female (%) (cumulative)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/SE_SEC_CUAT_LO_MA_ZS"", ""worldBank/SE_SEC_CUAT_LO_MA_ZS
+Educational attainment, at least completed lower secondary, population 25+, male (%) (cumulative)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/SE_SEC_CUAT_LO_ZS"", ""worldBank/SE_SEC_CUAT_LO_ZS
+Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/SE_SEC_CUAT_PO_FE_ZS"", ""worldBank/SE_SEC_CUAT_PO_FE_ZS
+Educational attainment, at least completed post-secondary, population 25+, female (%) (cumulative)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/SE_SEC_CUAT_PO_MA_ZS"", ""worldBank/SE_SEC_CUAT_PO_MA_ZS
+Educational attainment, at least completed post-secondary, population 25+, male (%) (cumulative)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/SE_SEC_CUAT_PO_ZS"", ""worldBank/SE_SEC_CUAT_PO_ZS
+Educational attainment, at least completed post-secondary, population 25+, total (%) (cumulative)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/SE_SEC_CUAT_UP_FE_ZS"", ""worldBank/SE_SEC_CUAT_UP_FE_ZS
+Educational attainment, at least completed upper secondary, population 25+, female (%) (cumulative)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/SE_SEC_CUAT_UP_MA_ZS"", ""worldBank/SE_SEC_CUAT_UP_MA_ZS
+Educational attainment, at least completed upper secondary, population 25+, male (%) (cumulative)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/SE_SEC_CUAT_UP_ZS"", ""worldBank/SE_SEC_CUAT_UP_ZS
+Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/SE_TER_CUAT_BA_FE_ZS"", ""worldBank/SE_TER_CUAT_BA_FE_ZS
+Educational attainment, at least Bachelor's or equivalent, population 25+, female (%) (cumulative)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/SE_TER_CUAT_BA_MA_ZS"", ""worldBank/SE_TER_CUAT_BA_MA_ZS
+Educational attainment, at least Bachelor's or equivalent, population 25+, male (%) (cumulative)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/SE_TER_CUAT_BA_ZS"", ""worldBank/SE_TER_CUAT_BA_ZS
+Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/SE_TER_CUAT_DO_FE_ZS"", ""worldBank/SE_TER_CUAT_DO_FE_ZS
+Educational attainment, Doctoral or equivalent, population 25+, female (%) (cumulative)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/SE_TER_CUAT_DO_MA_ZS"", ""worldBank/SE_TER_CUAT_DO_MA_ZS
+Educational attainment, Doctoral or equivalent, population 25+, male (%) (cumulative)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/SE_TER_CUAT_DO_ZS"", ""worldBank/SE_TER_CUAT_DO_ZS
+Educational attainment, Doctoral or equivalent, population 25+, total (%) (cumulative)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/SE_TER_CUAT_MS_FE_ZS"", ""worldBank/SE_TER_CUAT_MS_FE_ZS
+Educational attainment, at least Master's or equivalent, population 25+, female (%) (cumulative)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/SE_TER_CUAT_MS_MA_ZS"", ""worldBank/SE_TER_CUAT_MS_MA_ZS
+Educational attainment, at least Master's or equivalent, population 25+, male (%) (cumulative)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/SE_TER_CUAT_MS_ZS"", ""worldBank/SE_TER_CUAT_MS_ZS
+Educational attainment, at least Master's or equivalent, population 25+, total (%) (cumulative)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/SE_TER_CUAT_ST_FE_ZS"", ""worldBank/SE_TER_CUAT_ST_FE_ZS
+Educational attainment, at least completed short-cycle tertiary, population 25+, female (%) (cumulative)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/SE_TER_CUAT_ST_MA_ZS"", ""worldBank/SE_TER_CUAT_ST_MA_ZS
+Educational attainment, at least completed short-cycle tertiary, population 25+, male (%) (cumulative)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/SE_TER_CUAT_ST_ZS"", ""worldBank/SE_TER_CUAT_ST_ZS
+Educational attainment, at least completed short-cycle tertiary, population 25+, total (%) (cumulative)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/g/Education_Participation"", ""worldBank/g/Education_Participation
+Education: Participation"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/SE_ENR_PRIM_FM_ZS"", ""worldBank/SE_ENR_PRIM_FM_ZS
+School enrollment, primary (gross), gender parity index (GPI)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/SE_ENR_PRSC_FM_ZS"", ""worldBank/SE_ENR_PRSC_FM_ZS
+School enrollment, primary and secondary (gross), gender parity index (GPI)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/SE_ENR_SECO_FM_ZS"", ""worldBank/SE_ENR_SECO_FM_ZS
+School enrollment, secondary (gross), gender parity index (GPI)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/SE_ENR_TERT_FM_ZS"", ""worldBank/SE_ENR_TERT_FM_ZS
+School enrollment, tertiary (gross), gender parity index (GPI)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/SE_PRM_NENR"", ""worldBank/SE_PRM_NENR
+School enrollment, primary (% net)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/SE_PRM_TENR"", ""worldBank/SE_PRM_TENR
+Adjusted net enrollment rate, primary (% of primary school age children)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/SE_PRM_UNER_ZS"", ""worldBank/SE_PRM_UNER_ZS
+Children out of school (% of primary school age)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/g/Employment"", ""worldBank/g/Employment
+Employment"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_EMP_FRML_PB_ZS"", ""worldBank/BI_EMP_FRML_PB_ZS
+Public sector employment, as a share of formal employment"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_EMP_PUBS_FE_CK_ZS"", ""worldBank/BI_EMP_PUBS_FE_CK_ZS
+Public sector female employment, as a share of paid employment by occupational group: Clerks"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_EMP_PUBS_FE_EO_ZS"", ""worldBank/BI_EMP_PUBS_FE_EO_ZS
+Public sector female employment, as a share of paid employment by occupational group: Elementary workers"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_EMP_PUBS_FE_PN_ZS"", ""worldBank/BI_EMP_PUBS_FE_PN_ZS
+Public sector female employment, as a share of paid employment by occupational group: Professionals"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_EMP_PUBS_FE_SN_ZS"", ""worldBank/BI_EMP_PUBS_FE_SN_ZS
+Public sector female employment, as a share of paid employment by occupational group: Manager"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_EMP_PUBS_FE_TN_ZS"", ""worldBank/BI_EMP_PUBS_FE_TN_ZS
+Public sector female employment, as a share of paid employment by occupational group: Technicians"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_EMP_PWRK_PB_CK_ZS"", ""worldBank/BI_EMP_PWRK_PB_CK_ZS
+Public sector employment, as a share of paid employment, by occupational group: Clerks"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_EMP_PWRK_PB_EO_ZS"", ""worldBank/BI_EMP_PWRK_PB_EO_ZS
+Public sector employment, as a share of paid employment, by occupational group: Elementary workers"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_EMP_PWRK_PB_FE_ZS"", ""worldBank/BI_EMP_PWRK_PB_FE_ZS
+Public sector employment, as a share of paid employment by gender: Female"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_EMP_PWRK_PB_MA_ZS"", ""worldBank/BI_EMP_PWRK_PB_MA_ZS
+Public sector employment, as a share of paid employment by gender: male"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_EMP_PWRK_PB_PN_ZS"", ""worldBank/BI_EMP_PWRK_PB_PN_ZS
+Public sector employment, as a share of paid employment, by occupational group: Professionals"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_EMP_PWRK_PB_RU_ZS"", ""worldBank/BI_EMP_PWRK_PB_RU_ZS
+Public sector employment, as a share of paid employment by location: rural"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_EMP_PWRK_PB_SN_ZS"", ""worldBank/BI_EMP_PWRK_PB_SN_ZS
+Public sector employment, as a share of paid employment, by occupational group: Manager"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_EMP_PWRK_PB_TN_ZS"", ""worldBank/BI_EMP_PWRK_PB_TN_ZS
+Public sector employment, as a share of paid employment, by occupational group: Technicians"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_EMP_PWRK_PB_UR_ZS"", ""worldBank/BI_EMP_PWRK_PB_UR_ZS
+Public sector employment, as a share of paid employment by location: urban"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_EMP_PWRK_PB_ZS"", ""worldBank/BI_EMP_PWRK_PB_ZS
+Public sector employment, as a share of paid employment"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_EMP_TOTL_NO"", ""worldBank/BI_EMP_TOTL_NO
+Number of employed individuals"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_EMP_TOTL_PB_CK_ZS"", ""worldBank/BI_EMP_TOTL_PB_CK_ZS
+Public sector employment, as a share of total employment, by occupational group: Clerks"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_EMP_TOTL_PB_EO_ZS"", ""worldBank/BI_EMP_TOTL_PB_EO_ZS
+Public sector employment, as a share of total employment, by occupationa group: Elementary workers"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_EMP_TOTL_PB_FE_ZS"", ""worldBank/BI_EMP_TOTL_PB_FE_ZS
+Public sector employment, as a share of total employment by gender: Female"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_EMP_TOTL_PB_MA_ZS"", ""worldBank/BI_EMP_TOTL_PB_MA_ZS
+Public sector employment, as a share of total employment by gender: male"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_EMP_TOTL_PB_PN_ZS"", ""worldBank/BI_EMP_TOTL_PB_PN_ZS
+Public sector employment, as a share of total employment, by occupational group: Professionals"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_EMP_TOTL_PB_RU_ZS"", ""worldBank/BI_EMP_TOTL_PB_RU_ZS
+Public sector employment, as a share of total employment by location: rural"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_EMP_TOTL_PB_SN_ZS"", ""worldBank/BI_EMP_TOTL_PB_SN_ZS
+Public sector employment, as a share of total employment, by occupational group: Manager"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_EMP_TOTL_PB_TN_ZS"", ""worldBank/BI_EMP_TOTL_PB_TN_ZS
+Public sector employment, as a share of total employment, by occupational group: Technicians"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_EMP_TOTL_PB_TT_ZS"", ""worldBank/BI_EMP_TOTL_PB_TT_ZS
+Proportion of total employees with tertiary Education working in public sector"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_EMP_TOTL_PB_UR_ZS"", ""worldBank/BI_EMP_TOTL_PB_UR_ZS
+Public sector employment, as a share of total employment by location: urban"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_EMP_TOTL_PB_ZS"", ""worldBank/BI_EMP_TOTL_PB_ZS
+Public sector employment, as a share of total employment"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_PWK_AGES_PB_MD"", ""worldBank/BI_PWK_AGES_PB_MD
+Median age of public paid employees"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_PWK_AGES_PB_SM"", ""worldBank/BI_PWK_AGES_PB_SM
+Mean age of public paid employees"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_PWK_AGES_PV_MD"", ""worldBank/BI_PWK_AGES_PV_MD
+Median age of private paid employees"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_PWK_AGES_PV_SM"", ""worldBank/BI_PWK_AGES_PV_SM
+Mean age of private paid employees"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_PWK_PRVS_CK_FE_ZS"", ""worldBank/BI_PWK_PRVS_CK_FE_ZS
+Females, as a share of private paid employees by occupational group: Clerks"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_PWK_PRVS_CT_ZS"", ""worldBank/BI_PWK_PRVS_CT_ZS
+Share of private paid employees with a contract"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_PWK_PRVS_EO_FE_ZS"", ""worldBank/BI_PWK_PRVS_EO_FE_ZS
+Females, as a share of private paid employees by occupational group: Elementary occupation"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_PWK_PRVS_FE_Q1_ZS"", ""worldBank/BI_PWK_PRVS_FE_Q1_ZS
+Females, as a share of private paid employees by wage quintile: Quintile 1"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_PWK_PRVS_FE_Q2_ZS"", ""worldBank/BI_PWK_PRVS_FE_Q2_ZS
+Females, as a share of private paid employees by wage quintile: Quintile 2"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_PWK_PRVS_FE_Q3_ZS"", ""worldBank/BI_PWK_PRVS_FE_Q3_ZS
+Females, as a share of private paid employees by wage quintile: Quintile 3"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_PWK_PRVS_FE_Q4_ZS"", ""worldBank/BI_PWK_PRVS_FE_Q4_ZS
+Females, as a share of private paid employees by wage quintile: Quintile 4"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_PWK_PRVS_FE_Q5_ZS"", ""worldBank/BI_PWK_PRVS_FE_Q5_ZS
+Females, as a share of private paid employees by wage quintile: Quintile 5"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_PWK_PRVS_FE_ZS"", ""worldBank/BI_PWK_PRVS_FE_ZS
+Females, as a share of private paid employees"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_PWK_PRVS_HS_ZS"", ""worldBank/BI_PWK_PRVS_HS_ZS
+Share of private paid employees with health insurance"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_PWK_PRVS_NN_ZS"", ""worldBank/BI_PWK_PRVS_NN_ZS
+Individuals with no education as a share of private paid employees"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_PWK_PRVS_PN_FE_ZS"", ""worldBank/BI_PWK_PRVS_PN_FE_ZS
+Females, as a share of private paid employees by occupational group: Professionals"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_PWK_PRVS_PR_ZS"", ""worldBank/BI_PWK_PRVS_PR_ZS
+Individuals with primary education as a share of private paid employees"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_PWK_PRVS_RU_ZS"", ""worldBank/BI_PWK_PRVS_RU_ZS
+Rural residents, as a share of private paid employees"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_PWK_PRVS_SG_ZS"", ""worldBank/BI_PWK_PRVS_SG_ZS
+Individuals with secondary education as a share of private paid employees"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_PWK_PRVS_SN_FE_ZS"", ""worldBank/BI_PWK_PRVS_SN_FE_ZS
+Females, as a share of private paid employees by occupational group: Managers"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_PWK_PRVS_SY_ZS"", ""worldBank/BI_PWK_PRVS_SY_ZS
+Share of private paid employees with social security"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_PWK_PRVS_TN_FE_ZS"", ""worldBank/BI_PWK_PRVS_TN_FE_ZS
+Females, as a share of private paid employees by occupational group: Technicians"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_PWK_PRVS_TT_ZS"", ""worldBank/BI_PWK_PRVS_TT_ZS
+Individuals with tertiary education as a share of private paid employees"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_PWK_PRVS_UM_ZS"", ""worldBank/BI_PWK_PRVS_UM_ZS
+Share of private paid employees with union membership"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_PWK_PUBS_CK_FE_ZS"", ""worldBank/BI_PWK_PUBS_CK_FE_ZS
+Females, as a share of public paid employees by occupational group: Clerks"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_PWK_PUBS_CT_ZS"", ""worldBank/BI_PWK_PUBS_CT_ZS
+Share of public paid employees with a contract"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_PWK_PUBS_EO_FE_ZS"", ""worldBank/BI_PWK_PUBS_EO_FE_ZS
+Females, as a share of public paid employees by occupational group: Elementary occupation"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_PWK_PUBS_FE_Q1_ZS"", ""worldBank/BI_PWK_PUBS_FE_Q1_ZS
+Females, as a share of public paid employees by wage quintile: Quintile 1"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_PWK_PUBS_FE_Q2_ZS"", ""worldBank/BI_PWK_PUBS_FE_Q2_ZS
+Females, as a share of public paid employees by wage quintile: Quintile 2"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_PWK_PUBS_FE_Q3_ZS"", ""worldBank/BI_PWK_PUBS_FE_Q3_ZS
+Females, as a share of public paid employees by wage quintile: Quintile 3"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_PWK_PUBS_FE_Q4_ZS"", ""worldBank/BI_PWK_PUBS_FE_Q4_ZS
+Females, as a share of public paid employees by wage quintile: Quintile 4"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_PWK_PUBS_FE_Q5_ZS"", ""worldBank/BI_PWK_PUBS_FE_Q5_ZS
+Females, as a share of public paid employees by wage quintile: Quintile 5"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_PWK_PUBS_FE_ZS"", ""worldBank/BI_PWK_PUBS_FE_ZS
+Females, as a share of public paid employees"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_PWK_PUBS_HS_ZS"", ""worldBank/BI_PWK_PUBS_HS_ZS
+Share of public paid employees with health insurance"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_PWK_PUBS_NN_ZS"", ""worldBank/BI_PWK_PUBS_NN_ZS
+Individuals with no education as a share of public paid employees"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_PWK_PUBS_NO"", ""worldBank/BI_PWK_PUBS_NO
+Number of public paid employees"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_PWK_PUBS_PN_FE_ZS"", ""worldBank/BI_PWK_PUBS_PN_FE_ZS
+Females, as a share of public paid employees by occupational group: Professionals"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_PWK_PUBS_PR_ZS"", ""worldBank/BI_PWK_PUBS_PR_ZS
+Individuals with primary education as a share of public paid employees"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_PWK_PUBS_RU_ZS"", ""worldBank/BI_PWK_PUBS_RU_ZS
+Rural residents, as a share of public paid employees"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_PWK_PUBS_SG_ZS"", ""worldBank/BI_PWK_PUBS_SG_ZS
+Individuals with secondary education as a share of public paid employees"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_PWK_PUBS_SN_FE_ZS"", ""worldBank/BI_PWK_PUBS_SN_FE_ZS
+Females, as a share of public paid employees by occupational group: Managers"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_PWK_PUBS_SY_ZS"", ""worldBank/BI_PWK_PUBS_SY_ZS
+Share of public paid employees with social security"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_PWK_PUBS_TN_FE_ZS"", ""worldBank/BI_PWK_PUBS_TN_FE_ZS
+Females, as a share of public paid employees by occupational group: Technicians"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_PWK_PUBS_TT_ZS"", ""worldBank/BI_PWK_PUBS_TT_ZS
+Individuals with tertiary education as a share of public paid employees"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_PWK_PUBS_UM_ZS"", ""worldBank/BI_PWK_PUBS_UM_ZS
+Share of public paid employees with union membership"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_PWK_TOTL_NO"", ""worldBank/BI_PWK_TOTL_NO
+Number of paid employees"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_WAG_CPRS_PB_ZS"", ""worldBank/BI_WAG_CPRS_PB_ZS
+Pay compression ratio in public sector (ratio of 90th/10th percentile earners)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_WAG_CPRS_PV_ZS"", ""worldBank/BI_WAG_CPRS_PV_ZS
+Pay compression ratio in private sector (ratio of 90th/10th percentile earners)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_WAG_PREM_PB"", ""worldBank/BI_WAG_PREM_PB
+Public sector wage premium (compared to formal wage employees)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_WAG_PREM_PB_CK"", ""worldBank/BI_WAG_PREM_PB_CK
+Public sector wage premium, by occupational group: Clerks (compared to formal wage employees)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_WAG_PREM_PB_ED"", ""worldBank/BI_WAG_PREM_PB_ED
+P-Value: Public sector wage premium, by education level (compared to formal wage employees)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_WAG_PREM_PB_EO"", ""worldBank/BI_WAG_PREM_PB_EO
+Public sector wage premium, by occupational group: Elementary occupation (compared to formal wage employees)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_WAG_PREM_PB_FE"", ""worldBank/BI_WAG_PREM_PB_FE
+Public sector wage premium, by gender: Female (compared to all private employees)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_WAG_PREM_PB_FL"", ""worldBank/BI_WAG_PREM_PB_FL
+P-Value: Public sector wage premium (compared to formal wage employees)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_WAG_PREM_PB_FM"", ""worldBank/BI_WAG_PREM_PB_FM
+P-Value: Public sector wage premium, by gender (compared to all private employees)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_WAG_PREM_PB_GP"", ""worldBank/BI_WAG_PREM_PB_GP
+Public sector wage premium (compared to all private employees)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_WAG_PREM_PB_MA"", ""worldBank/BI_WAG_PREM_PB_MA
+Public sector wage premium, by gender: Male (compared to all private employees)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_WAG_PREM_PB_NN"", ""worldBank/BI_WAG_PREM_PB_NN
+Public sector wage premium, by education level: No Education (compared to formal wage employees)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_WAG_PREM_PB_OC"", ""worldBank/BI_WAG_PREM_PB_OC
+P-Value: Public sector wage premium, by occupation (compared to formal wage employees)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_WAG_PREM_PB_PN"", ""worldBank/BI_WAG_PREM_PB_PN
+Public sector wage premium, by occupational group: Professionals (compared to formal wage employees)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_WAG_PREM_PB_PR"", ""worldBank/BI_WAG_PREM_PB_PR
+Public sector wage premium, by education level: Primary Education (compared to formal wage employees)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_WAG_PREM_PB_PV"", ""worldBank/BI_WAG_PREM_PB_PV
+P-Value: Public sector wage premium (compared to all private employees)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_WAG_PREM_PB_SG"", ""worldBank/BI_WAG_PREM_PB_SG
+Public sector wage premium, by education level: Secondary Education (compared to formal wage employees)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_WAG_PREM_PB_SN"", ""worldBank/BI_WAG_PREM_PB_SN
+Public sector wage premium, by occupational group: Managers (compared to formal wage employees)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_WAG_PREM_PB_TN"", ""worldBank/BI_WAG_PREM_PB_TN
+Public sector wage premium, by occupational group: Technicians (compared to formal wage employees)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_WAG_PREM_PB_TT"", ""worldBank/BI_WAG_PREM_PB_TT
+Public sector wage premium, by education level: Tertiary Education (compared to formal wage employees)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_WAG_PRVS_FM_MD"", ""worldBank/BI_WAG_PRVS_FM_MD
+Female to male wage ratio in the private sector (using median)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_WAG_PRVS_FM_SM"", ""worldBank/BI_WAG_PRVS_FM_SM
+Female to male wage ratio in the private sector (using mean)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_WAG_PRVS_PN"", ""worldBank/BI_WAG_PRVS_PN
+Relative wage of Professionals (using clerk as reference) in private sector"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_WAG_PRVS_SN"", ""worldBank/BI_WAG_PRVS_SN
+Relative wage of Managers (using clerk as reference) in private sector"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_WAG_PRVS_TN"", ""worldBank/BI_WAG_PRVS_TN
+Relative wage of Technicians (using clerk as reference) in private sector"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_WAG_PUBS_FM_MD"", ""worldBank/BI_WAG_PUBS_FM_MD
+Female to male wage ratio in the public sector (using median)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_WAG_PUBS_FM_SM"", ""worldBank/BI_WAG_PUBS_FM_SM
+Female to male wage ratio in the public sector (using mean)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_WAG_PUBS_PN"", ""worldBank/BI_WAG_PUBS_PN
+Relative wage of Professionals (using clerk as reference) in public sector"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_WAG_PUBS_SN"", ""worldBank/BI_WAG_PUBS_SN
+Relative wage of Managers (using clerk as reference) in public sector"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_WAG_PUBS_TN"", ""worldBank/BI_WAG_PUBS_TN
+Relative wage of Technicians (using clerk as reference) in public sector"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_WAG_TOTL_GD_ZS"", ""worldBank/BI_WAG_TOTL_GD_ZS
+Wage bill as a percentage of GDP"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/BI_WAG_TOTL_PB_ZS"", ""worldBank/BI_WAG_TOTL_PB_ZS
+Wage bill as a percentage of Public Expenditure"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/g/Employment_and_Time_Use"", ""worldBank/g/Employment_and_Time_Use
+Employment and Time Use"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/SH_MMR_LEVE"", ""worldBank/SH_MMR_LEVE
+Length of paid maternity leave (calendar days)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/SH_PAR_LEVE"", ""worldBank/SH_PAR_LEVE
+Length of paid shared parental leave (calendar days)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/SH_PAR_LEVE_FE"", ""worldBank/SH_PAR_LEVE_FE
+Length of paid parental leave for mother (calendar days)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/SH_PAR_LEVE_MA"", ""worldBank/SH_PAR_LEVE_MA
+Length of paid parental leave for father (calendar days)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/SH_PTR_LEVE"", ""worldBank/SH_PTR_LEVE
+Length of paid paternity leave (calendar days)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/g/Entrepreneurship"", ""worldBank/g/Entrepreneurship
+Entrepreneurship"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin15_t_d_2017"", ""worldBank/fin15_t_d_2017
+Saved to start, operate, or expand a farm or business (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin15_t_d_2017_1"", ""worldBank/fin15_t_d_2017_1
+Saved to start, operate, or expand a farm or business, female (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin15_t_d_2017_2"", ""worldBank/fin15_t_d_2017_2
+Saved to start, operate, or expand a farm or business, male (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin21_t_d_2017"", ""worldBank/fin21_t_d_2017
+Borrowed to start, operate, or expand a farm or business (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin21_t_d_2017_1"", ""worldBank/fin21_t_d_2017_1
+Borrowed to start, operate, or expand a farm or business, female (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/fin21_t_d_2017_2"", ""worldBank/fin21_t_d_2017_2
+Borrowed to start, operate, or expand a farm or business, male (% age 15+)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/g/Environment_Biodiversity_protected_areas"", ""worldBank/g/Environment_Biodiversity_protected_areas
+Environment: Biodiversity & protected areas"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/EN_BIR_THRD_NO"", ""worldBank/EN_BIR_THRD_NO
+Bird species, threatened"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/EN_FSH_THRD_NO"", ""worldBank/EN_FSH_THRD_NO
+Fish species, threatened"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/EN_HPT_THRD_NO"", ""worldBank/EN_HPT_THRD_NO
+Plant species (higher), threatened"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/g/Environment_Density_urbanization"", ""worldBank/g/Environment_Density_urbanization
+Environment: Density & urbanization"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/EN_POP_SLUM_UR_ZS"", ""worldBank/EN_POP_SLUM_UR_ZS
+Population living in slums (% of urban population)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/EN_URB_LCTY"", ""worldBank/EN_URB_LCTY
+Population in largest city"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/EN_URB_LCTY_UR_ZS"", ""worldBank/EN_URB_LCTY_UR_ZS
+Population in the largest city (% of urban population)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/EN_URB_MCTY"", ""worldBank/EN_URB_MCTY
+Population in urban agglomerations of more than 1 million"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/EN_URB_MCTY_TL_ZS"", ""worldBank/EN_URB_MCTY_TL_ZS
+Population in urban agglomerations of more than 1 million (% of total population)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/SP_RUR_TOTL_ZS"", ""worldBank/SP_RUR_TOTL_ZS
+Rural population (% of total population)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/worldBank/SP_URB_TOTL_IN_ZS"", ""worldBank/SP_URB_TOTL_IN_ZS
+Urban population (% of total population)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
