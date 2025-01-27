@@ -129,9 +129,12 @@ def get(req):
       break
     try:
       resp = requests.get(req, timeout=10)
-    except:
+    except Exception as e:
+      print(e)
       resp = None
     attempts += 1
+  if resp.status_code != 200:
+    print(f'REQUEST FAILED: {resp.status_code}')
   return resp
 
 
