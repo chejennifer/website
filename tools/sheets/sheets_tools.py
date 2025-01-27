@@ -224,17 +224,17 @@ def populate_hierarchy(csv_writer, starting_row, dcid, name, level, added, row_t
     print(f'working on row {starting_row}')
   sv_members = get_nodes(dcid, '%3C-memberOf')
   svg_members = get_nodes(dcid, '%3C-specializationOf')
-  if sv_members == None or svg_members == None:
-    print(f'FAILED: {dcid} ({name}) @ {starting_row}')
-    return starting_row
-  sv_members = sv_members.get(dcid, {}).get('memberOf', [])
-  svg_members = svg_members.get(dcid, {}).get('specializationOf', [])
   if starting_row >= row_to_start:
     if not write_to_csv(
         csv_writer, dcid, name, level
     ):
-      print(f'FAILED: {dcid} ({name}) @ {starting_row}')
+      print(f'FAILED ADDING: {dcid} ({name}) @ {starting_row}')
       return starting_row
+  if sv_members == None or svg_members == None:
+    print(f'NO SV/SVG MEMBERS: {dcid} ({name}) @ {starting_row}')
+    return starting_row
+  sv_members = sv_members.get(dcid, {}).get('memberOf', [])
+  svg_members = svg_members.get(dcid, {}).get('specializationOf', [])
   seen_svgs.add(dcid)
   curr_row = starting_row + 1
   for sv in sv_members:
@@ -243,7 +243,7 @@ def populate_hierarchy(csv_writer, starting_row, dcid, name, level, added, row_t
     if curr_row >= row_to_start:
       if not write_to_csv(
           csv_writer, sv_dcid, sv_name, level + 1):
-        print(f'FAILED: {sv_dcid} ({sv_name}) @ {curr_row}')
+        print(f'FAILED ADDING: {sv_dcid} ({sv_name}) @ {curr_row}')
     curr_row += 1
   for svg in svg_members:
     svg_dcid = svg.get('dcid')
