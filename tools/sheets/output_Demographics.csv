@@ -1,0 +1,488 @@
+"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Demographics"", ""dc/g/Demographics
+Demographics"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"""=HYPERLINK(""https://datacommons.org/browser/Count_Company"", ""Count_Company
+Count of Company"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"""=HYPERLINK(""https://datacommons.org/browser/Count_Person"", ""Count_Person
+Total Population"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"""=HYPERLINK(""https://datacommons.org/browser/Count_Person_InfrastructureProject_BrazilRuralDevelopmentProgram"", ""Count_Person_InfrastructureProject_BrazilRuralDevelopmentProgram
+Population: Infrastructure Project, Brazil_Rural Development Program"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"""=HYPERLINK(""https://datacommons.org/browser/Count_Person_PerArea"", ""Count_Person_PerArea
+Population Density"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"""=HYPERLINK(""https://datacommons.org/browser/FertilityRate_Person_Female"", ""FertilityRate_Person_Female
+Fertility Rate"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"""=HYPERLINK(""https://datacommons.org/browser/FertilityRate_Person_Female_AsAFractionOf_Count_Person_Female"", ""FertilityRate_Person_Female_AsAFractionOf_Count_Person_Female
+Fertility rate (%)"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"""=HYPERLINK(""https://datacommons.org/browser/GenderIncomeInequality_Person_15OrMoreYears_WithIncome"", ""GenderIncomeInequality_Person_15OrMoreYears_WithIncome
+Income Inequality Between Men and Women of Working Age"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"""=HYPERLINK(""https://datacommons.org/browser/GrowthRate_Count_Person"", ""GrowthRate_Count_Person
+Rate of Population Growth"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"""=HYPERLINK(""https://datacommons.org/browser/IncrementalCount_Person"", ""IncrementalCount_Person
+Population Change"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"""=HYPERLINK(""https://datacommons.org/browser/LifeExpectancy_Person"", ""LifeExpectancy_Person
+Life Expectancy"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"""=HYPERLINK(""https://datacommons.org/browser/Mean_MealCost_Person_FoodSecure"", ""Mean_MealCost_Person_FoodSecure
+Average Meal Cost for Food Secure People"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"""=HYPERLINK(""https://datacommons.org/browser/Median_Age_Person"", ""Median_Age_Person
+Median Age of Population"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"""=HYPERLINK(""https://datacommons.org/browser/Median_Income_Person"", ""Median_Income_Person
+Median Income of a Population"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child"", ""dc/g/Child
+Child"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Child"", ""Count_Child
+Count of Child"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish"", ""dc/g/Child_AbilityToSpeakEnglish
+Child by Ability To Speak English"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell"", ""dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell
+Child With Ability To Speak English = Speak English Less Than Very Well"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_Age"", ""dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_Age
+Child With Ability To Speak English = Speak English Less Than Very Well, Age"")""",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_Age-Years5Onwards"", ""dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_Age-Years5Onwards
+Child With Ability To Speak English = Speak English Less Than Very Well, Age = 5 Years or More"")""",,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_Age-Years5Onwards_LanguageSpokenAtHome"", ""dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_Age-Years5Onwards_LanguageSpokenAtHome
+Child With Ability To Speak English = Speak English Less Than Very Well, Age = 5 Years or More, Language Spoken At Home"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_Age-Years5Onwards_LanguageSpokenAtHome-LanguageOtherThanEnglish"", ""dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_Age-Years5Onwards_LanguageSpokenAtHome-LanguageOtherThanEnglish
+Child With Ability To Speak English = Speak English Less Than Very Well, Age = 5 Years or More, Language Spoken At Home = Language Other Than English"")""",,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_Age-Years5Onwards_LanguageSpokenAtHome-LanguageOtherThanEnglish_TypeOfSchool"", ""dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_Age-Years5Onwards_LanguageSpokenAtHome-LanguageOtherThanEnglish_TypeOfSchool
+Child With Ability To Speak English = Speak English Less Than Very Well, Age = 5 Years or More, Language Spoken At Home = Language Other Than English, Type of School"")""",,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_Age-Years5Onwards_LanguageSpokenAtHome-LanguageOtherThanEnglish_TypeOfSchool-PublicSchool"", ""dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_Age-Years5Onwards_LanguageSpokenAtHome-LanguageOtherThanEnglish_TypeOfSchool-PublicSchool
+Child With Ability To Speak English = Speak English Less Than Very Well, Age = 5 Years or More, Language Spoken At Home = Language Other Than English, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/8vdfl8kx0pftg"", ""dc/8vdfl8kx0pftg
+Percent of Child: Speak English Less Than Very Well, 5 Years or More, Language Other Than English, Public School"")""",,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/hjrb4yb5gfxq6"", ""dc/hjrb4yb5gfxq6
+Count of Child: Speak English Less Than Very Well, 5 Years or More, Language Other Than English, Public School"")""",,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_Age-Years5Onwards_TypeOfSchool"", ""dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_Age-Years5Onwards_TypeOfSchool
+Child With Ability To Speak English = Speak English Less Than Very Well, Age = 5 Years or More, Type of School"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_Age-Years5Onwards_TypeOfSchool-PublicSchool"", ""dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_Age-Years5Onwards_TypeOfSchool-PublicSchool
+Child With Ability To Speak English = Speak English Less Than Very Well, Age = 5 Years or More, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_Age-Years5Onwards_LanguageSpokenAtHome_TypeOfSchool-PublicSchool"", ""dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_Age-Years5Onwards_LanguageSpokenAtHome_TypeOfSchool-PublicSchool
+Child With Ability To Speak English = Speak English Less Than Very Well, Age = 5 Years or More, Language Spoken At Home, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,
+,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_LanguageSpokenAtHome"", ""dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_LanguageSpokenAtHome
+Child With Ability To Speak English = Speak English Less Than Very Well, Language Spoken At Home"")""",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_LanguageSpokenAtHome-LanguageOtherThanEnglish"", ""dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_LanguageSpokenAtHome-LanguageOtherThanEnglish
+Child With Ability To Speak English = Speak English Less Than Very Well, Language Spoken At Home = Language Other Than English"")""",,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_Age_LanguageSpokenAtHome-LanguageOtherThanEnglish"", ""dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_Age_LanguageSpokenAtHome-LanguageOtherThanEnglish
+Child With Ability To Speak English = Speak English Less Than Very Well, Age, Language Spoken At Home = Language Other Than English"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_LanguageSpokenAtHome-LanguageOtherThanEnglish_TypeOfSchool"", ""dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_LanguageSpokenAtHome-LanguageOtherThanEnglish_TypeOfSchool
+Child With Ability To Speak English = Speak English Less Than Very Well, Language Spoken At Home = Language Other Than English, Type of School"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_LanguageSpokenAtHome-LanguageOtherThanEnglish_TypeOfSchool-PublicSchool"", ""dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_LanguageSpokenAtHome-LanguageOtherThanEnglish_TypeOfSchool-PublicSchool
+Child With Ability To Speak English = Speak English Less Than Very Well, Language Spoken At Home = Language Other Than English, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_Age_LanguageSpokenAtHome-LanguageOtherThanEnglish_TypeOfSchool-PublicSchool"", ""dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_Age_LanguageSpokenAtHome-LanguageOtherThanEnglish_TypeOfSchool-PublicSchool
+Child With Ability To Speak English = Speak English Less Than Very Well, Age, Language Spoken At Home = Language Other Than English, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,
+,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_TypeOfSchool"", ""dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_TypeOfSchool
+Child With Ability To Speak English = Speak English Less Than Very Well, Type of School"")""",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_TypeOfSchool-PublicSchool"", ""dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_TypeOfSchool-PublicSchool
+Child With Ability To Speak English = Speak English Less Than Very Well, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_Age_TypeOfSchool-PublicSchool"", ""dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_Age_TypeOfSchool-PublicSchool
+Child With Ability To Speak English = Speak English Less Than Very Well, Age, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_LanguageSpokenAtHome_TypeOfSchool-PublicSchool"", ""dc/g/Child_AbilityToSpeakEnglish-SpeakEnglishLessThanVeryWell_LanguageSpokenAtHome_TypeOfSchool-PublicSchool
+Child With Ability To Speak English = Speak English Less Than Very Well, Language Spoken At Home, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Age"", ""dc/g/Child_Age
+Child by Age"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Age-Years5Onwards"", ""dc/g/Child_Age-Years5Onwards
+Child With Age = 5 Years or More"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish_Age-Years5Onwards"", ""dc/g/Child_AbilityToSpeakEnglish_Age-Years5Onwards
+Child With Ability To Speak English, Age = 5 Years or More"")""",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Age-Years5Onwards_LanguageSpokenAtHome"", ""dc/g/Child_Age-Years5Onwards_LanguageSpokenAtHome
+Child With Age = 5 Years or More, Language Spoken At Home"")""",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Age-Years5Onwards_LanguageSpokenAtHome-LanguageOtherThanEnglish"", ""dc/g/Child_Age-Years5Onwards_LanguageSpokenAtHome-LanguageOtherThanEnglish
+Child With Age = 5 Years or More, Language Spoken At Home = Language Other Than English"")""",,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish_Age-Years5Onwards_LanguageSpokenAtHome-LanguageOtherThanEnglish"", ""dc/g/Child_AbilityToSpeakEnglish_Age-Years5Onwards_LanguageSpokenAtHome-LanguageOtherThanEnglish
+Child With Ability To Speak English, Age = 5 Years or More, Language Spoken At Home = Language Other Than English"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Age-Years5Onwards_LanguageSpokenAtHome-LanguageOtherThanEnglish_TypeOfSchool"", ""dc/g/Child_Age-Years5Onwards_LanguageSpokenAtHome-LanguageOtherThanEnglish_TypeOfSchool
+Child With Age = 5 Years or More, Language Spoken At Home = Language Other Than English, Type of School"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Age-Years5Onwards_LanguageSpokenAtHome-LanguageOtherThanEnglish_TypeOfSchool-PublicSchool"", ""dc/g/Child_Age-Years5Onwards_LanguageSpokenAtHome-LanguageOtherThanEnglish_TypeOfSchool-PublicSchool
+Child With Age = 5 Years or More, Language Spoken At Home = Language Other Than English, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Child_5OrMoreYears_LanguageOtherThanEnglishSpokenAtHome_EnrolledInPublicSchool"", ""Count_Child_5OrMoreYears_LanguageOtherThanEnglishSpokenAtHome_EnrolledInPublicSchool
+Count of Child: 5 Years or More, Language Other Than English, Public School"")""",,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Percent_Child_5OrMoreYears_LanguageOtherThanEnglishSpokenAtHome_EnrolledInPublicSchool"", ""Percent_Child_5OrMoreYears_LanguageOtherThanEnglishSpokenAtHome_EnrolledInPublicSchool
+Percent of Child: 5 Years or More, Language Other Than English, Public School"")""",,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish_Age-Years5Onwards_LanguageSpokenAtHome-LanguageOtherThanEnglish_TypeOfSchool-PublicSchool"", ""dc/g/Child_AbilityToSpeakEnglish_Age-Years5Onwards_LanguageSpokenAtHome-LanguageOtherThanEnglish_TypeOfSchool-PublicSchool
+Child With Ability To Speak English, Age = 5 Years or More, Language Spoken At Home = Language Other Than English, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,
+,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Age-Years5Onwards_LanguageSpokenAtHome-OnlyEnglish"", ""dc/g/Child_Age-Years5Onwards_LanguageSpokenAtHome-OnlyEnglish
+Child With Age = 5 Years or More, Language Spoken At Home = Only English"")""",,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Age-Years5Onwards_LanguageSpokenAtHome-OnlyEnglish_TypeOfSchool"", ""dc/g/Child_Age-Years5Onwards_LanguageSpokenAtHome-OnlyEnglish_TypeOfSchool
+Child With Age = 5 Years or More, Language Spoken At Home = Only English, Type of School"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Age-Years5Onwards_LanguageSpokenAtHome-OnlyEnglish_TypeOfSchool-PublicSchool"", ""dc/g/Child_Age-Years5Onwards_LanguageSpokenAtHome-OnlyEnglish_TypeOfSchool-PublicSchool
+Child With Age = 5 Years or More, Language Spoken At Home = Only English, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Child_5OrMoreYears_OnlyEnglishSpokenAtHome_EnrolledInPublicSchool"", ""Count_Child_5OrMoreYears_OnlyEnglishSpokenAtHome_EnrolledInPublicSchool
+Count of Child: 5 Years or More, Only English, Public School"")""",,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Percent_Child_5OrMoreYears_OnlyEnglishSpokenAtHome_EnrolledInPublicSchool"", ""Percent_Child_5OrMoreYears_OnlyEnglishSpokenAtHome_EnrolledInPublicSchool
+Percent of Child: 5 Years or More, Only English, Public School"")""",,,,,,,,,,,,,,,,,,,,,
+,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Age-Years5Onwards_TypeOfSchool"", ""dc/g/Child_Age-Years5Onwards_TypeOfSchool
+Child With Age = 5 Years or More, Type of School"")""",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Age-Years5Onwards_TypeOfSchool-PublicSchool"", ""dc/g/Child_Age-Years5Onwards_TypeOfSchool-PublicSchool
+Child With Age = 5 Years or More, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish_Age-Years5Onwards_TypeOfSchool-PublicSchool"", ""dc/g/Child_AbilityToSpeakEnglish_Age-Years5Onwards_TypeOfSchool-PublicSchool
+Child With Ability To Speak English, Age = 5 Years or More, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Age-Years5Onwards_LanguageSpokenAtHome_TypeOfSchool-PublicSchool"", ""dc/g/Child_Age-Years5Onwards_LanguageSpokenAtHome_TypeOfSchool-PublicSchool
+Child With Age = 5 Years or More, Language Spoken At Home, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_BenefitsStatus"", ""dc/g/Child_BenefitsStatus
+Child by Benefits Status"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Child_FoodInsecure_EligibleForManyChildNutritionBenefits"", ""Count_Child_FoodInsecure_EligibleForManyChildNutritionBenefits
+Food Insecure Children Eligible for Benefits"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Child_FoodInsecure_IneligibleForChildNutritionBenefits"", ""Count_Child_FoodInsecure_IneligibleForChildNutritionBenefits
+Food Insecure Children Ineligible for Benefits"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus"", ""dc/g/Child_DisabilityStatus
+Child by Disability Status"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus-WithDisability"", ""dc/g/Child_DisabilityStatus-WithDisability
+Child With Disability Status = With Disability"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus-WithDisability_Institutionalization"", ""dc/g/Child_DisabilityStatus-WithDisability_Institutionalization
+Child With Disability Status = With Disability, Institutionalization"")""",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus-WithDisability_Institutionalization-NonInstitutionalized"", ""dc/g/Child_DisabilityStatus-WithDisability_Institutionalization-NonInstitutionalized
+Child With Disability Status = With Disability, Institutionalization = Non Institutionalized"")""",,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus-WithDisability_Institutionalization-NonInstitutionalized_MilitaryStatus"", ""dc/g/Child_DisabilityStatus-WithDisability_Institutionalization-NonInstitutionalized_MilitaryStatus
+Child With Military Status, Disability Status = With Disability, Institutionalization = Non Institutionalized"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus-WithDisability_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian"", ""dc/g/Child_DisabilityStatus-WithDisability_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian
+Child With Military Status = Civilian, Disability Status = With Disability, Institutionalization = Non Institutionalized"")""",,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus-WithDisability_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian_TypeOfSchool"", ""dc/g/Child_DisabilityStatus-WithDisability_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian_TypeOfSchool
+Child With Military Status = Civilian, Disability Status = With Disability, Institutionalization = Non Institutionalized, Type of School"")""",,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus-WithDisability_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool"", ""dc/g/Child_DisabilityStatus-WithDisability_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool
+Child With Military Status = Civilian, Disability Status = With Disability, Institutionalization = Non Institutionalized, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/kvdv7541h2wg1"", ""dc/kvdv7541h2wg1
+Count of Child: Civilian, With Disability, Non Institutionalized, Public School"")""",,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/ze7yl6c34l5n9"", ""dc/ze7yl6c34l5n9
+Percent of Child: Civilian, With Disability, Non Institutionalized, Public School"")""",,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus-WithDisability_Institutionalization-NonInstitutionalized_TypeOfSchool"", ""dc/g/Child_DisabilityStatus-WithDisability_Institutionalization-NonInstitutionalized_TypeOfSchool
+Child With Disability Status = With Disability, Institutionalization = Non Institutionalized, Type of School"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus-WithDisability_Institutionalization-NonInstitutionalized_TypeOfSchool-PublicSchool"", ""dc/g/Child_DisabilityStatus-WithDisability_Institutionalization-NonInstitutionalized_TypeOfSchool-PublicSchool
+Child With Disability Status = With Disability, Institutionalization = Non Institutionalized, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus-WithDisability_Institutionalization-NonInstitutionalized_MilitaryStatus_TypeOfSchool-PublicSchool"", ""dc/g/Child_DisabilityStatus-WithDisability_Institutionalization-NonInstitutionalized_MilitaryStatus_TypeOfSchool-PublicSchool
+Child With Military Status, Disability Status = With Disability, Institutionalization = Non Institutionalized, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,
+,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus-WithDisability_MilitaryStatus"", ""dc/g/Child_DisabilityStatus-WithDisability_MilitaryStatus
+Child With Military Status, Disability Status = With Disability"")""",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus-WithDisability_MilitaryStatus-Civilian"", ""dc/g/Child_DisabilityStatus-WithDisability_MilitaryStatus-Civilian
+Child With Military Status = Civilian, Disability Status = With Disability"")""",,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus-WithDisability_Institutionalization_MilitaryStatus-Civilian"", ""dc/g/Child_DisabilityStatus-WithDisability_Institutionalization_MilitaryStatus-Civilian
+Child With Military Status = Civilian, Disability Status = With Disability, Institutionalization"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus-WithDisability_MilitaryStatus-Civilian_TypeOfSchool"", ""dc/g/Child_DisabilityStatus-WithDisability_MilitaryStatus-Civilian_TypeOfSchool
+Child With Military Status = Civilian, Disability Status = With Disability, Type of School"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus-WithDisability_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool"", ""dc/g/Child_DisabilityStatus-WithDisability_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool
+Child With Military Status = Civilian, Disability Status = With Disability, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus-WithDisability_Institutionalization_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool"", ""dc/g/Child_DisabilityStatus-WithDisability_Institutionalization_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool
+Child With Military Status = Civilian, Disability Status = With Disability, Institutionalization, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,
+,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus-WithDisability_TypeOfSchool"", ""dc/g/Child_DisabilityStatus-WithDisability_TypeOfSchool
+Child With Disability Status = With Disability, Type of School"")""",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus-WithDisability_TypeOfSchool-PublicSchool"", ""dc/g/Child_DisabilityStatus-WithDisability_TypeOfSchool-PublicSchool
+Child With Disability Status = With Disability, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus-WithDisability_Institutionalization_TypeOfSchool-PublicSchool"", ""dc/g/Child_DisabilityStatus-WithDisability_Institutionalization_TypeOfSchool-PublicSchool
+Child With Disability Status = With Disability, Institutionalization, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus-WithDisability_MilitaryStatus_TypeOfSchool-PublicSchool"", ""dc/g/Child_DisabilityStatus-WithDisability_MilitaryStatus_TypeOfSchool-PublicSchool
+Child With Military Status, Disability Status = With Disability, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_FoodSecurityStatus"", ""dc/g/Child_FoodSecurityStatus
+Child by Food Security Status"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_FoodSecurityStatus-FoodInSecure"", ""dc/g/Child_FoodSecurityStatus-FoodInSecure
+Child With Food Security Status = Food in Secure"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Child_FoodInsecure"", ""Count_Child_FoodInsecure
+Population: Food Insecure Children"")""",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Child_FoodInsecure_AsAFractionOf_Count_Child"", ""Count_Child_FoodInsecure_AsAFractionOf_Count_Child
+Count of Child: Food in Secure (As Fraction of Count Child)"")""",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_BenefitsStatus_FoodSecurityStatus-FoodInSecure"", ""dc/g/Child_BenefitsStatus_FoodSecurityStatus-FoodInSecure
+Child With Benefits Status, Food Security Status = Food in Secure"")""",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Child_FoodInsecure_EligibleForManyChildNutritionBenefits"", ""Count_Child_FoodInsecure_EligibleForManyChildNutritionBenefits
+Food Insecure Children Eligible for Benefits"")""",,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Child_FoodInsecure_IneligibleForChildNutritionBenefits"", ""Count_Child_FoodInsecure_IneligibleForChildNutritionBenefits
+Food Insecure Children Ineligible for Benefits"")""",,,,,,,,,,,,,,,,,,,,,,,,
+,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_FoodSecurityStatus-FoodInSecure_HouseholdIncome"", ""dc/g/Child_FoodSecurityStatus-FoodInSecure_HouseholdIncome
+Child With Food Security Status = Food in Secure, Household Income"")""",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Child_FoodInsecure_HouseholdIncomeAbove185PercentOfFederalPovertyLine_AsAFractionOf_Count_Child_FoodInsecure"", ""Count_Child_FoodInsecure_HouseholdIncomeAbove185PercentOfFederalPovertyLine_AsAFractionOf_Count_Child_FoodInsecure
+Percent of food insecure children who live in households with income above 185% of the federal poverty line"")""",,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Child_FoodInsecure_HouseholdIncomeBelow185PercentOfFederalPovertyLine_AsAFractionOf_Count_Child_FoodInsecure"", ""Count_Child_FoodInsecure_HouseholdIncomeBelow185PercentOfFederalPovertyLine_AsAFractionOf_Count_Child_FoodInsecure
+Percent of food insecure children who live in households with income below 185% of the federal poverty line"")""",,,,,,,,,,,,,,,,,,,,,,,,
+,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance"", ""dc/g/Child_HealthInsurance
+Child by Health Insurance"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-NoHealthInsurance"", ""dc/g/Child_HealthInsurance-NoHealthInsurance
+Child With Health Insurance = No Health Insurance"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-NoHealthInsurance_Institutionalization"", ""dc/g/Child_HealthInsurance-NoHealthInsurance_Institutionalization
+Child With Health Insurance = No Health Insurance, Institutionalization"")""",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-NoHealthInsurance_Institutionalization-NonInstitutionalized"", ""dc/g/Child_HealthInsurance-NoHealthInsurance_Institutionalization-NonInstitutionalized
+Child With Health Insurance = No Health Insurance, Institutionalization = Non Institutionalized"")""",,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-NoHealthInsurance_Institutionalization-NonInstitutionalized_MilitaryStatus"", ""dc/g/Child_HealthInsurance-NoHealthInsurance_Institutionalization-NonInstitutionalized_MilitaryStatus
+Child With Military Status, Health Insurance = No Health Insurance, Institutionalization = Non Institutionalized"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-NoHealthInsurance_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian"", ""dc/g/Child_HealthInsurance-NoHealthInsurance_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian
+Child With Military Status = Civilian, Health Insurance = No Health Insurance, Institutionalization = Non Institutionalized"")""",,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-NoHealthInsurance_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian_TypeOfSchool"", ""dc/g/Child_HealthInsurance-NoHealthInsurance_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian_TypeOfSchool
+Child With Military Status = Civilian, Health Insurance = No Health Insurance, Institutionalization = Non Institutionalized, Type of School"")""",,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-NoHealthInsurance_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool"", ""dc/g/Child_HealthInsurance-NoHealthInsurance_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool
+Child With Military Status = Civilian, Health Insurance = No Health Insurance, Institutionalization = Non Institutionalized, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/dl680h6l9250b"", ""dc/dl680h6l9250b
+Percent of Child: Civilian, No Health Insurance, Non Institutionalized, Public School"")""",,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/myqyvhce0pz17"", ""dc/myqyvhce0pz17
+Count of Child: Civilian, No Health Insurance, Non Institutionalized, Public School"")""",,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-NoHealthInsurance_Institutionalization-NonInstitutionalized_TypeOfSchool"", ""dc/g/Child_HealthInsurance-NoHealthInsurance_Institutionalization-NonInstitutionalized_TypeOfSchool
+Child With Health Insurance = No Health Insurance, Institutionalization = Non Institutionalized, Type of School"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-NoHealthInsurance_Institutionalization-NonInstitutionalized_TypeOfSchool-PublicSchool"", ""dc/g/Child_HealthInsurance-NoHealthInsurance_Institutionalization-NonInstitutionalized_TypeOfSchool-PublicSchool
+Child With Health Insurance = No Health Insurance, Institutionalization = Non Institutionalized, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-NoHealthInsurance_Institutionalization-NonInstitutionalized_MilitaryStatus_TypeOfSchool-PublicSchool"", ""dc/g/Child_HealthInsurance-NoHealthInsurance_Institutionalization-NonInstitutionalized_MilitaryStatus_TypeOfSchool-PublicSchool
+Child With Military Status, Health Insurance = No Health Insurance, Institutionalization = Non Institutionalized, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,
+,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-NoHealthInsurance_MilitaryStatus"", ""dc/g/Child_HealthInsurance-NoHealthInsurance_MilitaryStatus
+Child With Military Status, Health Insurance = No Health Insurance"")""",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-NoHealthInsurance_MilitaryStatus-Civilian"", ""dc/g/Child_HealthInsurance-NoHealthInsurance_MilitaryStatus-Civilian
+Child With Military Status = Civilian, Health Insurance = No Health Insurance"")""",,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-NoHealthInsurance_Institutionalization_MilitaryStatus-Civilian"", ""dc/g/Child_HealthInsurance-NoHealthInsurance_Institutionalization_MilitaryStatus-Civilian
+Child With Military Status = Civilian, Health Insurance = No Health Insurance, Institutionalization"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-NoHealthInsurance_MilitaryStatus-Civilian_TypeOfSchool"", ""dc/g/Child_HealthInsurance-NoHealthInsurance_MilitaryStatus-Civilian_TypeOfSchool
+Child With Military Status = Civilian, Health Insurance = No Health Insurance, Type of School"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-NoHealthInsurance_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool"", ""dc/g/Child_HealthInsurance-NoHealthInsurance_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool
+Child With Military Status = Civilian, Health Insurance = No Health Insurance, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-NoHealthInsurance_Institutionalization_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool"", ""dc/g/Child_HealthInsurance-NoHealthInsurance_Institutionalization_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool
+Child With Military Status = Civilian, Health Insurance = No Health Insurance, Institutionalization, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,
+,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-NoHealthInsurance_TypeOfSchool"", ""dc/g/Child_HealthInsurance-NoHealthInsurance_TypeOfSchool
+Child With Health Insurance = No Health Insurance, Type of School"")""",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-NoHealthInsurance_TypeOfSchool-PublicSchool"", ""dc/g/Child_HealthInsurance-NoHealthInsurance_TypeOfSchool-PublicSchool
+Child With Health Insurance = No Health Insurance, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-NoHealthInsurance_Institutionalization_TypeOfSchool-PublicSchool"", ""dc/g/Child_HealthInsurance-NoHealthInsurance_Institutionalization_TypeOfSchool-PublicSchool
+Child With Health Insurance = No Health Insurance, Institutionalization, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-NoHealthInsurance_MilitaryStatus_TypeOfSchool-PublicSchool"", ""dc/g/Child_HealthInsurance-NoHealthInsurance_MilitaryStatus_TypeOfSchool-PublicSchool
+Child With Military Status, Health Insurance = No Health Insurance, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-WithHealthInsurance"", ""dc/g/Child_HealthInsurance-WithHealthInsurance
+Child With Health Insurance = With Health Insurance"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-WithHealthInsurance_Institutionalization"", ""dc/g/Child_HealthInsurance-WithHealthInsurance_Institutionalization
+Child With Health Insurance = With Health Insurance, Institutionalization"")""",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-WithHealthInsurance_Institutionalization-NonInstitutionalized"", ""dc/g/Child_HealthInsurance-WithHealthInsurance_Institutionalization-NonInstitutionalized
+Child With Health Insurance = With Health Insurance, Institutionalization = Non Institutionalized"")""",,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-WithHealthInsurance_Institutionalization-NonInstitutionalized_MilitaryStatus"", ""dc/g/Child_HealthInsurance-WithHealthInsurance_Institutionalization-NonInstitutionalized_MilitaryStatus
+Child With Military Status, Health Insurance = With Health Insurance, Institutionalization = Non Institutionalized"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-WithHealthInsurance_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian"", ""dc/g/Child_HealthInsurance-WithHealthInsurance_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian
+Child With Military Status = Civilian, Health Insurance = With Health Insurance, Institutionalization = Non Institutionalized"")""",,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-WithHealthInsurance_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian_TypeOfSchool"", ""dc/g/Child_HealthInsurance-WithHealthInsurance_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian_TypeOfSchool
+Child With Military Status = Civilian, Health Insurance = With Health Insurance, Institutionalization = Non Institutionalized, Type of School"")""",,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-WithHealthInsurance_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool"", ""dc/g/Child_HealthInsurance-WithHealthInsurance_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool
+Child With Military Status = Civilian, Health Insurance = With Health Insurance, Institutionalization = Non Institutionalized, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/d6pzpeq8v9kx7"", ""dc/d6pzpeq8v9kx7
+Count of Child: Civilian, With Health Insurance, Non Institutionalized, Public School"")""",,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/kbkkkyerm7ls4"", ""dc/kbkkkyerm7ls4
+Percent of Child: Civilian, With Health Insurance, Non Institutionalized, Public School"")""",,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-WithHealthInsurance_Institutionalization-NonInstitutionalized_TypeOfSchool"", ""dc/g/Child_HealthInsurance-WithHealthInsurance_Institutionalization-NonInstitutionalized_TypeOfSchool
+Child With Health Insurance = With Health Insurance, Institutionalization = Non Institutionalized, Type of School"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-WithHealthInsurance_Institutionalization-NonInstitutionalized_TypeOfSchool-PublicSchool"", ""dc/g/Child_HealthInsurance-WithHealthInsurance_Institutionalization-NonInstitutionalized_TypeOfSchool-PublicSchool
+Child With Health Insurance = With Health Insurance, Institutionalization = Non Institutionalized, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-WithHealthInsurance_Institutionalization-NonInstitutionalized_MilitaryStatus_TypeOfSchool-PublicSchool"", ""dc/g/Child_HealthInsurance-WithHealthInsurance_Institutionalization-NonInstitutionalized_MilitaryStatus_TypeOfSchool-PublicSchool
+Child With Military Status, Health Insurance = With Health Insurance, Institutionalization = Non Institutionalized, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,
+,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-WithHealthInsurance_MilitaryStatus"", ""dc/g/Child_HealthInsurance-WithHealthInsurance_MilitaryStatus
+Child With Military Status, Health Insurance = With Health Insurance"")""",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-WithHealthInsurance_MilitaryStatus-Civilian"", ""dc/g/Child_HealthInsurance-WithHealthInsurance_MilitaryStatus-Civilian
+Child With Military Status = Civilian, Health Insurance = With Health Insurance"")""",,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-WithHealthInsurance_Institutionalization_MilitaryStatus-Civilian"", ""dc/g/Child_HealthInsurance-WithHealthInsurance_Institutionalization_MilitaryStatus-Civilian
+Child With Military Status = Civilian, Health Insurance = With Health Insurance, Institutionalization"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-WithHealthInsurance_MilitaryStatus-Civilian_TypeOfSchool"", ""dc/g/Child_HealthInsurance-WithHealthInsurance_MilitaryStatus-Civilian_TypeOfSchool
+Child With Military Status = Civilian, Health Insurance = With Health Insurance, Type of School"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-WithHealthInsurance_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool"", ""dc/g/Child_HealthInsurance-WithHealthInsurance_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool
+Child With Military Status = Civilian, Health Insurance = With Health Insurance, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-WithHealthInsurance_Institutionalization_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool"", ""dc/g/Child_HealthInsurance-WithHealthInsurance_Institutionalization_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool
+Child With Military Status = Civilian, Health Insurance = With Health Insurance, Institutionalization, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,
+,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-WithHealthInsurance_TypeOfSchool"", ""dc/g/Child_HealthInsurance-WithHealthInsurance_TypeOfSchool
+Child With Health Insurance = With Health Insurance, Type of School"")""",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-WithHealthInsurance_TypeOfSchool-PublicSchool"", ""dc/g/Child_HealthInsurance-WithHealthInsurance_TypeOfSchool-PublicSchool
+Child With Health Insurance = With Health Insurance, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-WithHealthInsurance_Institutionalization_TypeOfSchool-PublicSchool"", ""dc/g/Child_HealthInsurance-WithHealthInsurance_Institutionalization_TypeOfSchool-PublicSchool
+Child With Health Insurance = With Health Insurance, Institutionalization, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance-WithHealthInsurance_MilitaryStatus_TypeOfSchool-PublicSchool"", ""dc/g/Child_HealthInsurance-WithHealthInsurance_MilitaryStatus_TypeOfSchool-PublicSchool
+Child With Military Status, Health Insurance = With Health Insurance, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HouseholdIncome"", ""dc/g/Child_HouseholdIncome
+Child by Household Income"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Child_FoodInsecure_HouseholdIncomeAbove185PercentOfFederalPovertyLine_AsAFractionOf_Count_Child_FoodInsecure"", ""Count_Child_FoodInsecure_HouseholdIncomeAbove185PercentOfFederalPovertyLine_AsAFractionOf_Count_Child_FoodInsecure
+Percent of food insecure children who live in households with income above 185% of the federal poverty line"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Child_FoodInsecure_HouseholdIncomeBelow185PercentOfFederalPovertyLine_AsAFractionOf_Count_Child_FoodInsecure"", ""Count_Child_FoodInsecure_HouseholdIncomeBelow185PercentOfFederalPovertyLine_AsAFractionOf_Count_Child_FoodInsecure
+Percent of food insecure children who live in households with income below 185% of the federal poverty line"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Institutionalization"", ""dc/g/Child_Institutionalization
+Child by Institutionalization"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Institutionalization-NonInstitutionalized"", ""dc/g/Child_Institutionalization-NonInstitutionalized
+Child With Institutionalization = Non Institutionalized"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus_Institutionalization-NonInstitutionalized"", ""dc/g/Child_DisabilityStatus_Institutionalization-NonInstitutionalized
+Child With Disability Status, Institutionalization = Non Institutionalized"")""",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance_Institutionalization-NonInstitutionalized"", ""dc/g/Child_HealthInsurance_Institutionalization-NonInstitutionalized
+Child With Health Insurance, Institutionalization = Non Institutionalized"")""",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Institutionalization-NonInstitutionalized_MilitaryStatus"", ""dc/g/Child_Institutionalization-NonInstitutionalized_MilitaryStatus
+Child With Military Status, Institutionalization = Non Institutionalized"")""",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian"", ""dc/g/Child_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian
+Child With Military Status = Civilian, Institutionalization = Non Institutionalized"")""",,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian"", ""dc/g/Child_DisabilityStatus_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian
+Child With Military Status = Civilian, Disability Status, Institutionalization = Non Institutionalized"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian"", ""dc/g/Child_HealthInsurance_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian
+Child With Military Status = Civilian, Health Insurance, Institutionalization = Non Institutionalized"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian_TypeOfSchool"", ""dc/g/Child_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian_TypeOfSchool
+Child With Military Status = Civilian, Institutionalization = Non Institutionalized, Type of School"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool"", ""dc/g/Child_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool
+Child With Military Status = Civilian, Institutionalization = Non Institutionalized, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool"", ""dc/g/Child_DisabilityStatus_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool
+Child With Military Status = Civilian, Disability Status, Institutionalization = Non Institutionalized, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool"", ""dc/g/Child_HealthInsurance_Institutionalization-NonInstitutionalized_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool
+Child With Military Status = Civilian, Health Insurance, Institutionalization = Non Institutionalized, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,
+,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Institutionalization-NonInstitutionalized_TypeOfSchool"", ""dc/g/Child_Institutionalization-NonInstitutionalized_TypeOfSchool
+Child With Institutionalization = Non Institutionalized, Type of School"")""",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Institutionalization-NonInstitutionalized_TypeOfSchool-PublicSchool"", ""dc/g/Child_Institutionalization-NonInstitutionalized_TypeOfSchool-PublicSchool
+Child With Institutionalization = Non Institutionalized, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus_Institutionalization-NonInstitutionalized_TypeOfSchool-PublicSchool"", ""dc/g/Child_DisabilityStatus_Institutionalization-NonInstitutionalized_TypeOfSchool-PublicSchool
+Child With Disability Status, Institutionalization = Non Institutionalized, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance_Institutionalization-NonInstitutionalized_TypeOfSchool-PublicSchool"", ""dc/g/Child_HealthInsurance_Institutionalization-NonInstitutionalized_TypeOfSchool-PublicSchool
+Child With Health Insurance, Institutionalization = Non Institutionalized, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Institutionalization-NonInstitutionalized_MilitaryStatus_TypeOfSchool-PublicSchool"", ""dc/g/Child_Institutionalization-NonInstitutionalized_MilitaryStatus_TypeOfSchool-PublicSchool
+Child With Military Status, Institutionalization = Non Institutionalized, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_LanguageSpokenAtHome"", ""dc/g/Child_LanguageSpokenAtHome
+Child by Language Spoken At Home"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_LanguageSpokenAtHome-LanguageOtherThanEnglish"", ""dc/g/Child_LanguageSpokenAtHome-LanguageOtherThanEnglish
+Child With Language Spoken At Home = Language Other Than English"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish_LanguageSpokenAtHome-LanguageOtherThanEnglish"", ""dc/g/Child_AbilityToSpeakEnglish_LanguageSpokenAtHome-LanguageOtherThanEnglish
+Child With Ability To Speak English, Language Spoken At Home = Language Other Than English"")""",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Age_LanguageSpokenAtHome-LanguageOtherThanEnglish"", ""dc/g/Child_Age_LanguageSpokenAtHome-LanguageOtherThanEnglish
+Child With Age, Language Spoken At Home = Language Other Than English"")""",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_LanguageSpokenAtHome-LanguageOtherThanEnglish_TypeOfSchool"", ""dc/g/Child_LanguageSpokenAtHome-LanguageOtherThanEnglish_TypeOfSchool
+Child With Language Spoken At Home = Language Other Than English, Type of School"")""",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_LanguageSpokenAtHome-LanguageOtherThanEnglish_TypeOfSchool-PublicSchool"", ""dc/g/Child_LanguageSpokenAtHome-LanguageOtherThanEnglish_TypeOfSchool-PublicSchool
+Child With Language Spoken At Home = Language Other Than English, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish_LanguageSpokenAtHome-LanguageOtherThanEnglish_TypeOfSchool-PublicSchool"", ""dc/g/Child_AbilityToSpeakEnglish_LanguageSpokenAtHome-LanguageOtherThanEnglish_TypeOfSchool-PublicSchool
+Child With Ability To Speak English, Language Spoken At Home = Language Other Than English, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Age_LanguageSpokenAtHome-LanguageOtherThanEnglish_TypeOfSchool-PublicSchool"", ""dc/g/Child_Age_LanguageSpokenAtHome-LanguageOtherThanEnglish_TypeOfSchool-PublicSchool
+Child With Age, Language Spoken At Home = Language Other Than English, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_LanguageSpokenAtHome-OnlyEnglish"", ""dc/g/Child_LanguageSpokenAtHome-OnlyEnglish
+Child With Language Spoken At Home = Only English"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Age_LanguageSpokenAtHome-OnlyEnglish"", ""dc/g/Child_Age_LanguageSpokenAtHome-OnlyEnglish
+Child With Age, Language Spoken At Home = Only English"")""",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_LanguageSpokenAtHome-OnlyEnglish_TypeOfSchool"", ""dc/g/Child_LanguageSpokenAtHome-OnlyEnglish_TypeOfSchool
+Child With Language Spoken At Home = Only English, Type of School"")""",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_LanguageSpokenAtHome-OnlyEnglish_TypeOfSchool-PublicSchool"", ""dc/g/Child_LanguageSpokenAtHome-OnlyEnglish_TypeOfSchool-PublicSchool
+Child With Language Spoken At Home = Only English, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Age_LanguageSpokenAtHome-OnlyEnglish_TypeOfSchool-PublicSchool"", ""dc/g/Child_Age_LanguageSpokenAtHome-OnlyEnglish_TypeOfSchool-PublicSchool
+Child With Age, Language Spoken At Home = Only English, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_MilitaryStatus"", ""dc/g/Child_MilitaryStatus
+Child by Military Status"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_MilitaryStatus-Civilian"", ""dc/g/Child_MilitaryStatus-Civilian
+Child With Military Status = Civilian"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus_MilitaryStatus-Civilian"", ""dc/g/Child_DisabilityStatus_MilitaryStatus-Civilian
+Child With Military Status = Civilian, Disability Status"")""",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance_MilitaryStatus-Civilian"", ""dc/g/Child_HealthInsurance_MilitaryStatus-Civilian
+Child With Military Status = Civilian, Health Insurance"")""",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Institutionalization_MilitaryStatus-Civilian"", ""dc/g/Child_Institutionalization_MilitaryStatus-Civilian
+Child With Military Status = Civilian, Institutionalization"")""",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_MilitaryStatus-Civilian_TypeOfSchool"", ""dc/g/Child_MilitaryStatus-Civilian_TypeOfSchool
+Child With Military Status = Civilian, Type of School"")""",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool"", ""dc/g/Child_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool
+Child With Military Status = Civilian, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool"", ""dc/g/Child_DisabilityStatus_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool
+Child With Military Status = Civilian, Disability Status, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool"", ""dc/g/Child_HealthInsurance_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool
+Child With Military Status = Civilian, Health Insurance, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Institutionalization_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool"", ""dc/g/Child_Institutionalization_MilitaryStatus-Civilian_TypeOfSchool-PublicSchool
+Child With Military Status = Civilian, Institutionalization, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_TypeOfSchool"", ""dc/g/Child_TypeOfSchool
+Child by Type of School"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_TypeOfSchool-PublicSchool"", ""dc/g/Child_TypeOfSchool-PublicSchool
+Child With Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_AbilityToSpeakEnglish_TypeOfSchool-PublicSchool"", ""dc/g/Child_AbilityToSpeakEnglish_TypeOfSchool-PublicSchool
+Child With Ability To Speak English, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Age_TypeOfSchool-PublicSchool"", ""dc/g/Child_Age_TypeOfSchool-PublicSchool
+Child With Age, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_DisabilityStatus_TypeOfSchool-PublicSchool"", ""dc/g/Child_DisabilityStatus_TypeOfSchool-PublicSchool
+Child With Disability Status, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_HealthInsurance_TypeOfSchool-PublicSchool"", ""dc/g/Child_HealthInsurance_TypeOfSchool-PublicSchool
+Child With Health Insurance, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_Institutionalization_TypeOfSchool-PublicSchool"", ""dc/g/Child_Institutionalization_TypeOfSchool-PublicSchool
+Child With Institutionalization, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_LanguageSpokenAtHome_TypeOfSchool-PublicSchool"", ""dc/g/Child_LanguageSpokenAtHome_TypeOfSchool-PublicSchool
+Child With Language Spoken At Home, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Child_MilitaryStatus_TypeOfSchool-PublicSchool"", ""dc/g/Child_MilitaryStatus_TypeOfSchool-PublicSchool
+Child With Military Status, Type of School = Public School"")""",,,,,,,,,,,,,,,,,,,,,,,,,
+,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children"", ""dc/g/Children
+Children"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Children"", ""Count_Children
+Count of Children"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_BirthCenter"", ""dc/g/Children_BirthCenter
+Children by Birth Center"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_BirthCenter-House"", ""dc/g/Children_BirthCenter-House
+Children With Birth Center = House"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Children_House"", ""Count_Children_House
+Count of Children: House"")""",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_BirthCenter-House_HealthEstablishmentType"", ""dc/g/Children_BirthCenter-House_HealthEstablishmentType
+Children With Birth Center = House, Health Establishment Type"")""",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_BirthCenter-House_HealthEstablishmentType-HealthFacility"", ""dc/g/Children_BirthCenter-House_HealthEstablishmentType-HealthFacility
+Children With Birth Center = House, Health Establishment Type = Health Facility"")""",,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_BirthCenter-House_HealthEstablishmentType-HealthFacility_PlaceOfResidenceClassification"", ""dc/g/Children_BirthCenter-House_HealthEstablishmentType-HealthFacility_PlaceOfResidenceClassification
+Children With Birth Center = House, Health Establishment Type = Health Facility, Place of Residence Classification"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Children_House_HealthFacility_Rural_ReceivedBirthCareWithin24Hour_AsAFractionOf_Count_Children_House_Rural"", ""Count_Children_House_HealthFacility_Rural_ReceivedBirthCareWithin24Hour_AsAFractionOf_Count_Children_House_Rural
+Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%), rural"")""",,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Children_House_HealthFacility_Urban_ReceivedBirthCareWithin24Hour_AsAFractionOf_Count_Children_House_Urban"", ""Count_Children_House_HealthFacility_Urban_ReceivedBirthCareWithin24Hour_AsAFractionOf_Count_Children_House_Urban
+Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%), urban"")""",,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_BirthCenter-House_HealthEstablishmentType-HealthFacility_PostBirthCare"", ""dc/g/Children_BirthCenter-House_HealthEstablishmentType-HealthFacility_PostBirthCare
+Children With Birth Center = House, Health Establishment Type = Health Facility, Post Birth Care"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_BirthCenter-House_HealthEstablishmentType-HealthFacility_PostBirthCare-ReceivedBirthCareWithin24Hour"", ""dc/g/Children_BirthCenter-House_HealthEstablishmentType-HealthFacility_PostBirthCare-ReceivedBirthCareWithin24Hour
+Children With Birth Center = House, Health Establishment Type = Health Facility, Post Birth Care = Received Birth Care Within 24 Hour"")""",,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Children_House_HealthFacility_ReceivedBirthCareWithin24Hour_AsAFractionOf_Count_Children_House"", ""Count_Children_House_HealthFacility_ReceivedBirthCareWithin24Hour_AsAFractionOf_Count_Children_House
+Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%)"")""",,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_BirthCenter-House_HealthEstablishmentType-HealthFacility_PlaceOfResidenceClassification_PostBirthCare-ReceivedBirthCareWithin24Hour"", ""dc/g/Children_BirthCenter-House_HealthEstablishmentType-HealthFacility_PlaceOfResidenceClassification_PostBirthCare-ReceivedBirthCareWithin24Hour
+Children With Birth Center = House, Health Establishment Type = Health Facility, Place of Residence Classification, Post Birth Care = Received Birth Care Within 24 Hour"")""",,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Children_House_HealthFacility_Rural_ReceivedBirthCareWithin24Hour_AsAFractionOf_Count_Children_House_Rural"", ""Count_Children_House_HealthFacility_Rural_ReceivedBirthCareWithin24Hour_AsAFractionOf_Count_Children_House_Rural
+Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%), rural"")""",,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Children_House_HealthFacility_Urban_ReceivedBirthCareWithin24Hour_AsAFractionOf_Count_Children_House_Urban"", ""Count_Children_House_HealthFacility_Urban_ReceivedBirthCareWithin24Hour_AsAFractionOf_Count_Children_House_Urban
+Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%), urban"")""",,,,,,,,,,,,,,,,,,,,
+,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_BirthCenter-House_PlaceOfResidenceClassification"", ""dc/g/Children_BirthCenter-House_PlaceOfResidenceClassification
+Children With Birth Center = House, Place of Residence Classification"")""",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_BirthCenter-House_PlaceOfResidenceClassification-Rural"", ""dc/g/Children_BirthCenter-House_PlaceOfResidenceClassification-Rural
+Children With Birth Center = House, Place of Residence Classification = Rural"")""",,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Children_House_HealthFacility_Rural_ReceivedBirthCareWithin24Hour_AsAFractionOf_Count_Children_House_Rural"", ""Count_Children_House_HealthFacility_Rural_ReceivedBirthCareWithin24Hour_AsAFractionOf_Count_Children_House_Rural
+Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%), rural"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Children_House_Rural"", ""Count_Children_House_Rural
+Count of Children: House, Rural"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_BirthCenter-House_PlaceOfResidenceClassification-Urban"", ""dc/g/Children_BirthCenter-House_PlaceOfResidenceClassification-Urban
+Children With Birth Center = House, Place of Residence Classification = Urban"")""",,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Children_House_HealthFacility_Urban_ReceivedBirthCareWithin24Hour_AsAFractionOf_Count_Children_House_Urban"", ""Count_Children_House_HealthFacility_Urban_ReceivedBirthCareWithin24Hour_AsAFractionOf_Count_Children_House_Urban
+Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%), urban"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Children_House_Urban"", ""Count_Children_House_Urban
+Count of Children: House, Urban"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_BirthCenter-House_PostBirthCare"", ""dc/g/Children_BirthCenter-House_PostBirthCare
+Children With Birth Center = House, Post Birth Care"")""",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_BirthCenter-House_PostBirthCare-ReceivedBirthCareWithin24Hour"", ""dc/g/Children_BirthCenter-House_PostBirthCare-ReceivedBirthCareWithin24Hour
+Children With Birth Center = House, Post Birth Care = Received Birth Care Within 24 Hour"")""",,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_BirthCenter-House_HealthEstablishmentType_PostBirthCare-ReceivedBirthCareWithin24Hour"", ""dc/g/Children_BirthCenter-House_HealthEstablishmentType_PostBirthCare-ReceivedBirthCareWithin24Hour
+Children With Birth Center = House, Health Establishment Type, Post Birth Care = Received Birth Care Within 24 Hour"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_BirthCenter-House_PlaceOfResidenceClassification_PostBirthCare-ReceivedBirthCareWithin24Hour"", ""dc/g/Children_BirthCenter-House_PlaceOfResidenceClassification_PostBirthCare-ReceivedBirthCareWithin24Hour
+Children With Birth Center = House, Place of Residence Classification, Post Birth Care = Received Birth Care Within 24 Hour"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Children_House_HealthFacility_Rural_ReceivedBirthCareWithin24Hour_AsAFractionOf_Count_Children_House_Rural"", ""Count_Children_House_HealthFacility_Rural_ReceivedBirthCareWithin24Hour_AsAFractionOf_Count_Children_House_Rural
+Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%), rural"")""",,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Children_House_HealthFacility_Urban_ReceivedBirthCareWithin24Hour_AsAFractionOf_Count_Children_House_Urban"", ""Count_Children_House_HealthFacility_Urban_ReceivedBirthCareWithin24Hour_AsAFractionOf_Count_Children_House_Urban
+Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%), urban"")""",,,,,,,,,,,,,,,,,,,,,,
+,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_HealthEstablishmentType"", ""dc/g/Children_HealthEstablishmentType
+Children by Health Establishment Type"")""",,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_HealthEstablishmentType-HealthFacility"", ""dc/g/Children_HealthEstablishmentType-HealthFacility
+Children With Health Establishment Type = Health Facility"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_BirthCenter_HealthEstablishmentType-HealthFacility"", ""dc/g/Children_BirthCenter_HealthEstablishmentType-HealthFacility
+Children With Birth Center, Health Establishment Type = Health Facility"")""",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_HealthEstablishmentType-HealthFacility_PlaceOfResidenceClassification"", ""dc/g/Children_HealthEstablishmentType-HealthFacility_PlaceOfResidenceClassification
+Children With Health Establishment Type = Health Facility, Place of Residence Classification"")""",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Children_House_HealthFacility_Rural_ReceivedBirthCareWithin24Hour_AsAFractionOf_Count_Children_House_Rural"", ""Count_Children_House_HealthFacility_Rural_ReceivedBirthCareWithin24Hour_AsAFractionOf_Count_Children_House_Rural
+Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%), rural"")""",,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Children_House_HealthFacility_Urban_ReceivedBirthCareWithin24Hour_AsAFractionOf_Count_Children_House_Urban"", ""Count_Children_House_HealthFacility_Urban_ReceivedBirthCareWithin24Hour_AsAFractionOf_Count_Children_House_Urban
+Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%), urban"")""",,,,,,,,,,,,,,,,,,,,,,,,
+,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_HealthEstablishmentType-HealthFacility_PostBirthCare"", ""dc/g/Children_HealthEstablishmentType-HealthFacility_PostBirthCare
+Children With Health Establishment Type = Health Facility, Post Birth Care"")""",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_HealthEstablishmentType-HealthFacility_PostBirthCare-ReceivedBirthCareWithin24Hour"", ""dc/g/Children_HealthEstablishmentType-HealthFacility_PostBirthCare-ReceivedBirthCareWithin24Hour
+Children With Health Establishment Type = Health Facility, Post Birth Care = Received Birth Care Within 24 Hour"")""",,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_BirthCenter_HealthEstablishmentType-HealthFacility_PostBirthCare-ReceivedBirthCareWithin24Hour"", ""dc/g/Children_BirthCenter_HealthEstablishmentType-HealthFacility_PostBirthCare-ReceivedBirthCareWithin24Hour
+Children With Birth Center, Health Establishment Type = Health Facility, Post Birth Care = Received Birth Care Within 24 Hour"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_HealthEstablishmentType-HealthFacility_PlaceOfResidenceClassification_PostBirthCare-ReceivedBirthCareWithin24Hour"", ""dc/g/Children_HealthEstablishmentType-HealthFacility_PlaceOfResidenceClassification_PostBirthCare-ReceivedBirthCareWithin24Hour
+Children With Health Establishment Type = Health Facility, Place of Residence Classification, Post Birth Care = Received Birth Care Within 24 Hour"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Children_House_HealthFacility_Rural_ReceivedBirthCareWithin24Hour_AsAFractionOf_Count_Children_House_Rural"", ""Count_Children_House_HealthFacility_Rural_ReceivedBirthCareWithin24Hour_AsAFractionOf_Count_Children_House_Rural
+Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%), rural"")""",,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Children_House_HealthFacility_Urban_ReceivedBirthCareWithin24Hour_AsAFractionOf_Count_Children_House_Urban"", ""Count_Children_House_HealthFacility_Urban_ReceivedBirthCareWithin24Hour_AsAFractionOf_Count_Children_House_Urban
+Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%), urban"")""",,,,,,,,,,,,,,,,,,,,,,
+,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_HealthEstablishmentType-HealthFacilityHealthProvider"", ""dc/g/Children_HealthEstablishmentType-HealthFacilityHealthProvider
+Children With Health Establishment Type = Health Facility & Health Provider"")""",,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_HealthEstablishmentType-HealthFacilityHealthProvider_MedicalCondition"", ""dc/g/Children_HealthEstablishmentType-HealthFacilityHealthProvider_MedicalCondition
+Children With Health Establishment Type = Health Facility & Health Provider, Medical Condition"")""",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_HealthEstablishmentType-HealthFacilityHealthProvider_MedicalCondition-Diarrhea"", ""dc/g/Children_HealthEstablishmentType-HealthFacilityHealthProvider_MedicalCondition-Diarrhea
+Children With Health Establishment Type = Health Facility & Health Provider, Medical Condition = Diarrhea"")""",,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Children_HealthFacilityOrHealthProvider_ConditionDiarrhea_AsAFractionOf_Count_Children_ConditionDiarrhea"", ""Count_Children_HealthFacilityOrHealthProvider_ConditionDiarrhea_AsAFractionOf_Count_Children_ConditionDiarrhea
+Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%)"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_HealthEstablishmentType-HealthFacilityHealthProvider_MedicalCondition-Diarrhea_PlaceOfResidenceClassification"", ""dc/g/Children_HealthEstablishmentType-HealthFacilityHealthProvider_MedicalCondition-Diarrhea_PlaceOfResidenceClassification
+Children With Health Establishment Type = Health Facility & Health Provider, Medical Condition = Diarrhea, Place of Residence Classification"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Children_HealthFacilityOrHealthProvider_ConditionDiarrhea_Rural_AsAFractionOf_Count_Children_ConditionDiarrhea_Rural"", ""Count_Children_HealthFacilityOrHealthProvider_ConditionDiarrhea_Rural_AsAFractionOf_Count_Children_ConditionDiarrhea_Rural
+Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%), rural"")""",,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Children_HealthFacilityOrHealthProvider_ConditionDiarrhea_Urban_AsAFractionOf_Count_Children_ConditionDiarrhea_Urban"", ""Count_Children_HealthFacilityOrHealthProvider_ConditionDiarrhea_Urban_AsAFractionOf_Count_Children_ConditionDiarrhea_Urban
+Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%), urban"")""",,,,,,,,,,,,,,,,,,,,,,
+,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_HealthEstablishmentType-HealthFacilityHealthProvider_MedicalCondition-FeverSymptomsOfAcuteRespiratoryInfection"", ""dc/g/Children_HealthEstablishmentType-HealthFacilityHealthProvider_MedicalCondition-FeverSymptomsOfAcuteRespiratoryInfection
+Children With Health Establishment Type = Health Facility & Health Provider, Medical Condition = Fever & Symptoms of Acute Respiratory Infection"")""",,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Children_HealthFacilityOrHealthProvider_ConditionFeverOrSymptomsOfAcuteRespiratoryInfection_AsAFractionOf_Count_Children_ConditionFeverOrSymptomsOfAcuteRespiratoryInfection"", ""Count_Children_HealthFacilityOrHealthProvider_ConditionFeverOrSymptomsOfAcuteRespiratoryInfection_AsAFractionOf_Count_Children_ConditionFeverOrSymptomsOfAcuteRespiratoryInfection
+Children with fever or symptoms of acute respiratory infection in the 2 weeks preceding the survey taken to a health facility or health provider (%)"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/dc/g/Children_HealthEstablishmentType-HealthFacilityHealthProvider_MedicalCondition-FeverSymptomsOfAcuteRespiratoryInfection_PlaceOfResidenceClassification"", ""dc/g/Children_HealthEstablishmentType-HealthFacilityHealthProvider_MedicalCondition-FeverSymptomsOfAcuteRespiratoryInfection_PlaceOfResidenceClassification
+Children With Health Establishment Type = Health Facility & Health Provider, Medical Condition = Fever & Symptoms of Acute Respiratory Infection, Place of Residence Classification"")""",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,"""=HYPERLINK(""https://datacommons.org/browser/Count_Children_HealthFacilityOrHealthProvider_ConditionFeverOrSymptomsOfAcuteRespiratoryInfection_Rural_AsAFractionOf_Count_Children_ConditionFeverOrSymptomsOfAcuteRespiratoryInfection_Rural"", ""Count_Children_HealthFacilityOrHealthProvider_ConditionFeverOrSymptomsOfAcuteRespiratoryInfection_Rural_AsAFractionOf_Count_Children_ConditionFeverOrSymptomsOfAcuteRespiratoryInfection_Rural
+Children with fever or symptoms of acute respiratory infection in the 2 weeks preceding the survey taken to a health facility or health provider (%), rural"")""",,,,,,,,,,,,,,,,,,,,,,
