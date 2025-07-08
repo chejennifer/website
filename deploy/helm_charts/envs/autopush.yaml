@@ -62,6 +62,16 @@ nl:
       - sdg_ft
       - undata_ft
       - undata_ilo_ft
+      - agriculture_uae_mem
+      - demographics_uae_mem
+      - crime_uae_mem
+      - education_uae_mem
+      - energy_uae_mem
+      - environment_uae_mem
+      - health_uae_mem
+      - housing_uae_mem
+      - sdg_uae_mem
+      - economy_uae_mem
     vertex_ai_models:
       uae-large-v1-model:
         project_id: datcom-nl
