@@ -93,6 +93,66 @@ indexes:
     embeddings_path: gs://datcom-nl-models/base_mistral_mem_2024_07_01_10_23_43/embeddings.csv
     model: sfr-embedding-mistral-model
     healthcheck_query: "Life expectancy"
+  agriculture_uae_mem:
+    store_type: MEMORY
+    source_path: ../../tools/nl/embeddings/input/agriculture_sv
+    embeddings_path: gs://datcom-nl-models/agriculture_uae_mem_2025_02_23_14_43_25/embeddings.csv
+    model: uae-large-v1-model
+    healthcheck_query: "Life expectancy"
+  demographics_uae_mem:
+    store_type: MEMORY
+    source_path: ../../tools/nl/embeddings/input/demographics_sv
+    embeddings_path: gs://datcom-nl-models/demographics_uae_mem_2025_02_23_14_43_25/embeddings.csv
+    model: uae-large-v1-model
+    healthcheck_query: "Life expectancy"
+  crime_uae_mem:
+    store_type: MEMORY
+    source_path: ../../tools/nl/embeddings/input/crime_sv
+    embeddings_path: gs://datcom-nl-models/crime_uae_mem_2025_02_23_14_43_25/embeddings.csv
+    model: uae-large-v1-model
+    healthcheck_query: "Life expectancy"
+  education_uae_mem:
+    store_type: MEMORY
+    source_path: ../../tools/nl/embeddings/input/education_sv
+    embeddings_path: gs://datcom-nl-models/education_uae_mem_2025_02_23_14_43_25/embeddings.csv
+    model: uae-large-v1-model
+    healthcheck_query: "Life expectancy"
+  energy_uae_mem:
+    store_type: MEMORY
+    source_path: ../../tools/nl/embeddings/input/energy_sv
+    embeddings_path: gs://datcom-nl-models/energy_uae_mem_2025_02_23_14_43_25/embeddings.csv
+    model: uae-large-v1-model
+    healthcheck_query: "Life expectancy"
+  environment_uae_mem:
+    store_type: MEMORY
+    source_path: ../../tools/nl/embeddings/input/environment_sv
+    embeddings_path: gs://datcom-nl-models/environment_uae_mem_2025_02_23_14_43_25/embeddings.csv
+    model: uae-large-v1-model
+    healthcheck_query: "Life expectancy"
+  health_uae_mem:
+    store_type: MEMORY
+    source_path: ../../tools/nl/embeddings/input/health_sv
+    embeddings_path: gs://datcom-nl-models/health_uae_mem_2025_02_23_14_43_25/embeddings.csv
+    model: uae-large-v1-model
+    healthcheck_query: "Life expectancy"
+  housing_uae_mem:
+    store_type: MEMORY
+    source_path: ../../tools/nl/embeddings/input/housing_sv
+    embeddings_path: gs://datcom-nl-models/housing_uae_mem_2025_02_23_14_43_25/embeddings.csv
+    model: uae-large-v1-model
+    healthcheck_query: "Life expectancy"
+  sdg_uae_mem:
+    store_type: MEMORY
+    source_path: ../../tools/nl/embeddings/input/sdg_sv
+    embeddings_path: gs://datcom-nl-models/sdg_uae_mem_2025_02_23_14_43_25/embeddings.csv
+    model: uae-large-v1-model
+    healthcheck_query: "Life expectancy"
+  economy_uae_mem:
+    store_type: MEMORY
+    source_path: ../../tools/nl/embeddings/input/economy_sv
+    embeddings_path: gs://datcom-nl-models/economy_uae_mem_2025_02_23_14_43_25/embeddings.csv
+    model: uae-large-v1-model
+    healthcheck_query: "Life expectancy"
 
 models:
   uae-large-v1-model:
