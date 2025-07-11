@@ -153,6 +153,12 @@ indexes:
     embeddings_path: gs://datcom-nl-models/economy_uae_mem_2025_02_23_14_43_25/embeddings.csv
     model: uae-large-v1-model
     healthcheck_query: "Life expectancy"
+  svg_uae_mem:
+    store_type: MEMORY
+    source_path: ../../tools/nl/embeddings/input/svg
+    embeddings_path: gs://datcom-nl-models/svg_uae_mem_2025_07_10_21_34_03/embeddings.csv
+    model: uae-large-v1-model
+    healthcheck_query: "Life expectancy"
 
 models:
   uae-large-v1-model:

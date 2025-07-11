@@ -72,6 +72,7 @@ nl:
       - housing_uae_mem
       - sdg_uae_mem
       - economy_uae_mem
+      - svg_uae_mem
     vertex_ai_models:
       uae-large-v1-model:
         project_id: datcom-nl
